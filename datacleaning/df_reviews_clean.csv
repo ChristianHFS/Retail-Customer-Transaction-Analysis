@@ -1,0 +1,1001 @@
+review_id,customer_id,product_name,product_category,full_name,transaction_date,review_date,rating,review_title
+rev_000001,e9848049-323f-4f95-a26e-3cffc219d591,Bookshelf,Furniture,Patrick Guerrero,2024-05-30,2024-06-12,5,Sturdy and Elegant Addition to My Study Room
+rev_000002,24bcc3c6-ce17-423f-87f5-a1f6d1114ba7,Oculus Quest,Gaming Consoles,Katie Burton,2024-03-10,2024-04-05,5,Immersive Virtual Reality Adventure!
+rev_000003,8806399f-1c9b-47f7-b8ca-fac5468438ff,OnePlus 10,Smartphones,Fernando Rogers,2024-06-14,2024-06-29,4,"Impressive Performance, Room for Improvement in Battery Life"
+rev_000004,62ab496d-f69a-48af-b44c-08ac79b6f68d,iPhone 13,Smartphones,Sara Howell,2024-03-27,2024-04-06,4,"Solid Upgrade, Could've Been Perfect!"
+rev_000005,1b7daed4-aaa6-41b1-9826-0d51d67614e3,Bookshelf,Furniture,Kelly Kim,2023-08-16,2023-09-01,4,"Sturdy, Yet Lacking Personality"
+rev_000006,3353148b-3cfd-4603-9f0f-d6ca3652a931,Comforter Set,Bedding,Vernon Garrett,2022-11-07,2022-11-14,5,Dreamy Slumber Achieved with This Comforter Set!
+rev_000007,25750c54-2dbd-4f79-9a0e-1d1fe3e9ddf9,Microsoft Surface,Tablets,Troy Taylor,2023-07-26,2023-08-12,5,Exceptional Workhorse for the Modern Creative Professional
+rev_000008,a86087fa-14b4-4049-a263-d71bef66f20d,Range Hood,Kitchen Appliances,Larry Young,2023-04-07,2023-04-30,5,Exceptional Range Hood Performance
+rev_000009,eca0551d-19da-4c17-bd8b-35190c3fc3e4,Refrigerator,Kitchen Appliances,Melissa Davis,2024-08-24,2024-09-19,5,Incredible Efficiency and Sleek Design in my New Refrigerator!
+rev_000010,2b667e27-cdb3-4bf7-b34b-0318e531fc5b,Microwave Oven,Kitchen Appliances,Teresa Johnson,2024-10-30,2024-11-20,5,A Game Changer in My Kitchen!
+rev_000011,0bea62bb-8f30-48e6-a8a5-43cbbd950773,Bed Frame,Furniture,Angel Holmes,2023-11-21,2023-12-13,3,Sturdy yet Lacking in Aesthetics
+rev_000012,f0565a60-e1ca-474c-8206-6024975f7510,,Cookware,Katherine Sellers,2022-10-01,2022-10-27,4,Decent Stainless Steel Pan for the Price
+rev_000013,0d81ab41-dba9-42d2-95c5-9ea4863dda01,Dining Table,Furniture,Derrick Bush,2022-05-08,2022-05-15,3,Solid but Needs Some Polish
+rev_000014,2da6e100-37ac-48ee-8878-98c9686b24a4,PlayStation 5,Gaming Consoles,Nicholas Friedman,2020-08-30,2020-09-13,3,Initial Impressions of the PlayStation 5
+rev_000015,d8c16bed-2f10-4e21-ab0d-baf3b85cf3a9,Sony Bravia,TVs,Cheryl Gaines,2023-04-26,2023-05-11,5,Exceptional Viewing Experience with the Sony Bravia!
+rev_000016,1741f124-3a60-4087-9ace-d4b8962d25ba,LG OLED TV,TVs,Virginia Freeman,2023-12-18,2024-01-08,4,"Great Picture Quality, But Navigation Needs Improvement"
+rev_000017,df1d8d34-ed84-469c-8a76-ada804ee8926,Asus ZenBook,Laptops,Kathleen Simpson,2023-11-23,2023-11-30,4,"Solid Performer, But Needs a Little More Pizzazz"
+rev_000018,223dec46-1e22-4adc-979a-4b0c6c555def,Bookshelf,Furniture,Randy Wolfe,2023-08-10,2023-08-19,3,"Decent Shelf, Could've Been Better"
+rev_000019,cabc7dad-0661-44a8-ad3a-3fb21c66dd93,Mattress Topper,Bedding,Lindsey Taylor,2024-06-22,2024-07-11,4,"Decent Comfort, Wish It Lasted Longer"
+rev_000020,32a24901-aa20-43ff-b1e3-60e60d94a56a,Asus ZenBook,Laptops,Logan Townsend,2024-04-26,2024-05-12,3,"Solid Laptop, But Needs Some Polishing"
+rev_000021,a628d8e0-7796-4728-b585-2864ed4960a7,Coffee Maker,Small Kitchen Appliances,Travis Escobar,2022-11-05,2022-11-13,3,"Functional, But Lacks Personality"
+rev_000022,d09163fb-2b4b-40b7-a4ee-ef5db31fc018,TCL Roku TV,TVs,Anthony Rivera,2022-03-15,2022-04-02,5,Brilliant Home Entertainment Upgrade!
+rev_000023,e3705cf8-2bb3-4e89-8178-0aa3ef40dae3,Nintendo Switch,Unknown Category,Eric Washington,2023-06-14,2023-07-11,4,"A Great Portable Gaming Experience, but Battery Life Needs Improvement"
+rev_000024,c7ea78c6-05a3-42ab-865c-95df1d220100,Nintendo Switch,Gaming Consoles,Steven Owen,2023-01-19,2023-02-11,5,A New Gaming Favorite!
+rev_000025,355391d9-905f-45cc-b507-628740885b97,Google Pixel 6,Smartphones,Ashley Bell,2025-01-16,2025-02-14,2,Disappointed with Google Pixel 6 Performance
+rev_000026,f5564ea5-7a51-4b4f-878b-749b05992cc2,Duvet Cover,Bedding,Darius Wagner,2024-09-16,2024-10-04,3,Mixed Feelings About This Duvet Cover
+rev_000027,766e5911-549d-431a-99f4-fb97e73fcdb0,iPhone 13,Smartphones,Dustin Reynolds,2024-02-10,2024-03-01,4,"Noteworthy Upgrade, But Room for Improvements"
+rev_000028,b0ce4101-ab43-4e3c-ae89-7c96ef6f40e3,Philips Hue Lights,Smart Home Devices,Brady Johnson,2025-02-03,2025-02-10,4,"Impressive Smart Lighting, Slightly Complicated Setup"
+rev_000029,455c05cc-3c5c-4f02-bd67-d412d9d25394,Google Nest,Smart Home Devices,Paul Clark,2023-08-30,2023-09-02,5,Transforming Home Comfort with Google Nest
+rev_000030,77da6294-6c03-4404-b176-3e146e8c30b6,Dell XPS 15,Laptops,James Smith,2024-09-13,2024-10-01,4,"Almost Perfect, Could Be Better"
+rev_000031,d88de982-c271-48cc-845a-f11cac413f0b,,Kitchen Appliances,Michelle Wallace,2022-08-03,2022-08-30,4,"Impressive, Yet a Few Niggles!"
+rev_000032,e9c3c256-aec1-49fe-aea6-0e44320bf9e5,Oculus Quest,Gaming Consoles,Christopher Case,2023-07-28,2023-08-07,5,Immersive Virtual Reality Experience at its Best!
+rev_000033,6639b4f4-e5c7-4ebd-9288-ffc603e2a36e,Bookshelf,Furniture,Christopher Smith,2024-04-18,2024-04-25,1,Flimsy and Unstable Bookshelf Ruined My Valuable Books Collection
+rev_000034,2e788a15-e36e-46c1-9868-0c59cd3db469,Throw Pillows,Home Decor,Andrew Palmer,2024-11-16,2024-12-03,4,Pleasingly Padded Comfort
+rev_000035,7537ac63-0f06-40ef-8ba0-5938ed123112,Xbox Series X,Gaming Consoles,Sarah Figueroa,2024-12-13,2024-12-27,5,A Game Changer in My Life!
+rev_000036,2278c433-947e-4bc7-ba7a-4bc6216e9b86,Google Pixel 6,Smartphones,Kristin Phillips,2024-12-26,2025-01-19,5,Impressed by Google's Innovation!
+rev_000037,694e3e7f-8924-495d-98ba-312cba6ebd30,iPhone 13,Smartphones,Alexandra Schmidt,2023-01-20,2023-01-23,4,"Impressive, Yet Room for Improvement"
+rev_000038,4b0280bd-65d5-454c-9a06-51855ae3509d,Google Pixel 6,Smartphones,Erin Gillespie,2025-01-18,2025-01-30,5,Pixel 6: A Game Changer in Mobility!
+rev_000039,88f81be5-7968-49f1-8bd6-9350f5b74d9f,TCL Roku TV,TVs,Teresa Marshall,2024-12-25,2025-01-22,5,Exceptional Smart TV Experience!
+rev_000040,6f1fe999-ce23-45f6-a8b3-df169f9c5b7b,Table Lamp,Home Decor,Mary Diaz,2023-11-21,2023-12-04,4,A Decent Table Lamp with a Few Glitches
+rev_000041,aad2c4c7-2ccd-471b-942f-70e8a7c517bc,Microwave Oven,Kitchen Appliances,Bonnie Freeman,2023-09-13,2023-09-15,5,Perfect addition to my kitchen!
+rev_000042,0987520b-52f3-43d5-8fe4-5b139bdb2729,Google Nest,Smart Home Devices,Melanie Murillo,2024-11-04,2024-11-07,4,"Decent Smart Thermostat, Could Use a Few More Features"
+rev_000043,b98f73d5-5b0d-4c9f-8c49-e73c870d23f3,Oculus Quest,Gaming Consoles,Barbara King,2024-11-17,2024-11-22,4,"Immersive Gaming, Yet Room for Improvement"
+rev_000044,4b162f5e-786a-4148-83a1-780aaebf69d2,,Furniture,Melvin Kelley,2024-10-15,2024-10-26,4,"Decent, but lacks the finishing touch"
+rev_000045,0af61042-4308-4883-b2d4-f68987068349,Microsoft Surface,Tablets,Matthew Williams,2023-12-07,2023-12-15,4,"Good tablet, room for improvement"
+rev_000046,7383a712-220e-4044-900a-eae98a5c7a0f,Knife Set,Cookware,Timothy Petersen,2023-07-01,2023-07-27,5,Tim's Treasured Triumph in Culinary Craftsmanship
+rev_000047,f4cc2347-a6a6-40ee-9fc6-cc6d75b36929,Wall Art,Home Decor,Keith Gould,2023-09-03,2023-09-26,4,"Lovely wall art, minor assembly issues"
+rev_000048,88af5169-3cb9-4391-a7f7-0fe10c554cff,Samsung Galaxy S22,Smartphones,Michael Graham,2021-12-07,2021-12-30,5,A Stunning Leap Forward!
+rev_000049,8118b5df-246b-4da3-a645-04f47d24f067,Electric Range,Kitchen Appliances,Sabrina Nicholson,2024-05-12,2024-05-24,5,A Dream Come True in the Kitchen!
+rev_000050,89fba4c0-68b7-4e37-bd5d-cfb50a56d3ce,Audio-Technica Turntable,Audio Equipment,Timothy Moss,2023-09-18,2023-09-25,2,Disappointing Turntable Experience
+rev_000051,98610eed-9486-4ae3-9879-4a2e186d5c3a,Google Nest,Smart Home Devices,Kimberly Anderson,2024-12-18,2025-01-02,5,Effortlessly Optimizing Home Comfort!
+rev_000052,e9848049-323f-4f95-a26e-3cffc219d591,Bookshelf,Furniture,Patrick Guerrero,2024-05-30,2024-06-10,4,Solid yet Sleek Bookshelf for the Modern Home Office
+rev_000053,24bcc3c6-ce17-423f-87f5-a1f6d1114ba7,Oculus Quest,Gaming Consoles,Katie Burton,2024-03-10,2024-03-11,5,Immersive Virtual Reality Gaming Experience with Oculus Quest!
+rev_000054,8806399f-1c9b-47f7-b8ca-fac5468438ff,OnePlus 10,Smartphones,Fernando Rogers,2024-06-14,2024-07-03,3,Mixed Feelings about the OnePlus 10
+rev_000055,62ab496d-f69a-48af-b44c-08ac79b6f68d,iPhone 13,Smartphones,Sara Howell,2024-03-27,2024-04-17,4,"Incredible Power, Decent Battery Life, But Missing Some Personal Touch"
+rev_000056,1b7daed4-aaa6-41b1-9826-0d51d67614e3,Bookshelf,Furniture,Kelly Kim,2023-08-16,2023-08-20,1,"Disappointed with the Quality, Unstable Bookshelf"
+rev_000057,3353148b-3cfd-4603-9f0f-d6ca3652a931,Comforter Set,Bedding,Vernon Garrett,2022-11-07,2022-11-26,4,Very Cozy but Lacks Durability
+rev_000058,25750c54-2dbd-4f79-9a0e-1d1fe3e9ddf9,Microsoft Surface,Tablets,Troy Taylor,2023-07-26,2023-08-21,4,A Solid Tablet with a Few Hiccups
+rev_000059,a86087fa-14b4-4049-a263-d71bef66f20d,Range Hood,Kitchen Appliances,Larry Young,2023-04-07,2023-05-06,4,"Functional, But Needs a Few Adjustments"
+rev_000060,eca0551d-19da-4c17-bd8b-35190c3fc3e4,Refrigerator,Kitchen Appliances,Melissa Davis,2024-08-24,2024-09-14,5,Incredible Energy Efficiency and Spacious Interior!
+rev_000061,2b667e27-cdb3-4bf7-b34b-0318e531fc5b,Microwave Oven,Kitchen Appliances,Teresa Johnson,2024-10-30,2024-11-10,4,Efficient but Lacks Personality
+rev_000062,0bea62bb-8f30-48e6-a8a5-43cbbd950773,Bed Frame,Furniture,Angel Holmes,2023-11-21,2023-11-29,4,A Sturdy but Somewhat Heavy Bed Frame
+rev_000063,f0565a60-e1ca-474c-8206-6024975f7510,,Cookware,Katherine Sellers,2022-10-01,2022-10-12,3,"Quality nan cookware, but size could be better"
+rev_000064,0d81ab41-dba9-42d2-95c5-9ea4863dda01,Dining Table,Furniture,Derrick Bush,2022-05-08,2022-05-12,4,"Decent Dining Table, Could Use Some Improvements"
+rev_000065,2da6e100-37ac-48ee-8878-98c9686b24a4,PlayStation 5,Gaming Consoles,Nicholas Friedman,2020-08-30,2020-09-16,3,"Solid Gaming, Some Annoyances with the PS5"
+rev_000066,d8c16bed-2f10-4e21-ab0d-baf3b85cf3a9,Sony Bravia,TVs,Cheryl Gaines,2023-04-26,2023-05-23,2,Disappointed with Sony Bravia
+rev_000067,1741f124-3a60-4087-9ace-d4b8962d25ba,LG OLED TV,TVs,Virginia Freeman,2023-12-18,2023-12-25,5,Incredible Visual Experience with the LG OLED TV
+rev_000068,df1d8d34-ed84-469c-8a76-ada804ee8926,Asus ZenBook,Laptops,Kathleen Simpson,2023-11-23,2023-12-01,5,Impressed by the ZenBook's Power and Design!
+rev_000069,223dec46-1e22-4adc-979a-4b0c6c555def,Bookshelf,Furniture,Randy Wolfe,2023-08-10,2023-08-13,5,Solid Investment for the Home Library
+rev_000070,cabc7dad-0661-44a8-ad3a-3fb21c66dd93,Mattress Topper,Bedding,Lindsey Taylor,2024-06-22,2024-07-14,4,"Adequate Sleep Support, but Room for Improvement"
+rev_000071,32a24901-aa20-43ff-b1e3-60e60d94a56a,Asus ZenBook,Laptops,Logan Townsend,2024-04-26,2024-04-28,4,"A Solid Performer, Needs Some Fine-tuning"
+rev_000072,a628d8e0-7796-4728-b585-2864ed4960a7,Coffee Maker,Small Kitchen Appliances,Travis Escobar,2022-11-05,2022-11-28,5,"Perfect Brew, Every Time!"
+rev_000073,d09163fb-2b4b-40b7-a4ee-ef5db31fc018,TCL Roku TV,TVs,Anthony Rivera,2022-03-15,2022-03-30,4,Impressive Smart TV with a Few Quirks
+rev_000074,e3705cf8-2bb3-4e89-8178-0aa3ef40dae3,Nintendo Switch,Unknown Category,Eric Washington,2023-06-14,2023-07-08,4,Almost Perfect Handheld Gaming Experience
+rev_000075,c7ea78c6-05a3-42ab-865c-95df1d220100,Nintendo Switch,Gaming Consoles,Steven Owen,2023-01-19,2023-02-10,1,Disappointing Battery Life Ruins Nintendo Switch Experience
+rev_000076,355391d9-905f-45cc-b507-628740885b97,Google Pixel 6,Smartphones,Ashley Bell,2025-01-16,2025-02-07,4,Decent Improvement but Missing Some Key Features
+rev_000077,f5564ea5-7a51-4b4f-878b-749b05992cc2,Duvet Cover,Bedding,Darius Wagner,2024-09-16,2024-09-21,4,"A Pleasant, Yet Not Perfect Duvet Cover"
+rev_000078,766e5911-549d-431a-99f4-fb97e73fcdb0,iPhone 13,Smartphones,Dustin Reynolds,2024-02-10,2024-03-05,4,"A Solid Upgrade, Just Needs a Few Tweaks"
+rev_000079,b0ce4101-ab43-4e3c-ae89-7c96ef6f40e3,Philips Hue Lights,Smart Home Devices,Brady Johnson,2025-02-03,2025-02-04,4,"Impressive Smart Lighting, Room for Improvement"
+rev_000080,455c05cc-3c5c-4f02-bd67-d412d9d25394,Google Nest,Smart Home Devices,Paul Clark,2023-08-30,2023-09-25,4,"Solid Smart Home Experience, But Room for Improvement"
+rev_000081,77da6294-6c03-4404-b176-3e146e8c30b6,Dell XPS 15,Laptops,James Smith,2024-09-13,2024-09-17,5,"A Powerful, Precise Workstation"
+rev_000082,d88de982-c271-48cc-845a-f11cac413f0b,,Kitchen Appliances,Michelle Wallace,2022-08-03,2022-08-18,5,My New nan - Game Changer in the Kitchen!
+rev_000083,e9c3c256-aec1-49fe-aea6-0e44320bf9e5,Oculus Quest,Gaming Consoles,Christopher Case,2023-07-28,2023-08-17,5,Incredible VR Experience with Oculus Quest
+rev_000084,6639b4f4-e5c7-4ebd-9288-ffc603e2a36e,Bookshelf,Furniture,Christopher Smith,2024-04-18,2024-05-07,5,A Solid Addition to My Home Office
+rev_000085,2e788a15-e36e-46c1-9868-0c59cd3db469,Throw Pillows,Home Decor,Andrew Palmer,2024-11-16,2024-11-19,5,Perfect Addition to My Living Room
+rev_000086,7537ac63-0f06-40ef-8ba0-5938ed123112,Xbox Series X,Gaming Consoles,Sarah Figueroa,2024-12-13,2025-01-02,1,Disappointing Purchase - Xbox Series X
+rev_000087,2278c433-947e-4bc7-ba7a-4bc6216e9b86,Google Pixel 6,Smartphones,Kristin Phillips,2024-12-26,2025-01-06,3,Mixed Feelings about Google Pixel 6
+rev_000088,694e3e7f-8924-495d-98ba-312cba6ebd30,iPhone 13,Smartphones,Alexandra Schmidt,2023-01-20,2023-02-06,1,Disappointed with the iPhone 13
+rev_000089,4b0280bd-65d5-454c-9a06-51855ae3509d,Google Pixel 6,Smartphones,Erin Gillespie,2025-01-18,2025-02-14,5,A Game Changer in Mobile Technology!
+rev_000090,88f81be5-7968-49f1-8bd6-9350f5b74d9f,TCL Roku TV,TVs,Teresa Marshall,2024-12-25,2025-01-07,5,Exceptional Visual Experience with the TCL Roku TV
+rev_000091,6f1fe999-ce23-45f6-a8b3-df169f9c5b7b,Table Lamp,Home Decor,Mary Diaz,2023-11-21,2023-12-02,3,"Decent Table Lamp, But Needs Improvements"
+rev_000092,aad2c4c7-2ccd-471b-942f-70e8a7c517bc,Microwave Oven,Kitchen Appliances,Bonnie Freeman,2023-09-13,2023-09-15,5,Absolutely Love My New Microwave!
+rev_000093,0987520b-52f3-43d5-8fe4-5b139bdb2729,Google Nest,Smart Home Devices,Melanie Murillo,2024-11-04,2024-11-13,2,Disappointing Experience with Google Nest
+rev_000094,b98f73d5-5b0d-4c9f-8c49-e73c870d23f3,Oculus Quest,Gaming Consoles,Barbara King,2024-11-17,2024-12-13,5,A Gaming Experience Like No Other!
+rev_000095,4b162f5e-786a-4148-83a1-780aaebf69d2,,Furniture,Melvin Kelley,2024-10-15,2024-10-17,4,"Decent Modern Shelving Unit, Room for Improvement"
+rev_000096,0af61042-4308-4883-b2d4-f68987068349,Microsoft Surface,Tablets,Matthew Williams,2023-12-07,2023-12-28,3,"Solid Tablet, But Needs Improvement"
+rev_000097,7383a712-220e-4044-900a-eae98a5c7a0f,Knife Set,Cookware,Timothy Petersen,2023-07-01,2023-07-10,4,"A Decent Cutlery Collection, Yet Room for Improvement"
+rev_000098,f4cc2347-a6a6-40ee-9fc6-cc6d75b36929,Wall Art,Home Decor,Keith Gould,2023-09-03,2023-09-12,4,Stunning Wall Art but Installation Could Be Easier
+rev_000099,88af5169-3cb9-4391-a7f7-0fe10c554cff,Samsung Galaxy S22,Smartphones,Michael Graham,2021-12-07,2021-12-15,4,"Great Performance, Few Nitpicks"
+rev_000100,8118b5df-246b-4da3-a645-04f47d24f067,Electric Range,Kitchen Appliances,Sabrina Nicholson,2024-05-12,2024-05-29,4,"A Good Start, Room for Improvement"
+rev_000101,89fba4c0-68b7-4e37-bd5d-cfb50a56d3ce,Audio-Technica Turntable,Audio Equipment,Timothy Moss,2023-09-18,2023-09-19,5,A Superb Vinyl Spin with the Audio-Technica Turntable
+rev_000102,98610eed-9486-4ae3-9879-4a2e186d5c3a,Google Nest,Smart Home Devices,Kimberly Anderson,2024-12-18,2025-01-12,4,"A Convenient Companion, But Could Use Some Polish"
+rev_000103,4f8130a3-7573-4b12-a4a9-5c2f5f948875,External Hard Drive,Computer Accessories,George Collins,2025-01-28,2025-02-26,4,"A Solid Storage Solution, But Room for Improvement"
+rev_000104,a8b2405c-e840-4b29-9ff0-7ea8b28770e4,Knife Set,Cookware,Jonathan Smith,2024-06-29,2024-07-10,5,"Impressive Quality, Unmatched Precision!"
+rev_000105,4ac913b6-9eb4-4d5a-b1fa-ac0ae2142491,Area Rug,Home Decor,Heather Castillo,2023-07-26,2023-08-03,5,Stunning Addition to My Living Room!
+rev_000106,8b423a9e-4765-42c5-852d-ad4ea7245463,Area Rug,Home Decor,Victor Lopez,2023-11-10,2023-11-20,4,Decent Addition to My Living Room
+rev_000107,755d7290-c4f6-4b3e-b0ec-ff04b036d156,Sonos Speaker,Audio Equipment,,2024-07-19,2024-08-13,4,"Sonos Speaker - Quality Sound, Some Connectivity Issues"
+rev_000108,a200e188-fa66-4743-9dc5-77bd5c51752c,Refrigerator,Kitchen Appliances,John Shaw,2024-10-03,2024-10-10,3,Mixed Feelings About the New Fridge
+rev_000109,486ae1ae-59f7-4b0f-aa91-1104b8eb41a8,Xiaomi Mi 12,Smartphones,Stephanie Clark,2023-12-30,2024-01-02,3,Mi 12: Solid Performance with Some Flaws
+rev_000110,067a1737-5289-4e3c-9180-6594ff2f489e,Wall Art,Home Decor,Erica Harmon,2024-11-28,2024-12-01,5,A Gorgeous Addition to My Living Space!
+rev_000111,487a3591-0d83-41be-862a-eeb1544622a9,Coffee Maker,Small Kitchen Appliances,Jenna Moses,2023-12-04,2023-12-22,3,Mixed Feelings About My New Coffee Maker
+rev_000112,27a7f696-7ec5-472b-b6a6-8b3fec00f448,Microwave Oven,Kitchen Appliances,Stephanie Murray,2024-03-09,2024-03-14,4,"A Decent Microwave, But Needs Improvements"
+rev_000113,b3910604-f47b-4672-974f-07db1007f56b,Table Lamp,Home Decor,Catherine Brown,2024-04-09,2024-04-21,5,Perfect Addition to My Living Room!
+rev_000114,6bd0a0f6-73e4-4856-a937-27b11bbfae49,Smart Thermostat,Smart Home Devices,Jenna Fry,2024-01-28,2024-02-09,3,Balanced Experience with the Smart Thermostat
+rev_000115,4795418a-acf3-44b2-805a-7b8c4545f04b,Vizio SmartCast TV,TVs,Brenda Harper,2024-04-24,2024-05-13,4,A Smart Choice with a Few Glitches
+rev_000116,9a1fd5a0-7ec8-40bf-a1fa-91e2db34483d,,TVs,Emily Gillespie,2024-03-03,2024-03-09,4,"Solid Performer, Needs Some Tweaks"
+rev_000117,baa76339-8027-4c16-9b8e-5e4196c0f883,Steam Deck,Gaming Consoles,Kristine Stevens,2024-11-01,2024-11-03,5,Absolutely Gaming On-The-Go with the Steam Deck!
+rev_000118,bb3c9f20-0596-4401-a663-530427a391cc,Audio-Technica Turntable,Audio Equipment,Ashley Bailey,2023-05-20,2023-06-01,4,A Solid Spin at an Affordable Price
+rev_000119,cea1ca54-2bbf-47f9-bcda-ad5550294858,Samsung Galaxy S22,Smartphones,Michael Coleman,2024-09-01,2024-09-20,5,Impressive Powerhouse - Samsung Galaxy S22
+rev_000120,bbdeb6d8-0c99-483a-98b8-872f45ec9af7,TCL Roku TV,TVs,Susan Thompson,2023-08-13,2023-08-18,4,"Solid Smart TV Experience, Room for Improvement"
+rev_000121,c35b4287-53a3-4e07-8e28-6ce8c03191c5,Logitech Mouse,Computer Accessories,Cody Ali,2024-08-22,2024-09-03,2,"Disappointing Click Performance, Otherwise Solid Design"
+rev_000122,ae70670d-35bc-4ecd-8127-2092280b575c,Dell Inspiron Desktop,Desktop Computers,Ronald Francis,2024-02-28,2024-03-26,5,Incredible Performance Boost with the Dell Inspiron Desktop!
+rev_000123,b510e6f2-036d-4883-bd46-9d9f3a9d00e8,,Smart Home Devices,Sydney James,2021-03-22,2021-04-18,5,Perfect Addition to My Smart Home!
+rev_000124,2ca6801a-dc4c-46fa-8135-1cb240173438,Amazon Echo,Smart Home Devices,Lawrence Rose,2024-01-26,2024-02-12,5,Wish I Had Bought One Sooner!
+rev_000125,e9848049-323f-4f95-a26e-3cffc219d591,Table Lamp,Home Decor,Patrick Guerrero,2022-11-22,2022-12-21,5,Perfect addition to my living room!
+rev_000126,4990193e-6429-4479-bf56-8489dcba9deb,Google Pixel 6,Smartphones,Tiffany Burton,2024-04-17,2024-05-04,5,"Exceptional Quality, Innovative Design"
+rev_000127,715a33b1-a571-4cea-a1ce-162eb50a6361,Philips Hue Lights,Smart Home Devices,Logan Scott,2023-06-09,2023-06-19,3,Mixed Feelings About Philips Hue Lights
+rev_000128,7efe3462-fcd3-4717-851e-02357c68ad39,Sofa,Furniture,Richard Woods,2024-04-20,2024-05-15,3,"Decent Comfort, Questionable Quality"
+rev_000129,63e0f99b-e2bb-4c78-a059-ef0661df940b,Bookshelf,Furniture,Adam Griffith,2024-12-16,2025-01-08,5,"Solid, Stylish & Customizable - A Perfect Addition to My Home Library"
+rev_000130,7eae1853-b414-457c-bf4e-b1729174d401,,Smart Home Devices,Christina Cooper,2024-06-05,2024-06-22,4,"Impressive Smart Home Assistant, But Needs Slight Improvements"
+rev_000131,5a30ba9d-e1f9-4454-9472-638215cb8f0e,Nintendo Switch,Gaming Consoles,Matthew Rogers,2024-09-26,2024-10-11,5,Absolutely Impressed with the Nintendo Switch
+rev_000132,1fbeb7c0-d9b6-48a7-ae28-1f3cfc6d3fe9,Samsung Galaxy S22,Smartphones,Jesse Johnson,2021-07-17,2021-07-29,5,Impressed by Samsung's Latest Innovation!
+rev_000133,8e5b8357-d8f7-45a5-a5c8-ffa5c8848062,Bed Frame,Furniture,Scott Murphy,2023-05-07,2023-05-23,4,Decent but Needs a Little Fine-tuning
+rev_000134,252baf64-0dcd-4f21-b79e-2315ba9fbe6e,Refrigerator,Kitchen Appliances,Cody Riddle,2023-10-25,2023-11-18,3,Mixed Feelings about the New Fridge
+rev_000135,fcfa41e3-4c77-4483-a7db-bf9b1810f021,Philips Hue Lights,Smart Home Devices,Sean Russell,2022-08-10,2022-08-29,5,Brilliant Smart Home Upgrade with Philips Hue Lights!
+rev_000136,f3b5bb88-434f-4c4a-b18b-a82dcea0d88b,Refrigerator,Kitchen Appliances,Jose Woods,2024-10-08,2024-10-16,4,"Solid Kitchen Companion, Slight Hiccups"
+rev_000137,a960dd54-ee35-4731-b29e-d8de6c5793dc,Lenovo IdeaCentre,Desktop Computers,Jonathan Farrell,2023-01-26,2023-02-16,5,A Powerful & Reliable Workstation!
+rev_000138,23e89db7-68f9-4d31-97ee-a43fb857de36,LG OLED TV,TVs,Dillon Perez,2023-01-07,2023-01-24,4,"Nearly Perfect Picture Quality, But a Few Minor Issues"
+rev_000139,2587f6c0-4426-4bc7-bdbe-eaf07f755815,Lenovo ThinkPad,Laptops,Michael Jones,2023-12-23,2024-01-15,5,Exceptional Performance and Build Quality - A Game Changer!
+rev_000140,75e13860-6ff8-4563-912c-f78d83d1c1ba,Electric Range,Kitchen Appliances,Albert Powell,2024-12-19,2024-12-24,2,Disappointed with the Performance of My New Electric Range
+rev_000141,a24f5781-fbfc-42fb-9ba1-f52accd497f5,Xiaomi Mi 12,Smartphones,Katelyn Jones,2023-10-16,2023-11-07,5,Absolutely Impressed with the Xiaomi Mi 12!
+rev_000142,81a16a12-e844-4185-8a7d-b7168bf867aa,Ring Doorbell,Smart Home Devices,Geoffrey Lamb,2023-07-28,2023-08-13,4,"Solid Smart Home Addition, But Needs a Few Tweaks"
+rev_000143,a30dd753-e8cf-4e4a-814b-5396ac015a99,Toaster,Small Kitchen Appliances,Karen Vasquez,2022-04-21,2022-04-27,4,"A Solid Toaster, With Some Room for Improvement"
+rev_000144,55b06859-2979-45fa-8098-5e880ff5fccd,Dell XPS 15,Laptops,Pamela Alexander,2024-12-24,2025-01-01,3,Mixed Feelings About the Dell XPS 15
+rev_000145,9b9f832f-e17f-4518-8055-081b4fb4b20e,Dutch Oven,Cookware,Jonathan Meyers,2023-08-11,2023-09-05,5,Exceptional Dutch Oven for Every Meal Preparation!
+rev_000146,5749293c-4d61-4f0f-8bbd-4922059319f1,Google Pixel 6,Smartphones,Deborah Greene,2024-12-23,2025-01-10,5,Pixel 6: A Genuine Game-Changer!
+rev_000147,35617e74-0248-4c5f-9428-0d48bc046833,PlayStation 5,Gaming Consoles,,2024-02-21,2024-03-17,3,Mixed Feelings About My PS5 Purchase
+rev_000148,26f7c210-1266-4cca-aae1-d6fdd26538b0,Throw Pillows,Home Decor,Sharon Alexander,2023-12-13,2023-12-25,2,Disappointing Purchasing Experience with Throw Pillows
+rev_000149,e091f901-b508-4287-b7a5-569fd35fe02b,iPhone 13,Smartphones,Ebony Rose,2023-08-24,2023-09-08,1,Disappointing Upgrade Experience
+rev_000150,fb94973c-eba2-4c86-a94d-ee97d354d5b2,Curtains,Home Decor,Kevin King,2023-05-28,2023-06-24,5,Stunning addition to my home decor!
+rev_000151,d9206188-5ffe-4b77-b62d-52d4cc58bb8a,Webcam,Computer Accessories,Dawn Daniels,2023-09-11,2023-10-07,5,Stunning HD Quality for Everyday Use!
+rev_000152,256c3dc8-04a9-41bf-bb4b-406b20c74d00,Microwave Oven,Kitchen Appliances,Meredith Jimenez,2024-12-20,2024-12-29,4,Solid Microwave with Minor Flaws
+rev_000153,63e0f99b-e2bb-4c78-a059-ef0661df940b,Bed Frame,Furniture,Adam Griffith,2024-02-18,2024-03-02,3,"Decent Build Quality, But Assembly Issues"
+rev_000154,820f8429-56f0-4868-9024-7787067836e9,Ring Doorbell,Smart Home Devices,Roy Cannon,2023-11-16,2023-12-12,4,"Decent Smart Home Addition, Room for Improvement"
+rev_000155,8b370ee2-b908-4944-9bb3-f35e3414fe23,JBL Bluetooth Speaker,Audio Equipment,Kristen Young,2020-12-02,2020-12-17,4,"Fantastic Sound Quality, but Connection Could Be Better"
+rev_000156,b5cd292d-d7c8-4c0f-a0fa-b00061afe0a5,iPhone 13,Smartphones,Stephanie Hogan,2024-09-10,2024-09-20,4,"Decent Upgrade, But Missing Some Features I Loved"
+rev_000157,8f390606-8358-4c27-aca5-96d70f5b85a5,Dell XPS 15,Laptops,Andrea Richards,2022-08-25,2022-09-10,5,Dell XPS 15 - A Workhorse of a Laptop!
+rev_000158,492d9c3b-1ac8-4e9d-952c-74540e3fadbe,Blender,Small Kitchen Appliances,Ashley Scott,2023-01-25,2023-02-01,3,Mixed Feelings about the Small but Mighty Blender
+rev_000159,1a88ea18-4b1c-49cb-b487-c47345bd4ab3,Sofa,Furniture,Jason King,2023-11-29,2023-12-16,5,Comfortable Retreat at Home!
+rev_000160,d77f0fa7-68c5-4b3a-8aea-f53692551d1c,Dining Table,Furniture,Monica Joseph,2024-12-03,2024-12-26,4,Sturdy but Lacks Character
+rev_000161,fc05eaae-21f9-4629-9cc2-99b181c4b628,Google Pixel 6,Smartphones,Wendy Warner,2021-12-13,2022-01-08,4,"Solid Performance, But Needs Some Polishing"
+rev_000162,adbb42de-d961-4c61-9000-725b0ca87144,Sofa,Furniture,Erika Williams,2024-05-13,2024-06-03,5,Perfectly Comfortable and Stylish Addition to My Living Room
+rev_000163,0eca902e-09ee-4b04-9c51-2a45a1746c5a,iPhone 13,Smartphones,Susan Brooks,2023-04-04,2023-04-26,5,A Game Changer in My Digital Life
+rev_000164,76d4b9ca-245a-4bd2-9135-7a0a90587b46,Electric Range,Kitchen Appliances,Steven Thomas,2022-12-05,2022-12-31,5,My New Kitchen Workhorse!
+rev_000165,d70a918b-2742-44fa-8ed2-a28f79ea81e2,Smart Thermostat,Smart Home Devices,Jose Stone,2024-02-21,2024-02-28,3,Mixed Feelings about the Smart Thermostat
+rev_000166,7b2687b5-b974-4db8-a307-c1732d16b20a,Bose Headphones,Audio Equipment,Eileen Williams,2022-01-21,2022-02-04,3,"Quality Sound, Fiddly Design for a Newbie User"
+rev_000167,ffe12a11-2bfa-4181-939c-4a8b6125b170,Electric Range,Kitchen Appliances,John Santos,2025-01-27,2025-02-11,5,Absolutely Impressed with the GE Profile Smart Electric Range!
+rev_000168,4b0280bd-65d5-454c-9a06-51855ae3509d,Oculus Quest,Gaming Consoles,Erin Gillespie,2023-03-13,2023-04-03,4,Impressive VR Gaming Experience with Some Hiccups
+rev_000169,7e6a4133-c3db-45f4-9b94-fbf170713247,Electric Range,Kitchen Appliances,Desiree Bright,2024-10-30,2024-11-06,4,"Great Appliance, Some Learning Curve"
+rev_000170,8c01a130-a429-4b96-b3b6-757d1576fbd7,Dell Inspiron Desktop,Desktop Computers,Antonio Cooper,2024-12-02,2024-12-11,2,"Disappointed with the Performance, Needs Improvement"
+rev_000171,596612f5-cc57-4a03-a6f9-ad509afdb271,Smart Thermostat,Unknown Category,Jason Brown,2024-08-14,2024-09-02,2,Smart Thermostat Needs Work
+rev_000172,c65059e8-1e46-408d-9381-837b4e40d304,Lenovo IdeaCentre,Desktop Computers,Thomas Johnson,2025-01-07,2025-01-23,5,"Exceptional Performance, Impressive Design - Lenovo IdeaCentre Delivers!"
+rev_000173,6fab063c-fc3e-4d62-afcf-81e258db795c,Dishwasher,Kitchen Appliances,Christine Rocha,2022-11-15,2022-11-23,3,Moderately Satisfied with the Latest Dishwasher Purchase
+rev_000174,2e262801-db90-4a2f-b6a0-063f0788c331,Electric Range,Kitchen Appliances,Julie Foley,2023-02-01,2023-02-19,4,Impressive Performance but Needs a Few Adjustments
+rev_000175,822164e3-70f7-40ff-99e6-d0d1c6dc5e62,Sonos Speaker,Audio Equipment,Leah Lyons,2024-11-15,2024-12-12,3,"Sonos Speaker - Good Sound, Questionable Connectivity"
+rev_000176,4a6ae571-8382-44f1-92cc-52fc18dbe74c,Google Nest,Smart Home Devices,Jillian Gibbs,2024-12-02,2024-12-25,4,"Cozy Christmas with Nest, Just a Few Hiccups"
+rev_000177,036f83da-2cb0-4a42-93c0-6006523c3870,Amazon Echo,Smart Home Devices,Emily Henderson,2024-07-04,2024-08-02,2,Disappointed with Echo's Performance
+rev_000178,e313e063-c456-4a5a-80a6-6d1c4bfd8124,,Small Kitchen Appliances,Devin Mitchell,2022-11-30,2022-12-18,4,Surprisingly Versatile Little Powerhouse!
+rev_000179,1b57a980-27c9-46fd-8c60-84a05c389587,Philips Hue Lights,Smart Home Devices,Jacob Thompson,2022-07-16,2022-08-05,2,Disappointing Experience with Philips Hue Lights
+rev_000180,63e0f99b-e2bb-4c78-a059-ef0661df940b,Dishwasher,Kitchen Appliances,Adam Griffith,2020-09-25,2020-10-02,5,"Impressive Performance, Exceptional Quality!"
+rev_000181,32a24901-aa20-43ff-b1e3-60e60d94a56a,Smart Thermostat,Smart Home Devices,Logan Townsend,2025-02-20,2025-02-23,3,"Sufficient, but Could Be Better Smart Thermostat"
+rev_000182,5f311776-6244-4865-bc12-02844eb7ac64,Sony Soundbar,Audio Equipment,Leah Mitchell,2022-03-18,2022-04-05,4,"Good, but room for improvement"
+rev_000183,ac885c8f-30f5-4dae-9767-88cced58ce0e,Asus ZenBook,Laptops,Donna Montes,2024-04-13,2024-05-10,5,Dream Laptop for Every Creative Mind
+rev_000184,6652d12b-28c7-4505-b87a-68c04cefc7eb,Bookshelf,Furniture,Nathan Reed,2024-12-26,2025-01-05,5,Sturdy and Elegant Bookshelf Enhances Home Aesthetics
+rev_000185,861f2c1d-adb2-498e-909a-f7f8057b497a,Dining Table,Furniture,Donald Hansen,2022-03-29,2022-04-05,4,"Solid addition to the dining area, minor assembly issues"
+rev_000186,acc9ad05-3113-4e01-8363-67f3544935fc,iPhone 13,Smartphones,Stephanie Davis,2023-08-07,2023-08-24,4,"Solid Upgrade, But Missing the Extras"
+rev_000187,81337e45-66e1-4ae3-8a27-beb2ea38b31b,Microwave Oven,Kitchen Appliances,Jay Wood,2024-11-10,2024-11-24,4,Decent Kitchen Companion
+rev_000188,2665edc4-9710-4f3f-a54b-edd9c27a590b,Amazon Echo,Smart Home Devices,Gabriella Crane,2024-09-11,2024-10-05,5,My Smart Home Just Got Smarter!
+rev_000189,9eb686eb-efda-4894-a3cd-43a346dea660,Sofa,Furniture,Justin Wilson,2023-08-27,2023-08-30,5,A Perfect Addition to My Living Room!
+rev_000190,93554e24-1707-4060-a1fb-c95a91d1fd80,Electric Range,Kitchen Appliances,,2024-12-09,2024-12-21,5,"Exceptional Performance, Perfect for My Needs!"
+rev_000191,120d232b-79a5-4c29-a4f1-ea5dd79ddfa0,Dishwasher,Kitchen Appliances,Brian Baker,2024-05-20,2024-06-17,4,Decent Dishwasher but Room for Improvement
+rev_000192,4d5f50ea-97f8-4093-b25e-623b6b7748c4,Google Nest,Smart Home Devices,Benjamin Mason,2025-01-19,2025-02-01,5,Seamless Integration and Intuitive Design: Google Nest Wins me Over!
+rev_000193,92dbbd1e-9649-4265-91df-5dba053a1135,Google Pixel 6,Smartphones,Stacy Martin,2024-11-02,2024-11-04,4,"A Solid Upgrade, But Room for Improvement"
+rev_000194,846b3da1-950a-4c2b-ba33-14eb0ae28146,Table Lamp,Home Decor,Jennifer Christensen,2025-01-09,2025-01-12,2,Disappointing LED Table Lamp Performance
+rev_000195,084f8198-0099-4a9b-b740-19db2f208f87,Sony Soundbar,Audio Equipment,Alexander Cervantes,2024-11-04,2024-11-09,4,"Solid Sound, Minor Gripes"
+rev_000196,52f92ec2-b7f3-45a1-a98f-f0343fae4055,Table Lamp,Home Decor,Craig Mckay,2022-10-17,2022-10-28,5,Superb Addition to My Living Room!
+rev_000197,5c0fcf0a-19c3-48f4-8dbe-e18e7d7567d7,Range Hood,Kitchen Appliances,Heather Owens,2022-12-24,2023-01-01,3,A Decent Range Hood but Needs Some Improvements
+rev_000198,b4f02d9b-d76a-4f13-a947-e96b2bd7400e,Amazon Echo,Smart Home Devices,Debra Poole,2021-12-05,2021-12-31,5,My New Favorite Assistant: Amazon Echo
+rev_000199,beb81ba5-e172-4343-96a9-e74316dfb347,Smart Thermostat,Smart Home Devices,Christine Shields,2024-08-21,2024-09-13,3,Slightly Disappointed with the Smart Thermostat Performance
+rev_000200,64f8db1a-16d4-4fcd-be04-01a5523792e7,Asus ROG,Desktop Computers,Debra Andrews,2024-03-01,2024-03-24,4,"Impressive Gaming Power, Room for Improvement in Connectivity"
+rev_000201,2278c433-947e-4bc7-ba7a-4bc6216e9b86,Amazon Echo,Smart Home Devices,Kristin Phillips,2023-07-10,2023-07-22,2,Disappointing Alexa Experience
+rev_000202,29ae83b0-e538-4c6f-a7eb-998f61d75c16,Sofa,Furniture,Nicholas Reed,2024-07-05,2024-07-12,4,"Great Quality, Needs Assembly Improvements"
+rev_000203,6b30efec-26e5-4c40-8e93-6ff7e780f452,Office Desk,Furniture,Gina Collins,2025-02-11,2025-02-26,5,A Perfect Match for My Home Office!
+rev_000204,d16c2ad1-d9b1-4fcb-b108-84b3015e7e46,Bose Headphones,Audio Equipment,Ashley Davidson,2023-11-07,2023-12-01,4,"Impressive Sound Quality, But Pairing Issues"
+rev_000205,b6d2e477-f945-40b1-9ccd-d06cee4b5b74,Xbox Series X,Gaming Consoles,Taylor Smith,2024-11-28,2024-12-15,5,Finally a Game Changer!
+rev_000206,317a7b9d-ecd4-441d-a43c-6802b635665f,Sony Soundbar,Audio Equipment,Pamela Perry,2025-01-13,2025-01-17,5,Incredible Audio Experience with the Sony Soundbar!
+rev_000207,61db81ee-34fc-49dd-86c9-f39880844c3b,Bed Frame,Furniture,Kimberly Mcdonald,2024-02-05,2024-03-05,5,Dreamy Slumber Achieved with This Sturdy Bed Frame!
+rev_000208,3010fe3e-f791-47d4-add2-1da35e890603,Refrigerator,Kitchen Appliances,Jeremy Wilson,2021-07-19,2021-08-10,3,Mixed Feelings About My New Fridge
+rev_000209,14fba769-33dc-4a70-8525-f09d6c119bcf,Ring Doorbell,Smart Home Devices,Rodney Johnson,2024-07-05,2024-07-30,4,Ring Doorbell - Decent Investment for Security
+rev_000210,83111753-327d-46ef-830d-e49f03e40901,Cast Iron Skillet,Cookware,David Crawford,2024-11-06,2024-11-19,3,"A Decent Cast Iron Skillet, Yet Needs Some Improvements"
+rev_000211,6b7b7d5d-2217-4484-a48e-9102728071d5,Curtains,Home Decor,Katelyn Watkins,2025-02-04,2025-02-22,5,Stunning Addition to My Home Decor!
+rev_000212,0be82b22-4d71-4720-8dc4-a81ec490a35d,Sony Soundbar,Audio Equipment,Michael Johnson,2022-12-10,2022-12-11,5,Stellar Sound Experience with the Sony Soundbar
+rev_000213,33ddf1e4-32b2-45aa-8391-01734fb8c316,Vizio SmartCast TV,TVs,Sherry Booth,2022-05-11,2022-05-27,4,"Solid Smart TV Experience, With a Few Minor Hiccups"
+rev_000214,5a40c4d9-e099-41d3-8151-72c2a360759c,Google Pixel 6,Smartphones,Timothy Clements,2024-11-28,2024-12-11,5,A Brilliant Leap Forward with the Pixel 6!
+rev_000215,b0dd0e6d-45cd-4666-b80a-f0f8b4878be2,USB-C Hub,Unknown Category,Jennifer Smith,2024-08-24,2024-09-03,4,Impressive Versatility - Almost Perfect!
+rev_000216,fe129541-4195-41f5-a0fa-bb4263ec582d,Throw Pillows,Home Decor,Kelly Nelson,2021-08-02,2021-08-14,5,Stylish Addition to My Living Room Decor!
+rev_000217,d441b16c-86cc-4f34-a4cf-fd2f3ea65a88,Comforter Set,Bedding,Denise Hernandez,2023-07-29,2023-07-31,2,Disappointed with the Quality of the Comforter Set
+rev_000218,c72d5b41-ba30-4664-bbab-18b35e895929,Microsoft Surface,Tablets,Jason Miller,2024-01-21,2024-02-13,5,The Perfect Student Companion
+rev_000219,341f6d8b-36e0-4264-8be7-7bc0d62d7ef9,Office Desk,Furniture,Adam Smith,2022-08-27,2022-08-30,3,"Decent Desk, But Assembly Issues"
+rev_000220,a793ead0-eecf-4ea5-9e6c-244c33240f4b,Smart Thermostat,Smart Home Devices,Elizabeth Stewart,2021-10-23,2021-11-02,5,Pure Convenience with the Nest Learning Thermostat
+rev_000221,b2ef0aa9-34d6-468c-8c88-7133a83eb9db,Samsung Galaxy S22,Smartphones,Brandon Villarreal,2023-12-17,2023-12-19,5,Brandon's Amazing Galaxy S22 Experience!
+rev_000222,c9598b07-74b8-4386-be13-fd48af2e3f00,Google Nest,Smart Home Devices,Thomas Delgado,2023-07-29,2023-08-25,5,Seamless Smart Home Experience with Google Nest
+rev_000223,1ed15c9b-913a-47cf-8a85-b70c45f1ad85,Amazon Echo,Smart Home Devices,Michael Rodriguez,2023-02-03,2023-02-26,2,Echo's Learning Curve Needs Refinement
+rev_000224,df14d463-8923-4c7a-9c28-70cb9910ed87,Samsung QLED TV,TVs,Sara Smith,2025-01-14,2025-01-27,4,"Almost Perfect, but Needs Some Tweaks"
+rev_000225,4c8ac31d-14e7-4821-b728-b90a2b9a29fe,HP Spectre,Laptops,Andrew Singh,2023-02-26,2023-03-11,4,"Decent Performance, Room for Improvement"
+rev_000226,79da5947-8875-4356-a2b2-6734985b15cc,Sony Bravia,TVs,Wayne Cummings,2022-09-11,2022-09-29,4,"Impressive Picture Quality, But Some Functionality Issues"
+rev_000227,dc740850-6f5b-4106-bea9-1969cf7a34b3,iPhone 13,Smartphones,Brandy Diaz,2024-04-23,2024-04-26,2,Disappointing Battery Life on the iPhone 13
+rev_000228,715e0b21-1925-480f-9a80-9d1366e56520,,Gaming Consoles,Marie Colon,2023-07-30,2023-08-26,5,Unmatched Gaming Experience with the nan Console!
+rev_000229,1ac4842f-90bf-405c-9c8b-5917d21edbbd,Ring Doorbell,Smart Home Devices,Daniel Hoover,2024-07-25,2024-08-01,4,"A Solid Addition to My Smart Home Setup, With Room for Improvement"
+rev_000230,f094a56d-3ac1-4e28-a98b-5a984fd73df9,Samsung Galaxy S22,Smartphones,Keith Clements,2022-09-26,2022-10-10,4,"Solid Performance, Yet a Few Nitpicks"
+rev_000231,d6dbc9ba-115d-4b41-bae5-37180580d858,Sofa,Furniture,Michelle Benson,2024-08-20,2024-09-09,4,Comfortable but Quality Concerns
+rev_000232,5734955b-cba2-4fdb-b147-9cd2b3a217e8,Amazon Fire HD,Tablets,Ashley Jackson,2024-02-02,2024-03-02,4,"Reliable Entertainment Companion, with a Few Quirks"
+rev_000233,5a30ba9d-e1f9-4454-9472-638215cb8f0e,JBL Bluetooth Speaker,Audio Equipment,Matthew Rogers,2023-08-12,2023-08-29,5,JBL Flip 6 - Sound & Portability Goldmine
+rev_000234,8189a117-aeff-4c21-b016-ad5810f26a6b,Sofa,Furniture,Laurie Anderson,2022-08-31,2022-09-29,4,Cozy yet Sturdy Find for a Comfortable Space
+rev_000235,ceb04e6e-420c-4929-b87e-933594f65843,Audio-Technica Turntable,Audio Equipment,Nicholas Wilkins,2022-08-05,2022-08-26,5,My New Audio-Technica Turntable - A Dream Come True!
+rev_000236,6d6931c8-abef-4bac-ad0a-78e896eff3dc,OnePlus 10,Smartphones,Ann Jones,2022-01-31,2022-02-12,4,"Impressive Performance, But Battery Life Needs Improvement"
+rev_000237,2e201e7f-8135-42f9-aaf7-ee81d3380138,JBL Bluetooth Speaker,Audio Equipment,Hannah Moreno,2023-05-03,2023-05-28,5,JBL Bluetooth Speaker - Impressive Sound Quality!
+rev_000238,d12653ce-6f6d-44a6-97fb-b2e31c844b26,Samsung QLED TV,TVs,John Molina,2022-01-24,2022-02-09,5,Absolutely Stunning Visual Experience!
+rev_000239,7747daa1-10e3-41da-94e1-b0585a4a3596,iPhone 13,Smartphones,Samantha Johnson,2023-09-24,2023-10-18,3,"Decent Upgrade, but Missing a Few Key Features"
+rev_000240,c411931a-0ee8-4915-9392-51fa7f1d4583,Google Nest,Smart Home Devices,Jason Taylor,2024-05-20,2024-06-01,5,Seamless Integration - Google Nest Makes Home Smarter!
+rev_000241,9c2a6cf5-35c1-4440-b15d-425a5eb3d569,Smart Thermostat,Smart Home Devices,Erika Mccoy,2023-06-24,2023-07-09,3,Mixed Feelings About the Smart Thermostat
+rev_000242,d23204a0-b989-42a1-8a2a-dbbca911998c,Throw Pillows,Unknown Category,Jeremy Macias,2022-08-31,2022-09-25,5,Stunning Addition to My Living Room Decor!
+rev_000243,21a762d0-5f85-4ba8-9bff-a021a4d1c599,Duvet Cover,Bedding,Kevin Johnson,2021-07-30,2021-08-09,4,"Decent Quality, Needs Better Packaging"
+rev_000244,bf873d54-0ced-4a10-923b-93d17f8c8797,Curtains,Home Decor,Nicole Gentry,2024-07-25,2024-08-19,5,Gorgeously Transformed Space with These Magnificent Curtains!
+rev_000245,77d51e71-3f64-4c48-9498-dc2e191f1565,Dishwasher,Kitchen Appliances,Joshua James,2022-12-27,2023-01-03,5,My New Workhorse in the Kitchen!
+rev_000246,e415b8f1-3b99-4f34-89da-e8f8e4e90404,Dutch Oven,Cookware,James Shaffer,2023-12-07,2023-12-27,5,Exceptional Dutch Oven for the Modern Home Chef
+rev_000247,e568e4c8-e8d8-4660-b84e-9624a3fa823c,Google Pixel 6,Smartphones,Teresa Parsons,2024-08-14,2024-08-19,5,A Game Changer in Mobile Technology!
+rev_000248,4365af88-4518-4597-a2fd-a123a7b73669,Wall Art,Home Decor,Christine Hayes,2024-10-31,2024-11-01,4,Stylish yet Durable Wall Art
+rev_000249,62581186-5f68-4fd2-aca2-b2bdeaaffa9f,Wall Art,Home Decor,Melissa Lewis,2024-11-05,2024-11-22,2,Disappointed with the Delivery and Quality of the Wall Art
+rev_000250,f3a020be-2e98-468d-affd-2b0388a78026,Wall Art,Home Decor,Holly Evans,2024-11-12,2024-11-15,4,Stunning Wall Art for a Modest Price!
+rev_000251,97016bbe-8cda-4b71-a97a-09f350bc536f,Electric Range,Kitchen Appliances,Nicole Conner,2024-12-01,2024-12-14,3,Reliable but Needs Improvement
+rev_000252,b78c6c40-5023-4cca-99bd-a8d38169c60b,Table Lamp,Home Decor,Donna Potter,2024-12-02,2024-12-16,5,Perfect Addition to My Cozy Home!
+rev_000253,129888fc-efbc-4f2b-9f32-5937c56e3e2d,Sony Bravia,TVs,Paul Wilson,2024-12-14,2025-01-07,4,"Impressive Visual Experience, But Some Features Could Be Better"
+rev_000254,3eda59f9-61b0-42e2-bc2d-f4bda6887ca1,Dishwasher,Kitchen Appliances,Michael Castro,2024-11-06,2024-11-24,5,Impressive Performance and Convenience - 5 Stars!
+rev_000255,87e25b45-9de2-48f2-a17a-0ab432b50fdc,Sheets,Bedding,Denise Ramos,2021-08-13,2021-08-17,5,Comfort Unmatched!
+rev_000256,8aed6228-843e-458b-ad37-f9ff1179617d,Samsung Galaxy S22,Smartphones,Jasmine Hodges,2023-08-06,2023-08-24,5,"Wow, Samsung Galaxy S22 Exceeds Expectations!"
+rev_000257,29dec202-949b-4cb4-9850-9427980442f4,Samsung QLED TV,TVs,Tammy Young,2023-11-07,2023-11-12,3,"Solid Performance, Room for Improvement"
+rev_000258,4b7c9b4f-abd7-41d1-818d-be1cda7314b3,Electric Range,Kitchen Appliances,Logan Strickland,2023-09-12,2023-10-07,5,Exceptional Electric Range for Modern Cooking!
+rev_000259,16e00e97-bc43-428d-95da-6845831063e4,Dell XPS 15,Laptops,Melissa Bentley,2023-02-17,2023-03-05,5,A Fantastic Workhorse - Dell XPS 15 Exceeds Expectations!
+rev_000260,429e97bc-e64b-41e5-bcee-a0f1c9de87fa,Philips Hue Lights,Smart Home Devices,Tracy Avila,2022-08-12,2022-08-13,4,"Impressive Smart Lighting Solution, Could Use Some UI Updates"
+rev_000261,77a07097-7061-4e2e-a721-e4444ae2c235,USB-C Hub,Computer Accessories,Rachel Diaz,2024-12-03,2024-12-24,5,A Perfect Addition to My Workspace!
+rev_000262,77852edf-a4f8-464c-92c6-202a036d34aa,Ring Doorbell,Smart Home Devices,Amy Johnson,2023-12-17,2023-12-31,5,Secure Peace of Mind with the Ring Doorbell!
+rev_000263,5c0fcf0a-19c3-48f4-8dbe-e18e7d7567d7,Wall Art,Home Decor,Heather Owens,2024-04-03,2024-04-18,3,"Decent Wall Art, Needs Some Improvements"
+rev_000264,bd65d651-26d2-445d-b0c7-6e12ab2cd24d,Electric Range,Kitchen Appliances,Richard Norman,2024-06-11,2024-06-20,4,Reliable Performance with a Few Quirks
+rev_000265,5b8d04cc-0f17-4701-9998-e7abc465dbc9,Google Nest,Smart Home Devices,Wayne Higgins,2024-12-14,2024-12-29,4,"A Step Closer to a Smart Home, but Room for Improvement"
+rev_000266,83c0ad90-d5b4-4ce6-9beb-0a39140aec34,Sofa,Furniture,Wayne Wood,2024-11-16,2024-12-03,3,"Decent Sofa, but Needs Some Attention"
+rev_000267,462453eb-3d26-4e56-bf8e-26e9479adaa2,Blender,Small Kitchen Appliances,Patricia Clark,2022-03-23,2022-04-17,4,"Blender's Powerful Performance, But Controls Could Be Better"
+rev_000268,5c7900b1-20db-433e-a944-29e2f8a3bec2,Area Rug,Home Decor,Robert Torres,2022-12-09,2023-01-02,2,Disappointing Purchase Experience
+rev_000269,310305ca-d7a5-463a-b115-86af19d7d3f5,Dining Table,Furniture,Robert Smith,2022-02-07,2022-02-11,1,Disappointing Purchase Experience
+rev_000270,a9f75b3e-ba72-4058-8165-853c1a07d519,Google Pixel 6,Unknown Category,Marie Jones,2023-04-17,2023-04-29,3,Mixed Feelings About Google Pixel 6
+rev_000271,d1d07b6c-df1e-465e-a8a0-ec059efb9b38,Table Lamp,Home Decor,Nancy Brown,2024-02-29,2024-03-27,5,Perfect Addition to My Home Decor!
+rev_000272,6d0f4baf-18d6-42de-ada5-5a3905742fea,HP Spectre,Laptops,Kristen Fox,2023-05-17,2023-06-12,4,"Great Performance, Could Use a Few Improvements"
+rev_000273,13c22292-70d4-46e5-a0c1-0d21c0a244f4,Oculus Quest,Gaming Consoles,Alison Hart,2024-04-17,2024-04-22,5,Immersive VR Experience Redefines Gaming for Me
+rev_000274,b7ddce22-5c5a-4854-9a33-4c39c056b7f9,Office Desk,Furniture,Alexander Moore,2025-01-11,2025-02-09,4,Decent Workspace Furnishing
+rev_000275,d4908875-aa82-4981-8b16-a2afed15786d,Google Nest,Smart Home Devices,Brittany Reed,2024-11-12,2024-11-17,4,Impressive but Room for Improvements
+rev_000276,27bce69a-a12e-4a36-b710-deb777b31106,Google Nest,Smart Home Devices,Riley Nicholson,2024-01-08,2024-01-19,4,"Great Smart Home Assistant, but Lacks Maturity in Some Features"
+rev_000277,51dcb4dd-dee4-4c58-b226-b8e96aab71ed,Air Fryer,Small Kitchen Appliances,Gary Dawson,2023-08-16,2023-09-13,4,"Great for Healthy Fried Foods, but Some Design Issues"
+rev_000278,8536acb9-e847-45d8-9da7-dbc4fbaf5e28,Dining Table,Furniture,Kim Bennett,2023-07-25,2023-07-31,3,"Solid Construction, but Slightly Disappointing Aesthetics"
+rev_000279,4eec04e3-d9ff-4adb-b63a-fd69aee8024f,Range Hood,Kitchen Appliances,Arthur Roberts,2025-01-15,2025-01-22,5,Impressive Range Hood - A Game Changer in My Kitchen
+rev_000280,d6dbc9ba-115d-4b41-bae5-37180580d858,Vizio SmartCast TV,TVs,Michelle Benson,2024-12-31,2025-01-24,3,Mixed Feelings About the Vizio SmartCast TV
+rev_000281,493e6d34-3066-460e-99e4-6ac16a500c13,Bed Frame,Furniture,James Lee,2024-06-21,2024-07-05,5,A Solid Investment for Sweet Dreams!
+rev_000282,09272bed-7460-4b43-84d5-58bf4d9c40e3,Xbox Series X,Gaming Consoles,Michelle Wells,2024-03-20,2024-04-13,5,A Gaming Marvel Unveiled!
+rev_000283,74548b02-dee4-4156-a4e2-90d64b0b4c09,Lenovo ThinkPad,Laptops,,2022-11-09,2022-11-20,3,"Solid Build, Mediocre Performance"
+rev_000284,850d590c-c458-47f6-8247-83f7c2938593,Sofa,Furniture,Melissa Martinez,2023-12-27,2024-01-09,2,Disappointed with the Quality of This Sofa
+rev_000285,4ccb8bb0-5849-4492-b779-a1dc31f64f6d,,Furniture,Kevin Rodriguez,2024-06-09,2024-06-11,5,Absolutely Impressed with nan Furniture!
+rev_000286,5d25db89-bae8-4873-9a99-9c44fd32425a,TCL Roku TV,Unknown Category,Nancy Barton,2024-06-01,2024-06-26,4,Impressive Smart TV Experience
+rev_000287,df42434d-f2d4-4a7f-8345-cd038950ff1b,Range Hood,Kitchen Appliances,Kimberly Dennis,2024-08-07,2024-08-14,2,Disappointing Range Hood Performance in a High-End Kitchen
+rev_000288,ce45b0f0-f0bd-4d45-a9c8-9c174999600f,Google Pixel 6,Smartphones,Lauren James,2023-05-02,2023-05-22,5,Google Pixel 6 - A Game Changer!
+rev_000289,ed05c72e-b599-4e69-bc19-6221275a4722,,Home Decor,Shelby Johnson,2024-10-08,2024-10-12,2,Disappointed with the Quality of nan Home Decor Piece
+rev_000290,120d232b-79a5-4c29-a4f1-ea5dd79ddfa0,Wall Art,Home Decor,Brian Baker,2024-02-13,2024-03-11,5,Pure Masterpiece!
+rev_000291,baf31541-2c2f-450d-9c4e-dbccd6be3a14,Sonos Speaker,Audio Equipment,Robert Ponce,2024-01-16,2024-01-24,5,Sonos Speaker: A Game Changer for My Dorm Room!
+rev_000292,efbfbd1f-e93d-4f47-a2a8-6be46f7cad40,Wall Art,Home Decor,,2025-02-10,2025-03-02,3,Nice but lacks uniqueness for my personal style
+rev_000293,e1f3321e-05e3-43a0-ba1c-7a30ea5361af,Dell Inspiron Desktop,Desktop Computers,Anthony Martinez,2024-08-30,2024-09-28,3,Mixed Feelings About My Dell Inspiron Desktop
+rev_000294,e95711d4-ed63-48be-a0d3-96bccdc38216,Air Fryer,Small Kitchen Appliances,Jennifer Neal,2022-12-25,2023-01-16,3,Mixed Feelings About My Air Fryer
+rev_000295,610369fd-5472-4365-a158-ca57fe6ba4e2,Amazon Echo,Smart Home Devices,David Gross,2023-10-13,2023-11-03,4,"Impressive Smart Home Companion, Could Use a Little More Personalization"
+rev_000296,f1c4816f-f8a0-4cb4-a8e0-51aeb274e4d8,Google Nest,Smart Home Devices,Stephanie Williams,2024-01-18,2024-02-06,3,A Mixed Experience with Google Nest
+rev_000297,6e8940dc-e544-4a26-abda-2c5665d161e3,Microwave Oven,Kitchen Appliances,Andrew Solis,2025-01-20,2025-02-02,5,Perfect Kitchen Companion!
+rev_000298,21ad7284-c8d7-4e3a-b446-0ac6efae009b,iPhone 13,Smartphones,Michelle Kidd,2021-12-23,2022-01-06,2,Disappointing Battery Life on iPhone 13
+rev_000299,2380c0b8-7dc8-440d-95bd-839239f5e5df,Philips Hue Lights,Smart Home Devices,Anna Murphy,2024-07-07,2024-07-17,4,Impressive Smart Ambiance with a Few Hiccups
+rev_000300,d81b9472-834e-4260-abc1-13d8cd4291f8,Bed Frame,Furniture,Cindy Scott,2022-12-21,2023-01-01,5,Perfect Fit for My Master Suite
+rev_000301,547bcf83-eadb-4193-915a-aca53b81bb1d,,Smartphones,Kevin Anderson,2024-11-11,2024-11-13,5,Nan Phone: A Game Changer!
+rev_000302,047d3911-a462-446e-84c5-4bccb48aaf0e,Dishwasher,Kitchen Appliances,Joe Glover,2024-05-29,2024-06-23,5,Unparalleled Cleaning Performance and Convenience!
+rev_000303,98c4f759-0d14-4ea7-8b5d-28294d000ca2,Baking Sheet,Cookware,Denise Sanchez,2023-06-04,2023-06-30,4,Quality Non-Stick Baking Sheet
+rev_000304,83d0c8b0-17c4-40c7-817b-ed3af113ec47,Microsoft Surface,Tablets,Daniel Ingram,2023-07-15,2023-07-24,5,Exceptional Tablet Experience with Microsoft Surface
+rev_000305,2735b3c8-58e4-408a-9e36-3f03ff54c189,Nintendo Switch,Gaming Consoles,Jesse Ruiz,2021-07-22,2021-08-08,4,"Great Gaming On-The-Go, Just Needs More Storage!"
+rev_000306,85e6112e-a5fc-4546-afb1-21615ac57d91,Microsoft Surface,Tablets,Vanessa Miller,2024-04-29,2024-05-25,4,A Solid Tablet with a Few Nitpicks
+rev_000307,d01bb696-f509-4de8-9f91-d7b7a49bad80,Sofa,Furniture,,2024-01-10,2024-01-13,3,"Not Perfect, But Still Comfortable"
+rev_000308,f49b20e0-506d-450a-a442-4f2480314435,Microwave Oven,Kitchen Appliances,Taylor Graves,2022-12-06,2022-12-30,5,Terrific Time Saver in the Kitchen!
+rev_000309,ca27ba44-0847-4fc4-8640-1506234b96d3,Toaster,Small Kitchen Appliances,Kelly Young,2023-02-19,2023-02-25,4,"""A Solid Toaster, but Room for Improvement"""
+rev_000310,35617e74-0248-4c5f-9428-0d48bc046833,MacBook Pro,Laptops,,2023-12-09,2023-12-14,3,Mixed Feelings About My New MacBook Pro
+rev_000311,f597a082-d249-4357-bed4-c380248d18f9,Cookware Set,Cookware,Ryan Schwartz,2024-08-13,2024-08-18,4,Quality Cookware for the Price
+rev_000312,16cf8220-e0ae-4506-ab04-7bf7d8bd9eb6,Throw Pillows,Home Decor,Brittany Brooks,2024-11-25,2024-12-17,4,"Lovely Pillows, But Slightly Overpriced"
+rev_000313,820f8429-56f0-4868-9024-7787067836e9,Bed Frame,Furniture,Roy Cannon,2024-12-14,2024-12-29,5,Solid Rest for the Best Sleep Ever!
+rev_000314,604b16f8-be70-4694-840c-02a1404fbb89,Electric Range,Kitchen Appliances,Kelly Smith,2023-11-23,2023-12-16,5,Perfect Kitchen Upgrade!
+rev_000315,fdd3c5b3-84f2-43f8-9d8f-9a093f1c9f48,Range Hood,Kitchen Appliances,Regina Little,2022-11-27,2022-12-14,5,Exceptional Range Hood!
+rev_000316,24f796a5-8040-42f5-9321-19744578fa06,Air Fryer,Small Kitchen Appliances,Zachary Nelson,2023-06-15,2023-06-24,1,Disappointing Purchase - Air Fryer
+rev_000317,fa5e7412-2c30-4c3f-bf8c-bcbe062006eb,Asus ZenBook,Laptops,Jasmin Hubbard,2024-01-23,2024-01-26,4,"Almost Perfect for My Needs, with a Few Hiccups"
+rev_000318,7162e4b8-c6cb-4509-9f7b-f9a23e996b50,Dining Table,Furniture,Dana Figueroa,2024-12-14,2025-01-03,4,A Solid Addition to Our Home
+rev_000319,251fb01a-3174-409b-a0fb-d5983c25d572,Sony Soundbar,Audio Equipment,Jillian Thomas,2021-07-24,2021-08-19,1,Disappointing Soundbar Experience
+rev_000320,66e2d02f-b8fe-48c5-bccc-63f6a8eb0b52,MacBook Pro,Laptops,Johnny Walsh,2021-08-11,2021-08-28,4,"A Solid Performance, Yet Room for Improvement"
+rev_000321,79177170-a532-4925-9860-078e6ec7ff5b,Bed Frame,Furniture,Tyler Wade,2024-11-04,2024-12-03,5,"Sturdy and Sleek Design, Perfect Match for My Space!"
+rev_000322,6b4a136d-d1f3-41cc-ad9c-c5ec2d824812,Coffee Maker,Small Kitchen Appliances,David Hayes,2023-12-14,2024-01-10,3,"Sufficient, but Needs Improvement"
+rev_000323,d8b7ac82-bb70-495e-b5cd-efae8a4d1e4a,Xiaomi Mi 12,Smartphones,Julie Shelton,2022-01-22,2022-02-01,4,"A Solid Upgrade, but Missing Some Extras"
+rev_000324,55f3b527-4d5a-47dc-8132-52ed3bf2cd19,Curtains,Home Decor,Kenneth Pearson,2024-01-30,2024-02-02,3,"Decent Curtains, but Quality Concerns Persist"
+rev_000325,f4fe6e73-2154-4fed-8151-3f4cc5b452a2,Philips Hue Lights,Smart Home Devices,Lindsey White,2024-12-19,2025-01-06,1,Disappointed with Philips Hue Lights
+rev_000326,fb49f49d-b31b-47e7-bcbd-cd3415ca7af4,Electric Range,Kitchen Appliances,Karen Evans,2023-05-27,2023-06-14,3,Mixed Feelings About the New Electric Range
+rev_000327,dbe804fb-4056-49d9-9f7e-2f96f3a873d7,Google Nest,Smart Home Devices,Felicia West,2024-01-17,2024-02-03,5,Perfect addition to my smart home setup!
+rev_000328,47f56dcd-6e75-41a3-9896-21eb3cba89fb,Sonos Speaker,Audio Equipment,Mike Robinson,2023-11-04,2023-11-28,5,"Phenomenal Sound Quality, Game Changer for Music Lovers!"
+rev_000329,c305bccd-e32d-4156-a081-aa62087a5c4f,Samsung Galaxy Tab,Tablets,Michelle Parker,2024-07-23,2024-07-26,5,A Perfect Companion for Everyday Use!
+rev_000330,b76060c8-5ecd-4cf1-bd2d-cc4134784c01,Dell Inspiron Desktop,Desktop Computers,Stephanie King,2023-06-16,2023-06-19,4,Decent Workhorse for a College Student
+rev_000331,8d9ba574-9b0e-486c-806d-09694b769774,LG OLED TV,TVs,Linda Campos,2022-12-05,2022-12-11,3,"A Good TV, but Needs Some Tweaks"
+rev_000332,d68a3d13-74b1-4972-a871-619ad5ffb96b,Curtains,Home Decor,Dana White,2022-04-16,2022-04-29,4,"Stylish, Yet Somewhat Lightweight Curtains"
+rev_000333,348b33f5-7cef-4a9d-827d-b5122d2e2efd,Curtains,Home Decor,Mary Vega,2024-12-12,2025-01-05,4,"Lovely Curtains, but Need More Variety Next Time"
+rev_000334,012bb8ba-52a2-40de-9f4c-a1c76b48667d,iPhone 13,Smartphones,Laurie Rogers,2024-08-11,2024-09-09,5,Absolutely Blown Away by iPhone 13!
+rev_000335,31c91cb6-7fe1-4f61-9b61-c4963a104e20,Dell Inspiron Desktop,Desktop Computers,Jesus Lee,2022-08-20,2022-09-04,2,Disappointing Performance for a Dell Inspiron
+rev_000336,8d5991c9-b954-4675-a440-dfc1c443cea0,Blender,Small Kitchen Appliances,Terri Johnson,2023-08-29,2023-09-23,4,"Smooth and Efficient, Yet Needs a Little Love"
+rev_000337,eb349480-f785-4c36-9221-0af33609c3d6,Samsung Galaxy S22,Smartphones,Kristine Moran,2024-02-07,2024-02-16,3,Mixed Feelings About the Galaxy S22
+rev_000338,793d94e1-d47c-479d-8076-25dc46a94a08,TCL Roku TV,TVs,Michele Carter,2022-04-10,2022-04-14,4,Great Smart TV for the Price!
+rev_000339,c9110e19-b58d-467e-807f-1a94d3712663,Asus ZenBook,Laptops,,2023-12-16,2023-12-30,5,A Perfect Work Companion!
+rev_000340,6b028949-2f68-410e-8000-9006b4544cbb,TCL Roku TV,TVs,Alexis Blevins,2023-11-03,2023-11-08,4,Quality Smart TV at a Great Price Point!
+rev_000341,ed5605c3-6bab-4e21-a871-0021ee32d121,Sonos Speaker,Audio Equipment,Susan Reyes,2023-12-02,2023-12-04,4,A Solid Addition to My Smart Home
+rev_000342,fd7d0375-ac33-4486-a0c8-7813e83747b0,JBL Bluetooth Speaker,Audio Equipment,Lisa Rogers,2024-02-29,2024-03-11,4,"Solid Sound, But Needs a Little More Bass"
+rev_000343,b04d2489-6116-4da4-9fe7-6a2607aef8a3,OnePlus 10,Smartphones,Victoria Grant,2020-11-04,2020-11-13,4,"Solid Performance, Room for Improvement in Software"
+rev_000344,1fcad74e-2c52-45f0-af8e-125ec1324a73,Xbox Series X,Gaming Consoles,Adam Key,2023-06-01,2023-06-25,5,Game Changer - Xbox Series X
+rev_000345,7dfebc1a-9414-42c4-97b2-ec4ff22705f2,Xiaomi Mi 12,Smartphones,Robert Martin,2024-07-12,2024-07-15,5,Simply Exceptional! A Game Changer in My Hand!
+rev_000346,b82b5f7f-7e04-49ca-a613-9c1d1b392cb1,Table Lamp,Home Decor,Dorothy Ramirez,2024-01-20,2024-02-16,5,Perfect Addition to My Living Room!
+rev_000347,a992a917-e849-4ffc-9848-fcf06233b135,Baking Sheet,Cookware,Phillip Nelson,2024-03-11,2024-04-08,5,Perfect Baking Sheet for Every Home Baker!
+rev_000348,42f77b2d-2f90-45a9-adc7-f65b6e7148c8,Oculus Quest,Gaming Consoles,Margaret Madden,2025-01-19,2025-02-17,4,"Immersive VR Gaming, but Room Setup Could Be Simpler"
+rev_000349,bf0f29ab-46ae-4076-8829-949023ea90c1,Table Lamp,Home Decor,Eric Torres,2022-12-26,2023-01-04,5,Stylish & Functional Table Lamp!
+rev_000350,97a149a4-6927-4f7f-a071-11a0c42bf684,Bose Headphones,Audio Equipment,Jason Walsh,2024-07-01,2024-07-04,4,"Quality Audio Experience, but Connectivity Issues"
+rev_000351,8936b5a2-699d-4958-9edf-869e365ae8da,Samsung Galaxy S22,Smartphones,Samantha Ramirez,2022-12-09,2023-01-03,4,"Impressive Performer, Slightly Disappointing Battery Life"
+rev_000352,baa3d5e3-1cc2-4f2d-b21e-9a13df40ca9e,Smart Thermostat,Smart Home Devices,Brooke Palmer,2024-01-12,2024-01-14,5,A Game Changer for My Energy Bills!
+rev_000353,acbd3d99-c92b-4570-8048-b6737a723cd1,Refrigerator,Kitchen Appliances,Adam Maynard,2023-12-26,2024-01-07,2,Disappointed with the Performance of My New Fridge
+rev_000354,ff39e534-178d-4311-b88b-510d270d4be1,Table Lamp,Home Decor,Stacy Cortez,2024-09-16,2024-09-26,5,Perfect Match for My Living Room!
+rev_000355,8ab75c8e-a1ca-49aa-bd4e-005b39e82b1d,LG OLED TV,TVs,John Lambert,2021-11-27,2021-12-06,4,"Superb Visual Experience, Slightly Clumsy Interface"
+rev_000356,1ad0c8f7-df9f-4861-a654-8bea16c6b79f,Bed Frame,Furniture,Leah Perez,2025-02-16,2025-03-03,5,Dreamy Rest After Upgrading to This Sturdy Beauty!
+rev_000357,36cf262d-feda-4df0-9f17-86f7f037322c,OnePlus 10,Smartphones,Teresa Townsend,2023-12-27,2024-01-04,5,"Impressive Performance, Perfect for My Needs!"
+rev_000358,b13353e8-ae92-4226-896b-3dfe3357e85c,Electric Range,Kitchen Appliances,John Kelley,2024-10-06,2024-10-31,5,Perfect Kitchen Upgrade - GE Profile Smart Slide-In Electric Range
+rev_000359,964aa8a1-0942-4ea0-9b2a-eff3806d45ad,iPhone 13,Smartphones,Julia Hartman,2024-11-22,2024-11-27,5,Unparalleled Perfection in Hand - iPhone 13 Review
+rev_000360,b1dff447-3125-4b00-9c24-36c75a728dde,Sony Soundbar,Audio Equipment,Christopher Rodriguez,2022-08-26,2022-09-06,5,Sony Soundbar - Absolutely Immersive Home Theater Experience!
+rev_000361,55459fff-368d-46df-be43-ca79ceb73069,Vizio SmartCast TV,Unknown Category,Austin Salas,2023-02-17,2023-03-16,2,Disappointed by the Vizio SmartCast TV
+rev_000362,e2d05bf5-0103-4196-bd67-d3dcaf0adc37,iPhone 13,Smartphones,Olivia Salazar,2025-01-17,2025-01-19,4,"Solid Upgrade, Just a Few Nitpicks"
+rev_000363,7de5b055-9346-4f70-95fb-cd7f0ec654ef,,Kitchen Appliances,Kimberly Williamson,2022-06-23,2022-07-17,3,nan - A Mixed Bag
+rev_000364,120d232b-79a5-4c29-a4f1-ea5dd79ddfa0,Dishwasher,Kitchen Appliances,Brian Baker,2022-12-20,2023-01-17,5,"Unbeatable Cleanliness, Energy Efficiency, and Ease of Use!"
+rev_000365,e87e97d9-c8e4-48cc-91cb-0288a5bc58ae,iPhone 13,Smartphones,Susan Barnes,2022-08-28,2022-09-12,4,"Impressive Upgrade, But Missing the Magic Touch"
+rev_000366,3398c8c4-13c1-4200-aeae-482e86d2adb2,Sofa,Furniture,Samuel Robinson,2024-04-15,2024-04-21,5,Comfort Unmatched - A Perfect Addition to My Home!
+rev_000367,de28ea9f-1402-428d-a3df-bdd25a7096d6,PlayStation 5,Gaming Consoles,Raymond Shepherd,2024-07-06,2024-07-14,2,Disappointing Experience with the PlayStation 5
+rev_000368,4b0280bd-65d5-454c-9a06-51855ae3509d,Oculus Quest,Gaming Consoles,Erin Gillespie,2024-02-13,2024-03-11,2,Disappointed with Oculus Quest's Connectivity Issues
+rev_000369,1af6bc5b-8f97-4b69-bbb6-a8021b49b277,Coffee Maker,Small Kitchen Appliances,Anna Lin,2025-01-30,2025-02-04,5,Absolutely Love My New Coffee Maker!
+rev_000370,895188dd-880f-44a1-a2e9-bce9554be2d0,Lenovo ThinkPad,Laptops,Kimberly Wilkerson,2025-01-18,2025-02-03,2,Disappointed with Lenovo ThinkPad's Battery Life
+rev_000371,c1fdd95b-ed7a-47e4-a226-ff03b1748e37,Area Rug,Home Decor,John Buchanan,2024-11-17,2024-12-13,2,Disappointing Area Rug Experience
+rev_000372,84383f62-b3d4-43ce-a9ef-384270640e2c,Ring Doorbell,Smart Home Devices,Erin Miller,2024-07-26,2024-08-13,1,Disappointed with the Ring Doorbell Performance
+rev_000373,8f7d4a2b-ae83-4003-ab58-53166b7df3ff,Oculus Quest,Gaming Consoles,Shannon Ochoa,2023-09-09,2023-09-15,5,Immersive VR Experience with the Oculus Quest!
+rev_000374,97d1cf5b-eefc-42cb-b693-ff21e66437a3,Asus ZenBook,Laptops,Ryan Mccoy,2021-08-22,2021-08-27,5,"Impressive Performance, Sleek Design - Asus ZenBook Exceeds Expectations!"
+rev_000375,634bef82-7071-4408-b905-ffd3914b034a,Smart Thermostat,Smart Home Devices,Deanna Murphy,2024-12-22,2025-01-19,4,Smarter Than Expected!
+rev_000376,d5e0c0b0-ec1a-4eb2-bdc0-eb82a517d128,Electric Range,Kitchen Appliances,Thomas Kennedy,2023-02-13,2023-03-01,4,"Satisfied, but room for improvement"
+rev_000377,b041721a-cc1f-4a49-a115-d14f693e5000,Wall Art,Home Decor,Amanda Hernandez,2022-02-17,2022-03-02,4,Great Modern Touch for a Reasonable Price!
+rev_000378,2f2699ad-6b1c-4a48-92dd-3c61de460963,Refrigerator,Kitchen Appliances,Brenda Johnson,2021-11-19,2021-12-17,5,Absolutely Pleased with My New Fridge!
+rev_000379,82ffd869-ec5a-4cf2-9cdf-8734ad34710c,Smart Thermostat,Smart Home Devices,Molly Prince,2022-05-07,2022-05-12,5,Phenomenal Energy Savings with the Smart Thermostat!
+rev_000380,6939918d-3869-4f4a-ac3d-465d21b028ba,Asus ZenBook,Laptops,Kelly Stevens,2022-06-20,2022-07-03,3,"ZenBook's Potential, but Not Quite Perfect Yet"
+rev_000381,1ec0c104-1584-49e9-8e87-0a6357979ff6,Amazon Echo,Smart Home Devices,Peter Holmes,2025-02-23,2025-03-12,3,Mixed Feelings About My Amazon Echo
+rev_000382,0cc4a293-708d-4816-9311-7b5ef2297341,Samsung Galaxy Tab,Unknown Category,Susan Sanchez,2024-11-12,2024-11-30,2,Disappointed with Samsung Galaxy Tab Experience
+rev_000383,b04d2489-6116-4da4-9fe7-6a2607aef8a3,Area Rug,Home Decor,Victoria Grant,2021-09-06,2021-09-14,5,Stunning Addition to My Living Room!
+rev_000384,760eba10-8441-41b3-a59c-d839b997b5b1,Amazon Echo,Smart Home Devices,Jeremy Ramirez,2024-06-14,2024-06-27,5,Incredible Home Assistant Upgrade!
+rev_000385,5e35445a-4a9f-4bde-8e82-3a78eb065fdf,Audio-Technica Turntable,Audio Equipment,Raven Hill,2021-09-15,2021-10-14,4,A Solid Turntable for the Price
+rev_000386,972127e1-0ef1-44da-904f-56c506d11471,Wall Art,Home Decor,Matthew Moran,2024-12-17,2025-01-05,1,Disappointing Wall Art Quality and Delivery Time
+rev_000387,b2c91f8f-4394-4c42-8383-899927f2d8e6,Electric Range,Kitchen Appliances,Michael Walter,2021-06-11,2021-07-07,2,Disappointing Cooktop Performance
+rev_000388,c0258f28-5727-4c11-bbfa-226eda85ce3d,Duvet Cover,Bedding,Joseph Kennedy,2024-12-23,2024-12-26,5,Dreamy Comfort Delivered!
+rev_000389,5900a2a7-acd6-496d-8959-6b52b0389960,Sofa,Furniture,Dennis Williams,2022-03-23,2022-04-16,4,"Comfortable, Yet a Few Adjustments Needed"
+rev_000390,e058a5e6-39ed-4f34-b7ee-f38f8a2ca160,Google Pixel 6,Smartphones,Randy Burke,2023-11-15,2023-11-23,5,"Stellar Performance, Impressive Features!"
+rev_000391,4b1a354e-6624-4e16-be4f-8384c820e72a,iPhone 13,Smartphones,David Marsh,2022-09-08,2022-09-10,5,"Unmatched Performance, Perfect Fit for My Needs"
+rev_000392,66e2d02f-b8fe-48c5-bccc-63f6a8eb0b52,Throw Pillows,Home Decor,Johnny Walsh,2023-04-21,2023-04-29,4,"Nice, but not as colorful as expected"
+rev_000393,f9c13e05-1e48-4c4d-81d1-17510c9eb527,Range Hood,Kitchen Appliances,Dustin Chapman,2022-10-18,2022-11-14,3,Mixed Feelings About My New Range Hood
+rev_000394,d70a918b-2742-44fa-8ed2-a28f79ea81e2,Dutch Oven,Cookware,Jose Stone,2024-05-23,2024-06-05,3,"Sufficient, but Could Use Some Improvements"
+rev_000395,fdca26a8-5143-415d-9897-1a9cf8f4f67a,Oculus Quest,Gaming Consoles,Joyce Martinez,2020-12-27,2021-01-09,5,Immersive Gaming Experience with the Oculus Quest
+rev_000396,773f2a0e-3492-44e9-b149-4e7bb5d407b7,External Hard Drive,Computer Accessories,Lisa Diaz,2023-02-17,2023-02-18,5,Trusty Data Vault - A Reliable Companion for My Digital Life
+rev_000397,013cfe6a-5bab-4c7c-99a5-3bca600a1521,Smart Thermostat,Smart Home Devices,Jennifer Fletcher,2024-03-08,2024-03-14,5,Perfect for a Smarter Home!
+rev_000398,01345fb6-51d5-40ab-afbd-62316cd3bad9,Samsung Galaxy S22,Smartphones,Luis Simmons,2022-12-27,2023-01-20,4,"Solid Performance, Minor Quibbles"
+rev_000399,cc1d74b1-cdd7-4ad0-9f85-36896c691cca,HP Spectre,Laptops,Kelly Long,2024-04-07,2024-04-26,2,Disappointed with the HP Spectre
+rev_000400,80fb240e-2633-4f4f-972c-735333b7652d,Pillows,Bedding,Jacob Johnson,2022-04-05,2022-04-21,5,Dreamy Nights with New Pillows!
+rev_000401,838aa59a-3e49-4bf0-9fdb-52c98b892d8e,Range Hood,Kitchen Appliances,Susan Thompson,2024-02-18,2024-02-26,5,Perfect Range Hood for Modern Kitchens!
+rev_000402,6a17bb86-f876-415b-af4d-1793e02bc17a,MacBook Pro,Laptops,Ryan Green,2024-03-24,2024-04-21,4,"Reliable Performance, Lacking in Innovation"
+rev_000403,e65feeda-b1e5-4bdd-ae92-8249b17ab914,Microwave Oven,Kitchen Appliances,Samuel Adams,2024-11-28,2024-11-29,5,Cooking Convenience at its Best!
+rev_000404,fd6e40d3-ec47-4239-8043-b8c81f9191f1,iPhone 13,Smartphones,Justin Mason,2025-02-02,2025-03-01,5,iPhone 13 - A Game Changer!
+rev_000405,e3047f81-587f-4f93-af27-11353692d40d,Bed Frame,Furniture,Wesley Brown,2021-07-09,2021-08-05,4,Solid yet Simple Bed Frame
+rev_000406,0bf951aa-d25e-4e9d-b8d7-bf3e84c7f5f5,Bookshelf,Furniture,Kristy Morris,2024-11-16,2024-12-02,5,A Perfect Addition to My Home Library
+rev_000407,d331760b-e2f7-4e63-9172-512cba097aa3,Throw Pillows,Home Decor,Heather Williams,2024-02-21,2024-03-01,5,Finally Found the Perfect Accent for My Living Room!
+rev_000408,a7771fa7-c25a-4bcf-81ba-068ac859379f,Dell Inspiron Desktop,Desktop Computers,Kathy Murray,2021-12-21,2022-01-03,5,Exceptional Performance - Dell Inspiron Desktop Perfect for My Needs!
+rev_000409,8118b5df-246b-4da3-a645-04f47d24f067,Office Desk,Furniture,Sabrina Nicholson,2022-12-13,2022-12-24,3,"Decent Workspace, But Needs Some Adjustments"
+rev_000410,e415b8f1-3b99-4f34-89da-e8f8e4e90404,Smart Thermostat,Smart Home Devices,James Shaffer,2021-11-21,2021-12-04,4,Almost Perfect Smart Thermostat
+rev_000411,3d799d0f-a474-4d62-b3e4-166a55596509,Philips Hue Lights,Smart Home Devices,Steven Maldonado,2024-05-25,2024-06-19,5,Brilliantly Illuminating My Smart Home!
+rev_000412,104d4d5b-c2ee-48cf-96b7-57e396c463aa,Office Desk,Furniture,Zachary Galvan,2021-12-17,2022-01-07,3,"Solid Construction, Lacking in Functionality"
+rev_000413,fe8617c0-88c9-4652-9cf1-1aba14eb6a7e,Dell XPS 15,Laptops,Sydney Garcia,2024-11-03,2024-11-13,4,Powerful Workhorse with a Few Quirks
+rev_000414,efa81288-71df-438f-8403-7903ffb3ac78,Microwave Oven,Kitchen Appliances,Julie Johnson,2022-03-05,2022-03-09,4,Reliable Performance with a Few Quirks
+rev_000415,1e9a83f9-fea1-42e5-a441-821c7b8d7e92,Bose Headphones,Audio Equipment,Steven Mullins,2023-05-03,2023-05-30,4,"Great Sound Quality, But Battery Life Could Be Better"
+rev_000416,d36abca8-bc02-48f2-876a-0c52cf374042,Nintendo Switch,Gaming Consoles,Mario Vaughn,2021-10-29,2021-11-04,5,A Timeless Classic for the Whole Family!
+rev_000417,c6ae1bf5-7f76-405a-ac9a-ab794cdfd5a9,Toaster,Small Kitchen Appliances,Rebecca Salas,2024-08-07,2024-09-04,5,Perfect Toaster for a Quick and Delicious Breakfast!
+rev_000418,544b2478-6e77-42bf-afa6-5b0800c0f552,Audio-Technica Turntable,Audio Equipment,Kathy Reid,2024-04-04,2024-04-11,3,Adequate Turntable for the Price Point
+rev_000419,1e087440-948c-4b88-a129-564cef585be0,Sony Bravia,TVs,Robert Glover,2023-04-18,2023-04-23,3,"Decent Picture Quality, But Some Disappointments"
+rev_000420,7734900b-ac61-4d54-b0fc-e44239ebfe1c,Throw Pillows,Home Decor,Thomas Smith,2023-06-03,2023-06-14,3,"Pleasing Patterns, But Quality Could Be Better"
+rev_000421,da45fbca-7e0b-46ac-879a-05f37c79ed12,Samsung Galaxy S22,Smartphones,Michael Wells,2024-11-21,2024-12-04,5,Impressed with the Samsung Galaxy S22
+rev_000422,7fad430a-b4f1-41a3-9629-106c09a77a58,Lenovo Tab,Tablets,Renee Newton,2023-03-29,2023-04-24,5,Lenovo Tab - A Perfect Fit for My Needs!
+rev_000423,c6674574-4631-4219-b090-fd2e8c029c66,Refrigerator,Kitchen Appliances,Patricia Patrick,2021-10-26,2021-11-20,4,Good but not perfect refrigerator
+rev_000424,ccea51cc-3733-4d90-8058-e8300231e4db,Duvet Cover,Bedding,Richard Wright,2024-11-13,2024-12-02,5,Warmth and Style Combined in One Package!
+rev_000425,342c21a2-0da9-4050-89d8-baf305ad94b8,Bed Frame,Furniture,Misty Norman,2021-04-09,2021-05-02,5,Dreamy Slumber at Last!
+rev_000426,6acf348b-c6bf-4f55-91f2-82cb9a0a4878,Table Lamp,Home Decor,Gwendolyn Ford,2024-11-08,2024-11-18,5,Perfect Addition to My Cozy Corner!
+rev_000427,b373f0b4-6002-49f9-83c2-f2f1f60f1b4d,Electric Range,Kitchen Appliances,Shelly Guzman,2021-11-17,2021-11-27,5,Cooking with Convenience!
+rev_000428,5c7900b1-20db-433e-a944-29e2f8a3bec2,Throw Pillows,Home Decor,Robert Torres,2022-02-21,2022-03-04,4,Quality Pillows with Slight Hiccups in Delivery
+rev_000429,fc55095c-9950-4e22-b8bb-c9f50871dd92,Oculus Quest,Gaming Consoles,Randy Russell,2024-11-29,2024-12-20,5,Virtual Reality Gaming Elevated to a Whole New Level!
+rev_000430,18603f49-dcd8-40e7-a3fe-11752ed67164,iPhone 13,Smartphones,Oscar Cohen,2022-08-31,2022-09-07,4,"Almost Perfect, But Could Be Better"
+rev_000431,88af5169-3cb9-4391-a7f7-0fe10c554cff,LG OLED TV,TVs,Michael Graham,2022-12-21,2023-01-08,5,"Stunning Picture Quality, Smooth Performance"
+rev_000432,ec2c0b87-6078-4d9a-859b-0d1f33e3431b,Oculus Quest,Gaming Consoles,Felicia Hunter,2023-10-22,2023-10-26,5,Immersive Virtual Reality Experience!
+rev_000433,f485d789-2271-47e1-a43a-2f2577db73d9,Ring Doorbell,Smart Home Devices,Claire Carter,2023-12-03,2023-12-05,5,Impressive Security Boost with the Ring Doorbell!
+rev_000434,d631f9f8-7e02-4cb4-b43b-68d1bbbef3cd,Wall Art,Home Decor,Kathy Turner,2022-07-05,2022-07-19,5,Stunning Wall Art Addition!
+rev_000435,6b5e830b-8b82-4525-ae00-bc07ca208a58,Asus ZenBook,Laptops,Shannon Hernandez,2024-11-12,2024-11-25,3,A Mixed Bag Experience with the Asus ZenBook
+rev_000436,50ea954b-9720-4db6-91ef-50f3d789304f,Vizio SmartCast TV,TVs,Kenneth Fowler,2021-02-28,2021-03-29,4,Decent Smart TV for the Price
+rev_000437,6e08bf91-6b74-437b-aec9-c5198c9d776e,Throw Pillows,Home Decor,Eric Johnson,2024-08-04,2024-08-16,5,Stylish and Comfortable Addition to My Living Space
+rev_000438,5dcf0033-0652-42c8-9175-467f9d328d93,Baking Sheet,Cookware,Christopher Ramos,2024-08-23,2024-08-30,5,Impressive Non-Stick Baking Sheet!
+rev_000439,d73c1a44-e1d5-4dc8-8adf-896da1ea0011,Dell XPS 15,Laptops,Sheila Goodwin,2023-05-04,2023-05-06,2,Disappointing Performance for a High-End Laptop
+rev_000440,5b8d04cc-0f17-4701-9998-e7abc465dbc9,Steam Deck,Gaming Consoles,Wayne Higgins,2024-02-06,2024-02-19,3,Mixed Feelings about the Steam Deck
+rev_000441,062cab8a-c223-4733-a7a5-2dc2a8e6eef9,Office Desk,Furniture,Tamara Hess,2022-12-05,2022-12-19,3,Functional yet Lacking Aesthetics
+rev_000442,701c1c5a-434a-4f63-a3cb-0c0ec669827c,Refrigerator,Kitchen Appliances,Jason Sullivan,2022-06-18,2022-07-15,5,Efficient and Stylish Modern Kitchen Companion
+rev_000443,b0ea6b1f-5214-409b-bee4-c9642521a10d,USB-C Hub,Computer Accessories,Wayne Dougherty,2024-07-25,2024-08-11,5,Game Changer for My Workflow!
+rev_000444,e30be336-0d37-458f-bd41-17e7348ff48b,PlayStation 5,Gaming Consoles,Robert Hughes,2022-08-23,2022-09-01,3,"Solid Gaming Experience, Room for Improvement"
+rev_000445,77a07097-7061-4e2e-a721-e4444ae2c235,Comforter Set,Bedding,Rachel Diaz,2024-12-27,2025-01-13,4,Cozy Comforter Set - Almost Perfect!
+rev_000446,09336038-48af-4a40-9d70-e502c23f7e08,LG OLED TV,TVs,Tracey Patterson,2023-12-06,2023-12-14,5,Stunning Visuals Transform My Home Entertainment
+rev_000447,87d04e00-e831-4ccc-bd36-df7564979e7a,Ring Doorbell,Smart Home Devices,Amanda Daniel,2023-10-17,2023-10-19,5,Completely Satisfied with the Ring Doorbell!
+rev_000448,b094103e-28d5-4134-a0d4-c450f4e23e44,Blender,Small Kitchen Appliances,Lisa Ortiz,2024-07-12,2024-08-09,4,Almost Perfect Blender for the Price
+rev_000449,bdfa3648-c431-458e-af1b-1431245af8d1,Dining Table,Furniture,Walter White,2023-06-16,2023-07-10,4,Practical but Needs a Personal Touch
+rev_000450,82a0fe9b-dc7a-4419-bd03-15c57037790b,Bed Frame,Furniture,Paige Miranda,2023-11-02,2023-11-15,4,Sturdy yet missing parts - a promising bed frame
+rev_000451,ae916ce8-11b7-4724-a318-da5512dcd004,Lenovo ThinkPad,Laptops,Adam Brewer,2024-07-30,2024-08-02,4,A Solid Workhorse with Room for Improvement
+rev_000452,3f289462-576d-4fba-9db0-5ea2867f9741,Oculus Quest,Gaming Consoles,Whitney Myers,2024-02-11,2024-02-27,4,Immersive yet Minor Hiccups
+rev_000453,d0dd3ff4-a808-4d28-9dc9-e58b6ace9fe5,Samsung Galaxy S22,Smartphones,Elizabeth Fitzgerald,2024-01-08,2024-01-14,5,Absolutely Impressed with the Samsung Galaxy S22!
+rev_000454,fdfa6769-c97c-44f3-b936-54c6ca14aa81,Range Hood,Kitchen Appliances,Blake Owens,2024-03-07,2024-03-26,5,Perfect Range Hood for Modern Kitchens!
+rev_000455,1bc6bbfd-09cf-4d31-9006-3c745a3977b0,Philips Hue Lights,Smart Home Devices,Mandy Miller,2023-06-24,2023-07-01,5,Transforming My Home with Philips Hue Lights!
+rev_000456,a299ab67-2c58-4b60-aab1-8e5f3075652b,Dutch Oven,Cookware,Christian Myers,2024-12-20,2024-12-30,5,Perfectly Cooked Meals Every Time!
+rev_000457,2687089c-9f74-4772-8932-1a32376d0d33,HP Spectre,Laptops,Christina Price,2024-12-13,2024-12-22,3,Mixed Feelings About My HP Spectre
+rev_000458,047d3911-a462-446e-84c5-4bccb48aaf0e,Food Processor,Small Kitchen Appliances,Joe Glover,2024-08-16,2024-08-18,4,A Solid Workhorse for My Kitchen
+rev_000459,3eb2fa6f-4d4f-45d4-85b1-f22d94e8308d,Knife Set,Cookware,Peter Abbott,2024-11-06,2024-12-04,1,"Disappointing Quality, Poor Craftsmanship"
+rev_000460,4dbb831c-5969-4985-b16f-c3ff5d13fa53,Mechanical Keyboard,Computer Accessories,Danielle Hernandez,2023-09-26,2023-10-24,3,"Decent Mechanical Keyboard, but Quality Concerns Persist"
+rev_000461,4ba08613-973d-40b1-b040-f59a9a7a3bf9,Dell Inspiron Desktop,Desktop Computers,,2020-11-14,2020-11-29,5,Perfect First Desktop for a College Freshman
+rev_000462,9b18ad7e-6f9e-4f13-b176-d45937a9d88f,Sony Bravia,TVs,Latasha Murphy,2024-08-27,2024-09-01,5,Sony Bravia: A Perfect Companion for My Golden Years!
+rev_000463,161e8846-e3f1-421b-81b6-d1afb3178f47,iPhone 13,Smartphones,Leslie Anderson,2023-01-28,2023-02-26,2,Disappointed with the iPhone 13
+rev_000464,1da7d2e2-192a-4dab-9f5e-0c2e71b894d5,Asus ZenBook,Laptops,Ariana Hicks,2023-12-18,2024-01-09,4,"Decent Laptop, Room for Improvement"
+rev_000465,b77212a9-915d-489e-8a2c-632d38185f57,iMac,Desktop Computers,Danielle Trujillo,2022-11-12,2022-11-16,5,Unbelievable Power and Design - My New iMac!
+rev_000466,efee4b39-a0b2-4d22-a059-94a8e89ccb94,HP Pavilion,Desktop Computers,Dennis Moyer,2022-08-25,2022-09-14,3,Mixed Feelings about the HP Pavilion
+rev_000467,993bc3ba-1abf-4ecb-a9bb-8e3237818b5f,Food Processor,Small Kitchen Appliances,Mary Bishop,2020-12-25,2020-12-29,4,"Efficient Chopper, Needs Improvement on Durability"
+rev_000468,b9341e74-d4d5-44df-a959-8211b47cb8fc,Area Rug,Home Decor,Evelyn Taylor,2024-11-28,2024-12-16,5,Lovely Addition to My Living Room!
+rev_000469,25301b77-6eee-4331-83bb-93429b8b077e,OnePlus 10,Smartphones,Amanda Andrews,2024-08-01,2024-08-05,5,Unbelievable Performance - OnePlus 10 Exceeds Expectations!
+rev_000470,a09050ea-c07b-4b1c-98f5-f7874aa10d94,Mechanical Keyboard,Computer Accessories,Christian Anderson,2024-12-04,2024-12-31,3,Mixed Feelings About the New Mechanical Keyboard
+rev_000471,297151d6-e6b7-41d1-9e74-e684375b7d65,PlayStation 5,Gaming Consoles,Kayla Copeland,2022-11-17,2022-12-04,4,"Almost Perfect, Needs Minor Improvements"
+rev_000472,6cb586eb-fd37-49a5-807f-d5a6aa4b9e5f,Bose Headphones,Audio Equipment,Karen Singleton,2024-05-07,2024-05-19,5,"Bose Headphones - Perfect Sound, Perfect Fit"
+rev_000473,acf9eb2c-b168-49c4-be76-0eef8c6f98c7,Bookshelf,Furniture,Christy Coleman,2023-12-16,2024-01-07,4,Decent Bookshelf for the Price
+rev_000474,7b189680-0496-4384-bd94-8152cea9a0cd,Sony Soundbar,Unknown Category,Colin Khan,2023-06-16,2023-07-03,1,Disappointing Acoustic Experience
+rev_000475,d2fdc2f5-e605-4263-ac0e-7b51f5712b0d,Bookshelf,Furniture,Joshua Perez,2024-08-18,2024-08-28,5,"Solid Craftsmanship, Perfect Fit for My Home Library!"
+rev_000476,32093299-8b1d-41ab-b792-03d42bf3d456,Asus ZenBook,Laptops,Jill Reynolds,2025-02-11,2025-03-05,2,ZenBook Disappointment in Performance
+rev_000477,ce70922d-2d4a-45b8-a270-409a98b00caf,Dell XPS 15,Laptops,Jason Novak,2024-01-04,2024-01-05,5,Exceptional Performance and Stunning Design - Dell XPS 15 Exceeds Expectations!
+rev_000478,c7ea78c6-05a3-42ab-865c-95df1d220100,Office Desk,Furniture,Steven Owen,2024-01-03,2024-01-25,3,"Decent Desk, Room for Improvement"
+rev_000479,33fd48e7-e1e7-4f4e-96e5-4c650f7baba0,Office Desk,Furniture,Margaret Johnson,2022-11-29,2022-12-25,5,Perfectly Suited for My Needs!
+rev_000480,f1c9c3c9-6fdb-476a-81ab-ee01cde0402c,Webcam,Computer Accessories,Deborah Bautista,2023-03-02,2023-03-26,4,"Good Quality, Slightly Complicated Setup"
+rev_000481,68cb0869-da5e-4471-8c33-a1cf13926a2a,Steam Deck,Gaming Consoles,William Watson,2023-04-24,2023-05-21,4,A Compelling Portable Gaming Experience - Almost There!
+rev_000482,2d8d2d87-88b4-4b10-bccd-dc2fcf1b3785,Bookshelf,Furniture,Mason Bright,2024-07-18,2024-08-05,3,"Decent Shelving, but Assembly Woes"
+rev_000483,d56a67ba-54d6-4b29-aa11-d59b67248e8e,Smart Thermostat,Smart Home Devices,Ryan Johnson,2025-02-18,2025-03-08,4,"Decent Smart Thermostat, Room for Improvement"
+rev_000484,78632bd7-53cc-4ea1-84d5-30bba4d8379a,Bookshelf,Furniture,Kyle Williams,2023-10-19,2023-11-02,5,Sturdy and Attractive Addition to My Home Library
+rev_000485,b34a26a4-c236-44ee-aaa3-1025d5082d23,Nintendo Switch,Gaming Consoles,Aaron Fowler,2023-08-28,2023-09-12,5,The Perfect Game Companion for Modern Gaming
+rev_000486,4c8ac31d-14e7-4821-b728-b90a2b9a29fe,Lenovo ThinkPad,Laptops,Andrew Singh,2024-12-31,2025-01-29,4,A Solid Workhorse for Everyday Use
+rev_000487,03f8403f-a26b-4905-b4df-37de3c0d3bc9,Microwave Oven,Kitchen Appliances,David Stewart,2022-11-27,2022-12-09,4,"Decent Microwave, Could Use Some Improvements"
+rev_000488,b63abd3a-7745-4d7d-9291-890be122dea8,Xiaomi Mi 12,Smartphones,Connie Miller,2025-02-10,2025-02-14,5,"Incredible Performance, Future-Proof Phone!"
+rev_000489,aa14fc68-75d3-430c-bb79-32c71f6d3873,Microwave Oven,Kitchen Appliances,Maria Patterson,2024-11-04,2024-12-01,5,A Perfect Fit for My Kitchen Needs!
+rev_000490,f55a3a2e-bdb1-4a1c-bca3-2942f930420b,,Desktop Computers,Tom Jordan,2024-02-29,2024-03-03,4,"Solid Performance, Room for Improvement"
+rev_000491,bfdb0b8e-efd0-4f72-9ea2-2a89e6a14432,PlayStation 5,Gaming Consoles,James Bailey,2024-04-17,2024-05-07,4,"Impressive Gaming Experience, but Room for Improvement"
+rev_000492,44045868-ae2f-4166-ba0f-a9cebd047dd0,Smart Thermostat,Smart Home Devices,Jeff Lopez,2023-10-22,2023-11-20,4,Satisfied but still learning
+rev_000493,9fee71c0-7d17-456d-a61d-b191da606827,Wall Art,Unknown Category,Sheri Lee,2024-12-16,2024-12-28,5,Stunning Wall Art Addition!
+rev_000494,861c66ad-3aec-4dac-9ffb-cf19c89067c6,Sofa,Furniture,Kevin Jones,2024-06-29,2024-07-06,1,Unsatisfactory Purchase Experience with the 'Comfort' Sofa
+rev_000495,73535597-b91c-4b8a-b33c-24720e0a12db,Cookware Set,Cookware,,2023-04-26,2023-05-25,5,Unmatched Quality Cookware Set!
+rev_000496,5604e624-f2b4-4017-9b6c-cea1c7f3fde6,Sofa,Furniture,Michelle Clarke,2021-04-06,2021-04-17,4,Comfy but Needs Assembly Improvements
+rev_000497,c3b79f1e-b442-4437-a4f2-209f78877b4f,Office Desk,Furniture,John Herrera,2023-07-17,2023-07-18,5,A Perfect Addition to My Home Office!
+rev_000498,1f811234-61bd-4154-8237-62e8553ba894,Microwave Oven,Kitchen Appliances,Robert Freeman,2022-12-23,2022-12-29,2,Disappointing Microwave Performance
+rev_000499,7d4e27f7-b890-419e-9b7d-1a6b029052d5,USB-C Hub,Computer Accessories,Luis Garrison,2024-01-11,2024-01-26,4,Decent USB-C Hub with a Few Quirks
+rev_000500,21455a7f-8e55-481b-9481-3452b26dc0a2,Amazon Echo,Smart Home Devices,Thomas Cox,2024-11-04,2024-11-19,4,"Impressed by the Amazon Echo's Convenience, but Voice Recognition Needs Improvement"
+rev_000501,28647e01-c4a4-49c2-a9e5-453c0f7d6966,Sony Bravia,TVs,Alejandro Holloway,2021-09-16,2021-10-05,5,A Gorgeous Addition to My Home Theater
+rev_000502,8c4753bf-8c6a-4040-8d58-12472006cc9e,PlayStation 5,Gaming Consoles,Jennifer Hunt,2022-10-26,2022-11-06,2,Disappointed with the PlayStation 5
+rev_000503,e79697c7-4d33-49b9-8ec9-3a883f3b6733,Comforter Set,Bedding,Joseph Harvey,2023-10-18,2023-11-13,4,"Cozy Comforter Set, Needs a Few Improvements"
+rev_000504,00a6835b-c50a-49a9-a1b5-19d74d3e1863,Sonos Speaker,Audio Equipment,William Sparks,2023-03-02,2023-03-25,4,"Sonos Speaker - A Great Companion, But Needs a Few Tweaks"
+rev_000505,993bc3ba-1abf-4ecb-a9bb-8e3237818b5f,Microsoft Surface,Tablets,Mary Bishop,2022-05-25,2022-06-20,4,A Versatile Companion for Work and Leisure
+rev_000506,2bf3e73b-4321-4d5a-9fe4-87ed2ff74a73,Dining Table,Furniture,Anna Bailey,2024-11-12,2024-11-14,5,Perfect Addition to Our Home!
+rev_000507,f7f25979-e5cf-4629-8f12-ef2c56fbffb2,Throw Pillows,Home Decor,Michael Lee,2024-07-05,2024-07-19,5,Perfect Addition to My Living Room Decor
+rev_000508,d17f5ba7-50a9-4c5d-8d2c-b6d8c89c5b0b,Bose Headphones,Audio Equipment,Shawn James,2024-12-10,2024-12-12,5,"Sounding Excellent, Comfort Unmatched!"
+rev_000509,f3d367e4-9758-4dfe-abfb-2e1a2e6e76ca,Area Rug,Home Decor,Robert Lyons,2023-11-22,2023-12-21,4,"Decent Rug, Room for Improvement"
+rev_000510,ea2bd1b9-adf1-4f2d-8598-d07024cd0507,Office Desk,Furniture,Marie Jenkins,2023-10-16,2023-10-20,5,Perfect Desk for a Productive Workspace!
+rev_000511,3d799d0f-a474-4d62-b3e4-166a55596509,iPhone 13,Smartphones,Steven Maldonado,2024-08-16,2024-09-02,4,"A Solid Improvement Over the Predecessor, Still Room for Growth"
+rev_000512,766e5911-549d-431a-99f4-fb97e73fcdb0,Google Pixel 6,Smartphones,Dustin Reynolds,2022-03-17,2022-03-20,2,Disappointing Battery Life Ruins Google Pixel 6 Experience
+rev_000513,34990506-c3ee-4dca-b78a-9caf150b14f2,Air Fryer,Small Kitchen Appliances,Timothy Ramirez,2024-04-27,2024-05-10,2,Disappointing Air Fryer Experience
+rev_000514,04bf60ba-f574-4e1a-9d96-f1b5d81b6080,Table Lamp,Home Decor,Michael Mcguire,2025-01-17,2025-01-26,4,Pleasingly Illuminated Evenings
+rev_000515,37cff1f7-07ca-42fb-857b-15fcaa0478d8,PlayStation 5,Gaming Consoles,Gregory Edwards,2023-09-04,2023-09-11,5,A Gaming Marvel Unleashed!
+rev_000516,d8d35a24-d4db-4656-a060-fb272535a2c6,,Smartphones,Jonathan Bennett,2024-02-06,2024-02-21,5,Incredible Powerhouse in My Pocket!
+rev_000517,91bc7626-d8e7-4259-a666-5d05f912aa18,iPhone 13,Smartphones,Aaron Bauer,2025-01-11,2025-02-03,5,A Game Changer for Everyday Life!
+rev_000518,18c519e9-14bf-4c18-b9b3-b192b36c1bec,iPhone 13,Smartphones,Paul Davis,2024-09-10,2024-10-09,4,"A Solid Upgrade, but Missing Some Zest"
+rev_000519,81337e45-66e1-4ae3-8a27-beb2ea38b31b,Google Pixel 6,Smartphones,Jay Wood,2022-09-22,2022-10-21,4,"A Solid Smartphone, But Needs Some Polish"
+rev_000520,4f496809-47e0-4a6b-a589-7201954efde0,Steam Deck,Gaming Consoles,Terry White,2024-05-02,2024-05-13,3,"Decent Portable Gaming, but Needs Improvements"
+rev_000521,297151d6-e6b7-41d1-9e74-e684375b7d65,Google Pixel 6,Smartphones,Kayla Copeland,2024-01-07,2024-01-27,4,Decent Phone with a Few Glitches
+rev_000522,43f4155a-69e9-4962-bfaf-06bd252863c8,Asus ROG,Desktop Computers,Adam Frazier,2024-02-13,2024-02-15,4,Impressive Gaming Performance with a Few Niggles
+rev_000523,5c7900b1-20db-433e-a944-29e2f8a3bec2,Toaster,Small Kitchen Appliances,Robert Torres,2024-11-27,2024-12-12,2,"Disappointing Quality, Great Design"
+rev_000524,fa70be8a-8e19-456e-910b-0d35983897f0,Bookshelf,Furniture,Samuel Hernandez,2021-06-25,2021-07-09,3,Decent Bookshelf but Needs Sturdier Construction
+rev_000525,878d7b23-e674-4250-9454-02cd22e91ad7,Smart Thermostat,Smart Home Devices,Rodney Smith,2023-08-01,2023-08-21,4,"Solid Smart Thermostat Performance, Room for Improvement"
+rev_000526,d2fdc2f5-e605-4263-ac0e-7b51f5712b0d,Throw Pillows,Home Decor,Joshua Perez,2024-12-08,2024-12-30,5,Perfect Addition to My Living Room!
+rev_000527,41f6af96-f016-478e-ae87-0205bd64145c,MacBook Pro,Laptops,David Morris,2022-05-19,2022-05-30,5,Unmatched Powerhouse for Creativity and Productivity!
+rev_000528,37d6e156-8809-40ca-a37d-557e35ba5dd3,Smart Thermostat,Smart Home Devices,Angela Bean,2024-01-06,2024-02-02,5,Revolutionizing My Home Comfort with the Nest Learning Thermostat!
+rev_000529,2b68d490-826e-4de4-a6fe-18df5bde2a56,Samsung Galaxy S22,Smartphones,Michael Smith,2022-10-22,2022-10-25,5,Finally Found My Dream Phone!
+rev_000530,e59f3361-b29d-4071-88d8-ea0429494699,Coffee Maker,Small Kitchen Appliances,Morgan Lewis,2023-11-19,2023-12-06,4,"Solid Performer, Room for Improvement"
+rev_000531,7de5b055-9346-4f70-95fb-cd7f0ec654ef,Google Pixel 6,Smartphones,Kimberly Williamson,2024-04-30,2024-05-12,5,Absolutely Impressed with Google Pixel 6!
+rev_000532,8602ac95-e2ff-414c-b001-45e8d82b9ff1,Coffee Maker,Small Kitchen Appliances,Matthew Archer,2025-01-14,2025-02-07,5,A Perfect Brew Every Time!
+rev_000533,86e7f0c5-afce-4715-bfc3-1126cf765ba9,PlayStation 5,Gaming Consoles,John Pierce,2024-07-29,2024-08-26,3,Mixed Feelings About the PlayStation 5
+rev_000534,647d270e-92f8-4f71-86d4-23b069d01492,Table Lamp,Home Decor,William Jackson,2024-12-14,2025-01-12,4,"Pleasingly Bright, Yet Missing a Warm Touch"
+rev_000535,2db7ff56-ef23-4fce-8fda-6e8f0972e044,Nintendo Switch,Gaming Consoles,Jorge Oliver,2022-01-22,2022-02-12,5,Absolutely Impressed with the Nintendo Switch!
+rev_000536,f9d1153c-8ce6-4465-bd29-3ef719f5ad19,Bookshelf,Furniture,Helen Mejia,2023-08-26,2023-09-10,4,"Sturdy, Modern Design But Assembly Challenging"
+rev_000537,28bbb151-519e-4a18-b9c3-450d4923340c,TCL Roku TV,TVs,Connor Nelson,2022-12-01,2022-12-17,4,Quality Smart TV at an Affordable Price
+rev_000538,ef7c2291-ee9e-43cb-99c3-59c9585ae9ea,Smart Thermostat,Smart Home Devices,Cassandra Perez,2024-11-17,2024-11-22,4,"Impressive Energy Savings, Yet Needs Some Polishing"
+rev_000539,e103b6ea-943f-430b-b0ac-6af0ff6665b8,Coffee Maker,Small Kitchen Appliances,Craig Ward,2024-05-12,2024-06-08,3,"Decent, But Room for Improvement"
+rev_000540,e9ca7267-be93-4deb-9e04-16dc13a8e675,Bed Frame,Furniture,Erika Cruz,2024-12-06,2024-12-26,4,Solid but Lacking in Aesthetics
+rev_000541,1fc03a9e-7f0f-4633-a41b-894018baf4f3,Curtains,Home Decor,Lucas Webb,2024-02-01,2024-02-07,4,"Nice Curtains, But Adjustment Needed"
+rev_000542,f006974f-cad9-47b5-b924-f796510e0c9c,Lenovo ThinkPad,Laptops,Natasha Anderson,2022-05-03,2022-05-22,1,Disappointing Durability - Lenovo ThinkPad
+rev_000543,b34a26a4-c236-44ee-aaa3-1025d5082d23,Range Hood,Kitchen Appliances,Aaron Fowler,2021-07-09,2021-08-03,1,"Misleading Marketing, Disappointing Performance"
+rev_000544,7d8ca7f9-53b5-4873-ab94-b3dbc1daf4a3,Dutch Oven,Cookware,Amy Dixon,2023-11-07,2023-11-12,5,My New Favorite Dutch Oven!
+rev_000545,4fbbecb5-61f6-4cd9-925d-94343b0e60be,Philips Hue Lights,Smart Home Devices,Dennis Hernandez,2021-12-29,2022-01-01,4,"Impressive Smart Lighting Experience, Yet Needs a Few Adjustments"
+rev_000546,a6f0749f-c7d4-423b-8a57-adb30ad45cfe,Samsung QLED TV,TVs,Felicia Adams,2024-08-25,2024-09-21,4,A Solid Investment with a Few Quirks
+rev_000547,35d929a1-3970-475b-9a7e-38bb75a2c416,Smart Thermostat,Smart Home Devices,Kim Holmes,2023-11-05,2023-11-06,4,"Great Smart Thermostat, but could use more customization options"
+rev_000548,d13677b3-f6fd-45ea-a869-6f62b68d3703,Oculus Quest,Gaming Consoles,Daniel Jones,2025-01-21,2025-02-16,5,Immersive Virtual Reality Experience with Oculus Quest
+rev_000549,3782d278-9cfd-4418-8d89-77ba54f65ea0,Sofa,Furniture,Mary Murphy,2021-12-20,2022-01-17,4,"Comfortable Modern Sofa, with Room for Improvement"
+rev_000550,05ed2817-19b9-4dba-859b-c78c9e8cf204,Microwave Oven,Kitchen Appliances,Kyle Garza,2023-12-17,2023-12-23,4,"Solid Microwave, Could Use a Few More Features"
+rev_000551,6693efec-aacd-450e-b626-be3b20df0f78,Sofa,Furniture,Travis Bender,2023-01-30,2023-02-14,5,A Perfect Fit for My Living Room
+rev_000552,3942d572-f7ce-4b97-ac71-d9faef1e562a,MacBook Pro,Laptops,Sharon Moore,2023-09-07,2023-09-09,5,Unmatched Performance at My Fingertips!
+rev_000553,7b189680-0496-4384-bd94-8152cea9a0cd,Table Lamp,Home Decor,Colin Khan,2024-11-04,2024-12-03,3,Lightly Satisfied with the Table Lamp
+rev_000554,63935137-51a3-4529-8a2d-7eacd18cd144,OnePlus 10,Smartphones,Alexander Mckay,2021-02-02,2021-02-05,5,Incredible Upgrade with OnePlus 10!
+rev_000555,19bd454b-b969-4c36-a678-675297cad66d,JBL Bluetooth Speaker,Audio Equipment,Melissa Salazar,2022-04-28,2022-05-15,4,"Great Sound Quality, But Could Use More Bass"
+rev_000556,41468c27-6993-4925-97ad-232d68ab0d42,Refrigerator,Kitchen Appliances,Valerie Clark,2024-08-20,2024-09-14,4,Quality Kitchen Companion
+rev_000557,cb867353-4f7f-4b06-8848-aa2a59f24379,Samsung Galaxy S22,Smartphones,Joseph Hernandez,2023-11-29,2023-12-23,3,Mixed Feelings about the Samsung Galaxy S22
+rev_000558,c9a1d615-0252-49e1-9c14-02bdbbedd921,Lenovo ThinkPad,Laptops,Jennifer York,2024-10-12,2024-10-24,2,Disappointing Performance for a ThinkPad
+rev_000559,e87e97d9-c8e4-48cc-91cb-0288a5bc58ae,Range Hood,Kitchen Appliances,Susan Barnes,2021-11-09,2021-11-27,5,Fantastic Range Hood!
+rev_000560,759baa12-213c-4936-8cda-b95c8c8420e7,Xiaomi Mi 12,Smartphones,David Rangel,2024-06-24,2024-07-09,4,"A Solid Performer, but Needs Some Work"
+rev_000561,82a0fe9b-dc7a-4419-bd03-15c57037790b,Xiaomi Mi 12,Smartphones,Paige Miranda,2024-03-03,2024-03-15,4,"Impressive Performance, Minimal Quirks"
+rev_000562,feb116ce-51fb-406f-a482-32b948ef120d,Philips Hue Lights,Smart Home Devices,April Morris,2024-08-29,2024-09-14,5,Brilliantly Brighten Up My Space!
+rev_000563,a0774c16-1d1b-4c89-848e-55ceb0fba419,Google Pixel 6,Smartphones,Daniel Campbell,2023-12-12,2024-01-08,5,Exceptional Experience with Google Pixel 6!
+rev_000564,a5a50a64-b49d-454b-b287-024a8902985d,Electric Range,Kitchen Appliances,Bonnie Jones,2023-08-31,2023-09-08,3,Initial Thoughts on the New Electric Range
+rev_000565,aef2e06c-d241-4251-8b76-4ae2d50d0fd5,Xbox Series X,Gaming Consoles,Elizabeth Vargas,2023-06-10,2023-07-08,5,Unparalleled Gaming Experience with Xbox Series X
+rev_000566,61033737-9a32-4b69-bb64-71af098d5cb9,OnePlus 10,Smartphones,Kevin Powell,2024-05-30,2024-06-13,3,Mixed Feelings About the OnePlus 10
+rev_000567,bf19f2b8-262f-47c9-8102-8ae39cf09764,Xiaomi Mi 12,Smartphones,Tiffany Hardin,2024-11-25,2024-12-20,5,Absolutely Impressed with the Xiaomi Mi 12!
+rev_000568,e5f85301-7491-43c6-aec2-4dc1bac45d22,Amazon Echo,Smart Home Devices,Michael Long,2024-11-10,2024-11-27,5,Fantastic Upgrade to My Smart Home
+rev_000569,396338c4-7724-4c2a-a582-2ca5b1eb3cd1,Dining Table,Furniture,Rebekah Smith,2022-05-08,2022-06-06,5,Perfect addition to our home!
+rev_000570,e86f8814-00f8-42f0-89d2-fd2d4163170b,Electric Range,Kitchen Appliances,Shannon Burns,2023-11-10,2023-12-01,2,Disappointing Performance
+rev_000571,8260b1f4-6c31-401d-8f6b-6fbbb52dd5dc,Wall Art,Home Decor,Jordan Crawford,2024-06-29,2024-07-07,2,Disappointed with the Quality of the Wall Art
+rev_000572,316d1120-9d87-44bd-97f1-11d3bcb9cbed,HP Spectre,Laptops,Jenna Adams,2024-05-01,2024-05-16,4,A Solid Workhorse for Everyday Needs
+rev_000573,106b91ed-587c-4007-a6c6-aa23d47b7190,Bed Frame,Furniture,Isaiah Young,2024-08-29,2024-09-25,4,Solid but Lacking in Aesthetics
+rev_000574,c305bccd-e32d-4156-a081-aa62087a5c4f,Air Fryer,Small Kitchen Appliances,Michelle Parker,2024-10-21,2024-11-04,3,"Decent Air Fryer, but Needs Some Improvements"
+rev_000575,89ba500a-5071-4437-8edc-e0b3e3fa2ae6,Wall Art,Home Decor,Timothy Barnes,2024-05-30,2024-06-17,5,Stunning Addition to My Living Space!
+rev_000576,945b5966-9603-4b7e-baec-cf0bcbb9a1f7,Smart Thermostat,Smart Home Devices,Richard Pace,2021-03-03,2021-03-23,3,"Smarter Thermostat, But Needs Improvements"
+rev_000577,972127e1-0ef1-44da-904f-56c506d11471,OnePlus 10,Smartphones,Matthew Moran,2024-08-19,2024-08-26,4,"Solid Performer, Could Be More Innovative"
+rev_000578,c7fc4eaf-068c-4f3f-a872-25e6fcd6cc51,Google Pixel 6,Smartphones,Brianna Cardenas,2024-11-29,2024-12-02,5,A Game Changer for Me!
+rev_000579,796d48b5-5516-4f30-8f2f-2e97de03b335,Bookshelf,Furniture,Kathryn Robinson,2023-08-14,2023-09-12,4,"Decent Addition to My Study, Could Use Some Improvements"
+rev_000580,fd6e70e9-b46c-4b9a-9b84-daf1d368323c,OnePlus 10,Smartphones,Lauren Pollard,2024-03-07,2024-03-19,5,OnePlus 10 - Simply Stunning!
+rev_000581,39694c50-b6c8-4d17-bce7-94780521f03b,Bookshelf,Furniture,Katherine Coffey,2024-11-16,2024-12-07,2,"Disappointing Assembly Experience, Great Design"
+rev_000582,26e8572f-0273-48cb-a24f-9cea95305a3f,Xbox Series X,Gaming Consoles,Brian Vasquez,2022-11-04,2022-11-28,4,"Impressed, Yet With Some Reservations"
+rev_000583,35538c13-d44b-4fe3-b2b3-d1029e00f4b4,Sofa,Furniture,Austin Wilson,2024-07-04,2024-08-01,2,Disappointing Purchase Experience
+rev_000584,4960174a-3ac8-4a98-8466-c731462479e5,Office Desk,Furniture,Robin Keller,2021-12-13,2022-01-08,2,"Disappointing Desk Delivery, Great Design"
+rev_000585,bd365759-cc90-4454-a0ea-8aed2ff24347,Sofa,Furniture,James Medina,2024-04-11,2024-04-14,5,A Perfect Fit for My Living Room!
+rev_000586,bc1a604a-0771-4448-a4e2-7d6ffd546e26,Smart Thermostat,Smart Home Devices,Annette Walker,2020-07-02,2020-07-22,3,"Solid, But Needs Improvements"
+rev_000587,159d24c8-9135-4e45-98c7-f29267fa1733,Dining Table,Furniture,Jessica Sanchez,2022-11-08,2022-11-22,4,A Functional yet Design-Challenged Dining Table
+rev_000588,55384d80-cb52-4eeb-b093-544d18e3fc5e,Bed Frame,Furniture,Taylor Wallace,2025-02-20,2025-03-07,4,Comfortable Yet Durable Bed Frame
+rev_000589,714d88b5-6d6b-4616-b38e-084ad9cba094,Xiaomi Mi 12,Smartphones,Margaret Terry,2024-12-29,2025-01-23,4,"Impressive Performance, But Battery Life Could Be Better"
+rev_000590,d5953577-8f8e-4964-9bd8-7de63478c322,iPhone 13,Smartphones,Leslie Parker,2021-07-04,2021-07-18,5,"Unboxing Joy, Everyday Ease!"
+rev_000591,bd473345-23c1-49c9-bb01-5b7e69132c04,OnePlus 10,Smartphones,Brenda Bass,2022-04-20,2022-04-27,1,Disappointing Purchase: OnePlus 10
+rev_000592,a11bac62-1cb2-46d8-b1e9-031cf263bfc3,Xiaomi Mi 12,Smartphones,Terry Moses,2023-11-05,2023-11-22,5,Amazing Upgrade!
+rev_000593,6b028949-2f68-410e-8000-9006b4544cbb,Range Hood,Kitchen Appliances,Alexis Blevins,2024-02-03,2024-02-15,5,Exceptional Kitchen Upgrade with the Range Hood!
+rev_000594,00012aa8-e99c-4e30-b3f6-1f7e36adc517,Dishwasher,Kitchen Appliances,Ruth White,2023-10-21,2023-11-10,4,"Efficient, Yet Quirky Dishwasher"
+rev_000595,492d9c3b-1ac8-4e9d-952c-74540e3fadbe,Bookshelf,Furniture,Ashley Scott,2024-02-26,2024-03-01,5,A Perfect Addition to My Home Library!
+rev_000596,48405c0e-84f6-41d1-bde3-0ad2511dd911,Dutch Oven,Unknown Category,Danielle Sullivan,2023-06-15,2023-06-24,2,"Disappointed by Quality, Loving the Concept"
+rev_000597,550007a1-771f-40ec-b0c7-4b4b8473aa89,Range Hood,Kitchen Appliances,Jesse Williams,2022-12-05,2022-12-11,4,"Solid Range Hood Performance, but Installation Woes"
+rev_000598,22f5b895-99f6-405c-92aa-9b406d342340,Smart Thermostat,Smart Home Devices,Ashley Walker,2023-08-05,2023-08-21,4,Quite a Clever Temperature Control!
+rev_000599,06df79e7-c0ec-444b-8c4e-33459aba8d9b,Office Desk,Furniture,Heather Stevens,2022-01-02,2022-01-27,5,Perfect Fit for My Home Office
+rev_000600,52f92ec2-b7f3-45a1-a98f-f0343fae4055,Amazon Echo,Smart Home Devices,Craig Mckay,2022-07-04,2022-08-01,5,Craig's Marvelous Amazon Echo
+rev_000601,40f0c73f-35b1-413b-980a-9d41b0e48f55,Amazon Echo,Smart Home Devices,Caitlin Bell,2024-02-29,2024-03-22,4,"Decent Smart Assistant, But Misses the Mark Sometimes"
+rev_000602,3f44d931-c793-4036-8fb8-e9673ee16c99,Sonos Speaker,Audio Equipment,Kimberly Fernandez,2024-08-21,2024-09-12,5,Absolutely Impressed with Sonos Speaker!
+rev_000603,bf805ddd-e1c3-4de4-a716-f20d07b03217,Amazon Echo,Smart Home Devices,Anthony Cox,2021-11-21,2021-12-12,3,Mixed Feelings about the Amazon Echo
+rev_000604,ecd7bcc5-0542-490a-a4e4-f758a14bb8a6,Samsung Galaxy S22,Smartphones,John Blanchard,2023-12-14,2024-01-04,4,Impressive Performance with a Few Niggles
+rev_000605,fb4e194c-7591-4017-b298-d84cddbce122,LG OLED TV,TVs,Laurie Miller,2024-09-13,2024-09-15,4,"Impressive Picture Quality, But Navigation Could Be Easier"
+rev_000606,22cfc732-3920-46b4-8933-2253833001a1,Office Desk,Furniture,Timothy Hernandez,2024-11-11,2024-12-05,5,"Sturdy, Spacious, and Sleek - My New Office Desk!"
+rev_000607,4db16331-1af2-42aa-a573-7475de597f17,Table Lamp,Home Decor,Sandra Keller,2023-04-19,2023-04-27,5,Perfect Lighting Solution for My Living Room!
+rev_000608,ec307ea2-7d11-4b2b-8c54-4a01c1d93c92,Vizio SmartCast TV,TVs,Dominic Anderson,2024-07-28,2024-08-08,4,"Impressive Smart Features, Slightly Lacking in Picture Quality"
+rev_000609,3220e49e-1534-4595-925f-5552cdb4148c,iPhone 13,Smartphones,Jacqueline Sharp,2022-11-28,2022-12-11,3,A Mixed Bag - iPhone 13
+rev_000610,ba568de8-c096-44fb-868e-c60a2743268a,Audio-Technica Turntable,Audio Equipment,Andre Payne,2024-08-29,2024-09-15,3,"Adequate Turntable Experience, Room for Improvement"
+rev_000611,15a3337d-1dc9-42e9-8067-6f14d9a827fb,iPhone 13,Smartphones,Brian Tate,2024-07-24,2024-08-01,3,Mixed Feelings About the iPhone 13
+rev_000612,d007c503-2e46-474b-a761-e7ff265772d8,Google Pixel 6,Smartphones,Julia Sharp,2024-03-22,2024-04-12,4,"Solid Performance, Needs Refinements"
+rev_000613,418ef55b-48d0-44d3-8513-caeb78616110,Dell Inspiron Desktop,Desktop Computers,Mary Shea,2025-02-12,2025-03-02,5,"A Powerful, Reliable Workhorse - Dell Inspiron Desktop"
+rev_000614,ea2307a0-f51b-46df-8db0-eea31ade3a25,Philips Hue Lights,Smart Home Devices,Blake Webb,2022-11-29,2022-12-17,4,Impressed but Missing Some Features
+rev_000615,74f3652c-6022-42c7-826c-48ec1c0a3bca,Philips Hue Lights,Smart Home Devices,Ashley Odonnell,2022-07-25,2022-08-08,4,"Impressive Smart Ambiance, but Setup Needs Improvement"
+rev_000616,c763319e-a1b7-49e4-a3f9-63c8a1df6295,LG OLED TV,TVs,Michelle Smith,2024-07-31,2024-08-15,3,"A Decent OLED, but Room for Improvement"
+rev_000617,ce70922d-2d4a-45b8-a270-409a98b00caf,Google Nest,Smart Home Devices,Jason Novak,2021-07-19,2021-07-25,5,Top Notch Smart Home Experience with Google Nest
+rev_000618,c4443d60-d3d2-4cbd-9939-390c8d3dadb0,Asus ZenBook,Laptops,Dennis Arias,2023-08-23,2023-09-03,5,Perfect Workhorse for the Digital Nomad!
+rev_000619,72e56601-7be3-4b6a-a39f-7743d96a937d,Bookshelf,Furniture,Anthony Thomas,2021-03-29,2021-04-11,2,Disappointing Construction Quality
+rev_000620,8481149d-02b5-4fc7-afd3-bdeaaf698b0f,Sony Bravia,TVs,Terry Joseph,2021-11-16,2021-12-11,5,Sony Bravia X90J - A Gorgeous Addition to My Home Entertainment Setup
+rev_000621,3b22d591-348b-494c-bb83-16f9d7ec2ef2,Amazon Echo,Smart Home Devices,Amber Baker,2021-03-30,2021-03-31,4,"Helpful Companion for Everyday Tasks, but Needs Some Improvements"
+rev_000622,5bdf5ff3-b35d-4b12-8ac1-ec7bef721955,Table Lamp,Home Decor,Sheena Davidson,2024-12-23,2025-01-20,2,Disappointing Purchase - Needs Improvement
+rev_000623,0a121beb-ce35-4e89-92fd-a5170e8d4d61,Throw Pillows,Home Decor,Joshua Bishop,2023-10-11,2023-10-17,4,"Lovely throw pillows, but size issue persists"
+rev_000624,820f8429-56f0-4868-9024-7787067836e9,Amazon Echo,Smart Home Devices,Roy Cannon,2022-01-18,2022-01-27,4,A Handy Companion with Some Quirks
+rev_000625,027b8508-fb35-4980-b52c-b29eaa46a9f0,Pillows,Bedding,Melissa Hill,2024-08-30,2024-09-07,3,"Decent Pillows, Room for Improvement"
+rev_000626,e2582b81-a0bb-48ef-b5c0-ad2daa871228,JBL Bluetooth Speaker,Audio Equipment,Kelly Bailey,2024-10-18,2024-10-29,5,Boosting My College Vibes with the JBL Bluetooth Speaker!
+rev_000627,4389c610-25db-4c54-bdcf-1f3dfd62a3ef,Google Nest,Smart Home Devices,Michael Martinez,2024-09-10,2024-10-02,5,Effortlessly Integrating Home Comfort with Google Nest
+rev_000628,fbc11361-2757-458a-9989-3c2d7111aff1,Sony Bravia,TVs,Bobby Soto,2023-10-19,2023-11-07,5,Sony Bravia X90J - Absolutely Stunning Home Entertainment Experience!
+rev_000629,d73c1a44-e1d5-4dc8-8adf-896da1ea0011,Google Nest,Smart Home Devices,Sheila Goodwin,2023-09-23,2023-10-17,4,"Google Nest Worth the Investment, but Needs Some Improvements"
+rev_000630,ae769bcc-146a-454c-9ef7-e9e22e8a3b65,OnePlus 10,Smartphones,Nathan Barrett,2023-03-12,2023-03-21,4,"Solid Performer, But Needs More Features"
+rev_000631,3dd87a40-107a-4976-8145-7baf0783595e,Wall Art,Home Decor,,2021-08-25,2021-09-11,5,Stunning Modern Wall Art Acquisition
+rev_000632,b9954ca4-7591-4a3b-a7b9-15671d2ab6d1,Throw Pillows,Home Decor,Jacob Malone,2025-01-22,2025-02-03,4,"Great Quality, Wish They Were More Colorful"
+rev_000633,dc3bef38-814f-4aa1-a9aa-e806ec51c408,OnePlus 10,Smartphones,Dylan Cochran,2024-04-14,2024-05-09,2,Disappointed with the OnePlus 10
+rev_000634,7747daa1-10e3-41da-94e1-b0585a4a3596,Oculus Quest,Gaming Consoles,Samantha Johnson,2024-08-08,2024-08-22,4,A Solid VR Experience with Room for Improvement
+rev_000635,e46ed880-0d12-491c-be35-3d3e4891f602,Blender,Small Kitchen Appliances,Christine Castro,2025-01-20,2025-02-04,5,Effortless Food Preparation with the Fantastic Small Blender!
+rev_000636,186c1389-6dd4-4174-a1f9-c70ac3b10a1b,iPhone 13,Smartphones,Frank Brown,2023-10-17,2023-11-02,4,"Great Device, Could Use Better Battery Life"
+rev_000637,fdab20ff-0fce-4a35-ad7d-6cd07c8ddd98,iPhone 13,Smartphones,John Nielsen,2022-10-10,2022-11-01,2,"Disappointed with the iPhone 13, Underwhelmed by the Battery Life"
+rev_000638,bf805ddd-e1c3-4de4-a716-f20d07b03217,Google Nest,Smart Home Devices,Anthony Cox,2021-09-10,2021-10-02,5,Perfect addition to a modern home!
+rev_000639,e058a5e6-39ed-4f34-b7ee-f38f8a2ca160,Bed Frame,Furniture,Randy Burke,2022-11-28,2022-12-26,3,Sturdy but Missing Assembly Instructions
+rev_000640,39c7fdbc-f9d7-444b-a36c-2a08d6dd86bb,Samsung Galaxy S22,Smartphones,Wendy Howard,2024-08-31,2024-09-20,4,"Solid Performance, Room for Improvement"
+rev_000641,ad6134db-781f-437b-be5c-8b136ea593d5,OnePlus 10,Smartphones,Brad Jacobs,2021-11-24,2021-11-25,3,Mixed Feelings About the OnePlus 10
+rev_000642,bf19f2b8-262f-47c9-8102-8ae39cf09764,Xiaomi Mi 12,Smartphones,Tiffany Hardin,2024-11-05,2024-11-15,4,"A Decent Smartphone, but Needs Some Fine-tuning"
+rev_000643,483977d6-59a3-4d37-acfe-4ae889bad936,Bed Frame,Furniture,Katherine Guerrero,2023-06-29,2023-07-07,5,Perfectly Sturdy and Aesthetic Bed Frame!
+rev_000644,895188dd-880f-44a1-a2e9-bce9554be2d0,Comforter Set,Bedding,Kimberly Wilkerson,2024-12-23,2025-01-10,4,Cozy but Could've Been More Colorful
+rev_000645,17ebea97-93bf-45ad-a2ab-856a37e354c0,Food Processor,Small Kitchen Appliances,David Perez,2025-01-10,2025-02-07,3,Mixed Feelings About the Compact Kitchen Hero Food Processor
+rev_000646,497ecab1-894c-4d28-b797-d50dac4cf8b1,Amazon Echo,Smart Home Devices,,2024-11-02,2024-11-03,5,"Revolutionizing My Home, Amazon Echo!"
+rev_000647,c9a87f71-d400-4360-8728-6f4c1b017b02,Audio-Technica Turntable,Audio Equipment,Alison Taylor,2025-02-08,2025-02-10,5,A Perfect Spin on Vinyl with the Audio-Technica Turntable!
+rev_000648,6945ddc8-9666-417c-892f-b925bc2c6dd3,Refrigerator,Kitchen Appliances,Michelle Mckinney,2022-05-18,2022-05-19,5,A Game-Changer for My Kitchen!
+rev_000649,0b1eea95-1c25-430c-b467-75931d76cbfc,Philips Hue Lights,Smart Home Devices,Marie Johnson,2022-07-08,2022-07-09,3,"Decent, but Needs Improvements"
+rev_000650,714e919d-ca3d-438e-ba7e-fba870fd76fa,Dell Inspiron Desktop,Desktop Computers,Lucas Tate,2024-11-06,2024-11-15,4,Solid Performer for Everyday Needs
+rev_000651,b15ca266-4927-42ec-81ae-a4134b7b7d62,Amazon Echo,Smart Home Devices,Paula Lester,2024-12-09,2024-12-22,5,"Holiday Magic, All Year Round!"
+rev_000652,0d7cc4ee-8af5-401a-9077-6f5ddf3121fd,Dining Table,Furniture,Alex Nelson,2024-11-13,2024-11-14,5,Sturdy and Timeless Dining Table
+rev_000653,d9a2c0ba-45e8-4910-9c80-b64f36450a6d,Philips Hue Lights,Smart Home Devices,Michael Bass,2024-07-22,2024-08-04,1,Disappointing Experience with Philips Hue Lights
+rev_000654,840d3bc2-d2c8-4a3e-8e1c-f98f3aaa2784,Cast Iron Skillet,Cookware,Jeffery Wilson,2024-09-30,2024-10-20,2,"Disappointing Quality, Needs Improvement"
+rev_000655,464c6245-4747-4d9f-869e-facc55c198db,Refrigerator,Kitchen Appliances,James Davis,2023-05-20,2023-06-15,4,"Solid Kitchen Companion, With Room for Improvement"
+rev_000656,c0257b6d-c72f-4dac-91d9-9a7ae325e22b,Lenovo ThinkPad,Laptops,William Grant,2022-08-04,2022-08-26,5,New Workhorse for the Future
+rev_000657,637afc6d-2f80-453c-8a53-fef0929d12b9,Microwave Oven,Kitchen Appliances,Donna Jackson,2024-11-24,2024-12-01,4,Decent Microwave for a College Dorm
+rev_000658,e864e3f3-a61e-4c8e-898c-8bd20afc06a1,Samsung Galaxy S22,Smartphones,Donald Hendricks,2021-03-26,2021-03-28,4,Impressive but needs some tweaks
+rev_000659,d1c75c7d-1ce6-408b-bf05-45168e4c36a9,Bed Frame,Furniture,Angela Thomas,2024-12-02,2024-12-08,3,"Solid Frame, But Assembly Challenges"
+rev_000660,f0565a60-e1ca-474c-8206-6024975f7510,Xbox Series X,Gaming Consoles,Katherine Sellers,2024-09-23,2024-09-30,5,Absolutely Impressed with the Xbox Series X!
+rev_000661,71cbf56c-8a70-40f0-970a-dc0867d2a581,Office Desk,Furniture,John Warren,2021-12-09,2022-01-04,5,Perfect Addition to My Home Office!
+rev_000662,b7809177-7c8a-4738-aec3-1c700cf34d8c,iPhone 13,Smartphones,Karen Lewis,2024-12-03,2024-12-17,4,"Almost Perfect, But Missing a Few Features"
+rev_000663,80695c72-7768-4270-84f1-32f614842727,Office Desk,Furniture,Julie Washington,2023-09-01,2023-09-27,5,Perfect Addition to My Home Office!
+rev_000664,2f6821b3-51be-4b2f-81ed-a05d3f779b3e,Microwave Oven,Kitchen Appliances,Lisa Burke,2025-01-28,2025-02-15,5,Phenomenal Kitchen Companion!
+rev_000665,ee030dfe-1ea6-45ed-bfe2-a0d856393779,OnePlus 10,Smartphones,John Olson,2023-06-30,2023-07-15,3,A Decent Phone with Room for Improvement
+rev_000666,ec95565d-6894-4b0f-8eae-9e460a90400a,HP Spectre,Laptops,Michael Chavez,2024-08-25,2024-08-27,4,Impressive but Room for Improvement
+rev_000667,f97768af-ebe3-488d-ad4d-ee7541bec547,OnePlus 10,Smartphones,Amanda Daniels,2024-11-12,2024-11-22,4,"Impressive Performance, But Needs Work on Camera"
+rev_000668,1692541a-a725-4813-b861-c4abb80d14f4,Amazon Fire HD,Tablets,Ronald Stewart,2025-01-02,2025-01-25,5,Impressed by the Affordable Power!
+rev_000669,342c21a2-0da9-4050-89d8-baf305ad94b8,Microsoft Surface,Tablets,Misty Norman,2024-02-13,2024-02-25,4,"Great Tablet for Everyday Use, Needs Some Improvements"
+rev_000670,e57f14e1-032d-47da-86d8-9a0011110fa9,PlayStation 5,Gaming Consoles,Molly Lawson,2023-09-20,2023-10-07,5,Gaming Nirvana Achieved with PlayStation 5
+rev_000671,1339344c-573a-472d-b96c-a7c24b06b7ec,,Kitchen Appliances,Matthew Perez,2024-01-07,2024-01-15,5,Unmatched Convenience with the nan!
+rev_000672,c460c1f2-2e63-4205-b52a-d51b236fed7d,Office Desk,Furniture,Elizabeth Warren,2023-03-11,2023-03-22,4,"Functional, Yet Stylish Office Desk"
+rev_000673,084f8198-0099-4a9b-b740-19db2f208f87,JBL Bluetooth Speaker,Audio Equipment,Alexander Cervantes,2023-08-31,2023-09-29,5,JBL Bluetooth Speaker - Sonic Heaven in a Portable Package!
+rev_000674,643cb1ca-225a-420b-a099-f7358a30ce1d,Samsung Galaxy S22,Unknown Category,Lauren Jimenez,2022-07-09,2022-07-12,4,"Impressive Performance, Yet Lacking in Battery Life"
+rev_000675,eceab19b-4fe5-4a7f-98da-8e6e38d8f807,Samsung Galaxy S22,Smartphones,Mark Trevino,2023-11-24,2023-12-21,3,Balanced Experience with the Samsung Galaxy S22
+rev_000676,6959df38-5ae7-47ea-9863-55e1ca6bb187,Philips Hue Lights,Smart Home Devices,,2024-07-11,2024-07-17,5,Brilliant Smart Home Transformation with Philips Hue Lights
+rev_000677,a651e59b-cbd0-4b80-bd9a-39bb71a4ce5c,Electric Range,Kitchen Appliances,Mark Ashley,2024-10-22,2024-10-31,5,Top-Notch Electric Range for Modern Kitchens!
+rev_000678,6e234670-2953-49be-a664-e1d9bc5eccd6,Dining Table,Furniture,Stephanie Townsend,2024-10-21,2024-10-27,4,"Almost Perfect, but Needs a Bit More Sturdiness"
+rev_000679,8aed6228-843e-458b-ad37-f9ff1179617d,Table Lamp,Home Decor,Jasmine Hodges,2024-06-13,2024-06-22,5,Perfect addition to my home decor!
+rev_000680,8fdebd08-fc33-448b-9e36-9480c10d3d4a,PlayStation 5,Gaming Consoles,Robert Collins,2024-01-19,2024-01-26,5,Game-changing Experience with PlayStation 5
+rev_000681,c3de2056-243e-477d-8732-7b955d5015ec,Mattress Topper,Bedding,Samantha Benson,2024-12-15,2024-12-24,4,Comfortable but Could Use a Little More Support
+rev_000682,b2909ef3-ec31-4785-b0b6-a6c7727fdb2a,Blender,Small Kitchen Appliances,Alexander Thomas,2023-12-21,2024-01-08,5,Absolutely Impressed by this Blender!
+rev_000683,76c56a13-318b-418d-982f-28fe3126d2d0,Bed Frame,Furniture,Jacob Williams,2023-08-05,2023-08-17,3,"Durable, yet assembly challenges persist"
+rev_000684,4ba844c2-b56d-4403-9588-596cbd4c3784,Smart Thermostat,Smart Home Devices,Michael Johnson,2025-01-31,2025-02-08,3,Decent Smart Thermostat with Room for Improvement
+rev_000685,be6b22b7-1f1b-4dcf-a89b-9b075f27260a,Refrigerator,Unknown Category,Michelle Arellano,2023-01-27,2023-02-04,3,Mixed Feelings About the Nan Refrigerator
+rev_000686,1c5a095f-8fc6-4d53-9478-f369d0e057e6,Google Pixel 6,Smartphones,Richard Ward,2024-12-15,2025-01-02,5,Absolutely Impressed with Google Pixel 6!
+rev_000687,ece4646b-d3ad-4fd3-b8e6-3f9ee4b15be1,iPhone 13,Smartphones,Angela Mason,2023-09-19,2023-10-17,5,A Perfect Blend of Power and Elegance!
+rev_000688,a62b4cb5-79bf-4763-bd12-37dff3f90c7b,Sofa,Furniture,Mark White,2024-02-20,2024-03-11,3,"Good Quality, Poor Assembly Instructions"
+rev_000689,4e2f9031-3700-4fc3-bb4b-2f01d50fceef,Lenovo ThinkPad,Laptops,Mikayla Wilson,2021-08-03,2021-08-18,4,"Impressive Performance, Room for Improvement in Design"
+rev_000690,4aaf5007-d17e-4a8d-9e9a-cdaadbb79580,Audio-Technica Turntable,Audio Equipment,Eric Clayton,2022-12-25,2023-01-21,5,A Gorgeous Vinyl Journey Rediscovered!
+rev_000691,b4f8191d-a598-44dd-90e9-b6f169992dd5,Logitech Mouse,Computer Accessories,Stacy Olson,2023-04-07,2023-04-14,2,Disappointing Logitech MX Master 3 Mouse Experience
+rev_000692,2f2322af-9626-4bcc-960b-05804c83529d,Nintendo Switch,Gaming Consoles,Felicia Pennington,2021-10-21,2021-11-01,5,A Game Changer for My Gaming Experience!
+rev_000693,fb83cb35-1909-4029-b84f-a6104754ec8f,Smart Thermostat,Smart Home Devices,Tyrone Parker,2024-12-07,2024-12-27,5,Top-Notch Energy Efficiency at My Fingertips!
+rev_000694,40b7f601-84af-4b94-b489-2e1339df846c,Google Pixel 6,Smartphones,April Graham,2021-06-20,2021-07-06,4,"Fantastic Performance, Few Hiccups"
+rev_000695,690af5da-562a-4507-af26-5b8438fef7c3,Sofa,Furniture,David Roberts,2024-06-03,2024-06-07,5,Perfect Fit for Our Living Room!
+rev_000696,3010fe3e-f791-47d4-add2-1da35e890603,Google Pixel 6,Smartphones,Jeremy Wilson,2022-07-31,2022-08-06,4,"Impressive Performance, But Needs Software Refinement"
+rev_000697,e3047f81-587f-4f93-af27-11353692d40d,Lenovo IdeaCentre,Desktop Computers,Wesley Brown,2021-02-18,2021-03-16,5,Impressive Powerhouse - Lenovo IdeaCentre Achieves Top Marks!
+rev_000698,5a07b735-982d-44af-92f7-8f8760009954,Bookshelf,Furniture,Todd Powell,2023-10-19,2023-11-10,5,Sturdy and Attractive Bookshelf
+rev_000699,7de5b055-9346-4f70-95fb-cd7f0ec654ef,USB-C Hub,Computer Accessories,Kimberly Williamson,2022-11-26,2022-12-22,5,A Game Changer for My Workflow!
+rev_000700,e627b49a-8cc1-4626-8deb-b0d51e26ef81,Smart Thermostat,Smart Home Devices,Teresa Sanford,2024-12-14,2024-12-17,3,A Smart Thermostat with Potential Flaws
+rev_000701,fb5c00b0-4e1b-40fb-95a1-3015db72bb35,Xiaomi Mi 12,Smartphones,Jacob Guzman,2022-01-28,2022-02-06,5,Unrivaled Performance with Mi 12!
+rev_000702,6959df38-5ae7-47ea-9863-55e1ca6bb187,Electric Range,Kitchen Appliances,,2023-04-19,2023-05-17,4,"Impressive Performance, Yet Needs Some Attention"
+rev_000703,2dd2b057-ca3a-4ad4-8fcf-956d2eda82ba,Sonos Speaker,Audio Equipment,Matthew Henson,2020-11-25,2020-12-05,3,Sonos Speaker: A Mixed Experience for a Young Music Enthusiast
+rev_000704,7719a178-05f2-42dd-9b81-f800c3afb00d,Smart Thermostat,Unknown Category,Michelle Willis,2021-09-06,2021-09-20,1,"Smart Thermostat - Unrealistic Expectations, Unnecessary Complexity"
+rev_000705,104b1a33-e04e-4971-b4d0-9b4a1266b153,Sony Bravia,TVs,Jonathan Stephens,2023-07-23,2023-08-03,4,"Impressive Picture Quality, but Slightly Complex Setup"
+rev_000706,bf50e25a-26a9-48c3-a338-ae828c8d8d93,Refrigerator,Kitchen Appliances,Daniel Reese,2024-11-22,2024-12-10,4,Decent Appliance with a Few Quirks
+rev_000707,a7e4a8db-605e-42b2-af09-6291cdb9735c,Oculus Quest,Gaming Consoles,Brandon Munoz,2024-06-11,2024-07-03,5,Game Changer in VR Gaming Experience!
+rev_000708,907dd48f-3309-4cad-a1f4-79ac64490974,Air Fryer,Small Kitchen Appliances,Victoria Ramirez,2022-07-07,2022-07-19,5,Perfect Addition to My Kitchen!
+rev_000709,e06b64e2-6b31-4d3c-85c6-b918683ae86f,Asus ZenBook,Laptops,Richard Welch,2024-11-08,2024-12-01,2,Disappointing Purchase Experience
+rev_000710,3258e636-8f29-4567-99ff-282f0fba3b13,Table Lamp,Home Decor,Paul Cross,2024-11-04,2024-11-16,5,A Perfect Addition to My Home!
+rev_000711,1853631c-7e73-49c9-bcd1-400842c7a085,Dining Table,Furniture,Kathryn Combs,2024-08-12,2024-08-25,3,"A Solid Choice, with a Few Nitpicks"
+rev_000712,5bdf5ff3-b35d-4b12-8ac1-ec7bef721955,OnePlus 10,Smartphones,Sheena Davidson,2022-11-13,2022-12-08,5,A Fantastic Upgrade!
+rev_000713,0adf701d-bec4-435c-9840-564e7592b477,Range Hood,Kitchen Appliances,Sharon Schultz,2022-07-24,2022-08-06,5,Perfect Range Hood for Modern Kitchens!
+rev_000714,c9110e19-b58d-467e-807f-1a94d3712663,Dishwasher,Kitchen Appliances,,2024-11-05,2024-11-24,4,Almost Perfect Dishwasher for Busy Modern Life
+rev_000715,fa03b39a-d4cc-4840-8d7a-3115161628ef,Nintendo Switch,Gaming Consoles,Andrea Stafford,2024-08-26,2024-09-21,5,Pure Joy Unleashed!
+rev_000716,8835541f-4317-41d4-b7d2-b68952fcd4e5,OnePlus 10,Smartphones,Barbara Gould,2023-01-19,2023-02-07,4,"OnePlus 10 - A Solid Performer, but Room for Improvement"
+rev_000717,da8d9905-b2d3-4cdf-811e-5f67b918d826,Philips Hue Lights,Smart Home Devices,Joshua Kim,2024-05-11,2024-06-03,4,Well-lit Smart Home with a Few Hiccups
+rev_000718,ac49923b-db5a-45d6-b414-765c951381ac,Dishwasher,Kitchen Appliances,Shawn Nixon,2021-11-09,2021-11-23,5,Impressed by the Efficiency of This Dishwasher!
+rev_000719,237492c7-374c-4cdd-9c79-4c22924bb922,Microwave Oven,Kitchen Appliances,Carl Hicks,2024-01-26,2024-01-30,4,"Impressive Microwave Performance, But Needs a Few Adjustments"
+rev_000720,b536d4e6-5c1d-4b7c-ac9a-babd1901996b,Area Rug,Home Decor,Matthew Reynolds,2022-08-22,2022-09-04,4,"Lovely Rug, Could Use More Pad"
+rev_000721,3f289462-576d-4fba-9db0-5ea2867f9741,Dutch Oven,Cookware,Whitney Myers,2024-01-05,2024-01-13,4,A Solid Performer in My Kitchen!
+rev_000722,b4c13a63-1a56-4057-bc0b-946690a14a1a,HP Pavilion,Desktop Computers,Matthew Nguyen,2024-12-07,2025-01-05,5,Smooth Sailing with HP Pavilion!
+rev_000723,8ac5b7a5-3616-4c9c-98e7-7990f791fd41,Google Pixel 6,Smartphones,Brian Stevenson,2021-10-29,2021-11-21,4,"Not Bad, but Could Be Better"
+rev_000724,ee81319a-a934-4884-937b-e1b883daef2f,Google Nest,Smart Home Devices,Patricia Calderon,2023-12-13,2024-01-03,3,"Nest Worth the Investment, But Still Room for Improvement"
+rev_000725,aa7742e7-f249-41ac-a995-9ed88a1c40d8,Philips Hue Lights,Smart Home Devices,Justin Smith,2022-09-07,2022-09-30,5,Brilliant Lighting Transformation with Philips Hue Lights!
+rev_000726,ea6d6623-3b28-416d-9230-ee0179db4731,Google Nest,Smart Home Devices,Elizabeth Martin,2024-11-28,2024-12-17,5,Incredible Smart Home Experience with Google Nest!
+rev_000727,216deaaf-3b53-411d-8c10-cd3725252394,,Audio Equipment,Danielle Adams,2022-02-08,2022-02-20,3,"Decent Sound Quality, But Needs Work on Durability"
+rev_000728,8595dcfa-2bfc-46f4-a15a-042af85b78cd,Google Pixel 6,Smartphones,Terry Cain,2024-07-31,2024-08-18,3,Disappointing Performance for a Google Flagship
+rev_000729,1be1226f-e85d-46e4-b66a-9bd01de8439c,Vizio SmartCast TV,TVs,Linda Wallace,2024-12-31,2025-01-06,3,Mixed Feelings About the Vizio SmartCast TV
+rev_000730,2d85db8a-2765-42b9-a79b-1415c407a83b,Table Lamp,Home Decor,David Villa,2024-08-10,2024-08-28,4,"A Solid Table Lamp, But Room for Improvement"
+rev_000731,486ae1ae-59f7-4b0f-aa91-1104b8eb41a8,Xiaomi Mi 12,Smartphones,Stephanie Clark,2024-10-10,2024-10-29,4,"Impressive Performance, Slightly Disappointing Battery Life"
+rev_000732,12365d28-58ed-466a-96e8-4659258db1e5,Sonos Speaker,Audio Equipment,Megan Young,2024-10-17,2024-11-08,5,Sonos Speaker - The Perfect Addition to My Smart Home
+rev_000733,1636ae91-c1e8-46a6-a8f5-44c91321fa55,Bed Frame,Furniture,Erin Jenkins,2022-12-03,2022-12-08,5,Dreamy Slumber Awaits!
+rev_000734,21455a7f-8e55-481b-9481-3452b26dc0a2,Refrigerator,Kitchen Appliances,Thomas Cox,2021-03-07,2021-03-31,5,A Perfect Fit for My Modern Kitchen!
+rev_000735,b4f8191d-a598-44dd-90e9-b6f169992dd5,Table Lamp,Home Decor,Stacy Olson,2023-12-30,2024-01-08,4,"A Practical, Yet Warm Addition to My Study"
+rev_000736,94ca3b4c-1335-4220-8b20-ecea4c0eb551,Samsung Galaxy S22,Smartphones,Eric Clark,2023-09-02,2023-09-29,5,Incredible Performance with Samsung Galaxy S22!
+rev_000737,76b4e732-ccdf-4d73-baab-6c5a3d03b1f4,External Hard Drive,Unknown Category,Christina Wilson,2024-02-27,2024-03-01,4,"Decent Storage Solution, But Needs Speed Improvement"
+rev_000738,45e56f18-9c4a-4a3a-8d08-8ef6d885d762,Throw Pillows,Home Decor,Linda Hall,2024-05-19,2024-06-16,5,Stunning Addition to My Living Room!
+rev_000739,927a9550-2180-4281-bcf9-911656334371,Range Hood,Kitchen Appliances,Jonathan Boone,2023-09-19,2023-09-29,5,Exceptional Range Hood for a Modern Kitchen
+rev_000740,851cfa49-9fcf-4128-bd7d-229b38836e8e,Oculus Quest,Gaming Consoles,Jason Stephens,2024-08-15,2024-09-03,3,"Decent Virtual Reality, But Needs Improvements"
+rev_000741,3b584162-45ef-49be-9155-45ed623c6eed,Philips Hue Lights,Smart Home Devices,Erica Grimes,2024-11-14,2024-11-17,5,Brilliantly Brightens Up My Home!
+rev_000742,34765b12-175d-435c-ab1d-b8bf124a4bc3,Asus ROG,Desktop Computers,Jasmine Gardner,2024-11-19,2024-12-18,4,Asus ROG: A Solid Gaming Desktop with Room for Improvement
+rev_000743,2f2322af-9626-4bcc-960b-05804c83529d,Xbox Series X,Unknown Category,Felicia Pennington,2023-11-12,2023-12-11,5,Unmatched Gaming Experience with Xbox Series X!
+rev_000744,25b6e5b1-a1fc-4fb4-8763-6bb26eb62070,JBL Bluetooth Speaker,Audio Equipment,Joseph Bell,2024-05-26,2024-06-17,2,Disappointed with JBL Flip 6
+rev_000745,00df5d7c-c28c-436c-aa68-e3ceb775fff2,Ring Doorbell,Smart Home Devices,Alexander Lee,2022-11-26,2022-12-11,3,Mixed Feelings about the Ring Doorbell
+rev_000746,1742bf50-cba9-48f9-a89c-d490c8c3fb51,Refrigerator,Kitchen Appliances,Amanda Garza,2023-11-11,2023-11-12,5,Finally Found My Dream Fridge!
+rev_000747,f49c7a27-2207-42d4-a437-d4a179adb2a9,Refrigerator,Kitchen Appliances,Jason Rivas,2021-08-26,2021-09-02,3,A Solid Performer with a Few Hiccups
+rev_000748,a3f6ea9d-f649-4764-8072-698b4717ef90,HP Pavilion,Desktop Computers,Michael Thompson,2022-08-08,2022-08-20,5,Amazing Powerhouse for Work and Gaming!
+rev_000749,0d81ab41-dba9-42d2-95c5-9ea4863dda01,Sofa,Furniture,Derrick Bush,2024-08-07,2024-08-24,4,"Solid Comfort, Could Use Some Style Upgrade"
+rev_000750,57471a7e-5850-4c99-9f7f-430829dbce07,MacBook Pro,Laptops,Matthew Hendrix,2023-10-23,2023-11-13,5,Unparalleled Powerhouse for Creative Workflows
+rev_000751,6e5866ed-0456-4a14-a2c1-212c5d13c6a1,Electric Range,Kitchen Appliances,Jamie Parker,2024-02-16,2024-03-13,5,A Game Changer in My Kitchen!
+rev_000752,483977d6-59a3-4d37-acfe-4ae889bad936,Philips Hue Lights,Smart Home Devices,Katherine Guerrero,2024-11-21,2024-12-20,4,"Brilliant Ambiance, Room for Improvement in App Interface"
+rev_000753,ea573862-bee2-49a7-bec7-fe1ddbcf689c,iPhone 13,Smartphones,Carol Johnson,2023-07-27,2023-08-20,4,"A Solid Upgrade, Yet Room for Improvement"
+rev_000754,80695c72-7768-4270-84f1-32f614842727,Samsung Galaxy S22,Smartphones,Julie Washington,2021-08-28,2021-09-17,3,A Mixed Bag Galaxy S22 Experience
+rev_000755,cf0fc5c5-be64-446b-9f7b-8865593f2f0b,Logitech Mouse,Computer Accessories,Dennis Keller,2023-07-26,2023-07-31,2,Disappointed with the Logitech Mouse
+rev_000756,a90f8cfc-7f9d-4830-b549-7628c71b1a58,Wall Art,Home Decor,Andrea Lawson,2024-03-13,2024-03-17,4,"Lovely addition to my living room, but assembly could be improved"
+rev_000757,5c12f7a4-6cca-4b98-9358-bb1dc9a09fa6,HP Spectre,Laptops,Andrea Stephens,2022-02-10,2022-03-10,5,"Phenomenal Performance, Stunning Design!"
+rev_000758,75e13860-6ff8-4563-912c-f78d83d1c1ba,Dishwasher,Kitchen Appliances,Albert Powell,2022-05-30,2022-06-11,5,"Reliable, Efficient, and a Game Changer in my Kitchen!"
+rev_000759,04e0f452-f7de-4ff5-8945-c68560f641f5,Amazon Echo,Smart Home Devices,Margaret Harris,2023-06-07,2023-06-27,5,Margaret's Marvelous Echo Experience!
+rev_000760,8585dea6-a061-4fd3-b32d-a9c5d89d7c93,Bookshelf,Furniture,Adam Medina,2024-06-17,2024-07-15,5,"Sturdy, Functional, and Aesthetically Pleasing Bookshelf!"
+rev_000761,f83ebf09-1bff-4085-a98e-fe739798711b,Ring Doorbell,Smart Home Devices,Roger Perkins,2024-12-28,2025-01-21,5,Peace of Mind at My Finger Tips!
+rev_000762,b862723c-d6dd-4a5c-a135-ddacc3f50970,Sonos Speaker,Audio Equipment,Michael Gardner,2022-01-30,2022-02-17,5,A Sonos Speaker Game Changer!
+rev_000763,7de0a84e-25d6-4332-b2fd-3ad963c9c3c7,Xiaomi Mi 12,Smartphones,Kelsey Johnson,2024-07-20,2024-08-06,4,Solid Performance but Missing a Few Key Features
+rev_000764,a6604b85-cb10-4c30-83f4-f8274d3fe533,Office Desk,Furniture,Vincent Carroll,2024-09-10,2024-09-29,5,A Perfect Workspace Solution
+rev_000765,881e9d1a-7cad-4dde-b071-f2431a23df26,Dell XPS 15,Laptops,Mary Garcia,2022-04-06,2022-04-15,5,Dell XPS 15 - A Perfect Blend of Power & Style!
+rev_000766,a8846cf3-d198-4a43-801b-ade15dd69f1f,Table Lamp,Home Decor,Ricky Evans,2023-12-05,2023-12-09,4,Pleasing yet Peculiar Table Lamp
+rev_000767,fb6c31d3-dd76-4724-83a6-5432d31390c8,Ring Doorbell,Smart Home Devices,Joel Warner,2024-04-20,2024-05-16,3,"Decent Smart Doorbell, But Room for Improvement"
+rev_000768,e2621eca-3c9e-4a38-85a6-ac7268b49a65,Table Lamp,Home Decor,Christie Fitzpatrick,2022-01-23,2022-02-13,4,A Pleasing Addition to My Home Office
+rev_000769,9c67f76e-86b5-4b10-8744-32b622030359,Xiaomi Mi 12,Smartphones,Lisa Frank,2023-08-07,2023-08-09,4,Mixed Feelings about the Mi 12
+rev_000770,51ea80cb-8620-4cdf-be0c-a92f16b40bfa,Sofa,Furniture,Joseph Wright,2023-07-15,2023-07-19,5,A Perfect Addition to My Living Room!
+rev_000771,94ca3b4c-1335-4220-8b20-ecea4c0eb551,Philips Hue Lights,Smart Home Devices,Eric Clark,2024-07-08,2024-07-10,4,"Impressive, Yet Room for Improvement"
+rev_000772,63f90dc9-aacb-4242-ac0d-f36cc41b4c0f,Microwave Oven,Kitchen Appliances,Mary Steele,2022-06-26,2022-07-11,4,"Solid Microwave, Could Use a Few Improvements"
+rev_000773,8a94baee-7219-4b80-95ba-222e8aa41555,,TVs,Samantha Carter,2022-09-06,2022-09-08,5,Stunning Addition to My Home Theater!
+rev_000774,43e106e9-be5d-4bcf-ba9b-19da38bafc7f,Air Fryer,Small Kitchen Appliances,Christopher Hill,2025-01-03,2025-01-07,3,Mixed Feelings about My Air Fryer
+rev_000775,e6bacf9c-808d-4d75-9744-1b3d5bca7ac8,Mechanical Keyboard,Computer Accessories,Jason Walker,2024-02-03,2024-02-09,4,"Great Keyboard, Room for Improvement"
+rev_000776,787c5abc-ca1a-4ec8-a128-9eb4da98a66d,Dishwasher,Kitchen Appliances,Paul Marshall,2022-08-05,2022-08-12,2,Disappointing Purchase - Needs Improvement
+rev_000777,cf5f9c35-380a-4eff-940d-f5f8029089c0,Xiaomi Mi 12,Smartphones,Lauren Simpson,2020-08-13,2020-08-23,5,Stunning Upgrade - Xiaomi Mi 12 Blows Me Away!
+rev_000778,552f2761-46aa-44ba-989d-7c063cf32501,Sony Bravia,TVs,Juan Sanchez,2022-10-02,2022-10-21,5,Exceptional Picture Quality and Smooth Performance
+rev_000779,1bd9a75c-25c7-436a-9662-8704128fa226,Asus ZenBook,Laptops,Andrew Park,2024-12-01,2024-12-20,4,"Decent Performance, Room for Improvement in Build Quality"
+rev_000780,4d5f50ea-97f8-4093-b25e-623b6b7748c4,Smart Thermostat,Smart Home Devices,Benjamin Mason,2023-07-27,2023-08-22,5,Seamless Temperature Control at Home
+rev_000781,84abc5ce-870b-4980-9f2d-1584e4061f87,Wall Art,Home Decor,Anna Taylor,2024-11-15,2024-12-07,4,"Lovely Wall Art, Slightly Flimsy Framing"
+rev_000782,29dec202-949b-4cb4-9850-9427980442f4,Curtains,Home Decor,Tammy Young,2024-07-06,2024-08-04,5,Lovely Addition to My Home Decor!
+rev_000783,3513692f-bf7a-4562-9170-d9abe4c4c2ff,Samsung Galaxy S22,Smartphones,Kristopher Guzman,2025-01-30,2025-02-11,5,"A Fantastic Upgrade, Truly Worthy of the S22 Name!"
+rev_000784,c5d01de0-d1ad-4c47-8be9-117b1056ae5e,Sheets,Bedding,Michelle Barrera,2024-06-28,2024-07-01,5,Comfort Beyond Belief!
+rev_000785,21297ef1-181c-4987-b731-922028e1a8b4,Range Hood,Kitchen Appliances,Brittany Lewis,2024-10-28,2024-11-10,1,Disappointed with the Performance of the Range Hood
+rev_000786,99021edd-0d19-4d76-bcc0-0be6321a143c,Dutch Oven,Cookware,Matthew Bentley,2024-03-07,2024-03-25,5,Perfect Dutch Oven for Any Home Chef!
+rev_000787,2de9a505-4966-4571-ba4e-2e0053815db8,Smart Thermostat,Smart Home Devices,Amber Lee,2023-12-01,2023-12-09,5,Perfect Temperature Control at My Fingertips!
+rev_000788,fe637ceb-9e44-4ff0-9f3f-833917308f19,Dining Table,Furniture,Andrew Howard,2023-12-08,2023-12-29,4,"Decent Dining Table, But Room for Improvement"
+rev_000789,ffc456c6-40f3-447e-b67c-57749c6883b3,Amazon Echo,Smart Home Devices,Erika Fisher,2022-12-17,2023-01-01,5,My New Home Companion - Amazon Echo
+rev_000790,54114873-53c4-4daf-9c70-1e2039f9bf97,Smart Thermostat,Smart Home Devices,Michael Washington,2024-11-23,2024-11-24,4,"Decent Smart Thermostat, but Room for Improvement"
+rev_000791,1f84521c-bb76-4336-bff9-73a1ab09f21a,Bookshelf,Furniture,Tom Olson,2021-04-06,2021-04-09,5,Perfect Fit for My Study Room!
+rev_000792,5c28c67c-bf0c-41ec-ae3b-f2ee3b94c4a3,Microwave Oven,Kitchen Appliances,Pamela Richardson,2023-11-07,2023-12-03,3,A Mixed Bag Microwave Experience
+rev_000793,828eb707-5a46-48df-bbcf-8d0f8dc2db29,Ring Doorbell,Smart Home Devices,Michael Vaughn,2024-11-20,2024-11-28,5,Impressive Home Security with Ring Doorbell Pro 2023
+rev_000794,ec1867f0-4ffe-42d5-83fc-bd6573c18502,,Tablets,Kristen Hammond,2024-06-17,2024-06-21,4,"Solid Performer, Needs Some Refinement"
+rev_000795,2794fe39-fc98-46c6-81f0-f27712fb3326,Wall Art,Home Decor,Brittany Smith,2022-10-11,2022-10-27,2,Wall Art Disappointment - Lack of Sturdiness
+rev_000796,7e17094d-0235-47b0-928f-111836ac6aea,TCL Roku TV,TVs,Raymond Rodriguez,2023-06-05,2023-06-28,3,"Decent Smart TV Experience, But Needs Improvement"
+rev_000797,07cd804b-d2ad-4251-9687-d3c622629569,Steam Deck,Gaming Consoles,Kathleen Tanner,2024-07-10,2024-07-20,1,Disappointing Experience with the Steam Deck
+rev_000798,aa26e231-7b36-4750-b219-90edeff9ee02,Electric Range,Unknown Category,Debbie Hines,2025-01-18,2025-01-30,4,Quality Appliance with a Few Quirks
+rev_000799,69355f0e-6f30-4eff-a866-0409a0a6f964,Range Hood,Kitchen Appliances,Rhonda Shaw,2024-08-05,2024-08-19,4,"Decent Range Hood, Could Use Some Improvements"
+rev_000800,947fec07-da8e-4f40-a7a6-b167c4977332,Xbox Series X,Gaming Consoles,Elizabeth Zimmerman,2023-12-25,2024-01-08,4,"Great Gaming Experience, But Room for Improvement"
+rev_000801,57471a7e-5850-4c99-9f7f-430829dbce07,OnePlus 10,Smartphones,Matthew Hendrix,2021-10-05,2021-10-07,4,"Impressive Performance, Yet Room for Improvement in Battery Life"
+rev_000802,47b9fe35-1380-48a6-bf61-e745d0bb3354,Ring Doorbell,Smart Home Devices,Timothy Lopez,2024-03-13,2024-04-05,4,"Impressive Smart Home Addition, But Room for Improvement"
+rev_000803,5c6cf4d0-1635-48a9-ac0b-3c0769f7f7dd,Bed Frame,Furniture,Susan Mccoy,2024-12-22,2024-12-27,5,Perfect Addition to My Dream Space!
+rev_000804,c21b64ac-48c4-49cb-a369-8fdd49cd450e,HP Spectre,Laptops,Latoya Lewis,2022-10-07,2022-10-12,2,Disappointed with HP Spectre's Battery Life
+rev_000805,037aa4e4-ab32-4708-b9f1-675e1e3cc01f,Range Hood,Kitchen Appliances,Laurie Wiggins,2023-12-31,2024-01-06,5,Absolutely Love My New Range Hood!
+rev_000806,6d69e504-b31b-4e2d-8943-cc4948a9e27d,Wall Art,Home Decor,,2022-11-02,2022-11-15,5,Absolutely Lovely Wall Art!
+rev_000807,1be1226f-e85d-46e4-b66a-9bd01de8439c,Toaster,Small Kitchen Appliances,Linda Wallace,2024-01-24,2024-02-02,5,Absolutely Perfect Toaster - A Game Changer in My Kitchen!
+rev_000808,c3bfe9d1-e562-4a79-8609-43fcc27ae678,Wall Art,Home Decor,Stephanie Nguyen,2022-11-03,2022-11-25,4,"Lovely addition to my living room, with a minor hiccup"
+rev_000809,aa2d3c37-751e-4362-9bf4-5ccf59f1a183,Asus ZenBook,Laptops,Jordan Hobbs,2024-11-23,2024-12-21,5,ZenBook: A Game-Changer for a College Kid!
+rev_000810,97a149a4-6927-4f7f-a071-11a0c42bf684,Oculus Quest,Gaming Consoles,Jason Walsh,2023-06-14,2023-07-13,3,First VR Gaming Experience with Oculus Quest - Mixed Feelings
+rev_000811,e974841d-6980-4e25-82a4-bfb80e77422f,Range Hood,Kitchen Appliances,Lori Wright,2024-06-09,2024-06-24,2,Disappointed with the Performance
+rev_000812,a7b7148b-b7c3-4ef9-8dec-311282a7830d,Amazon Echo,Smart Home Devices,Tyler Flores,2024-09-06,2024-09-20,3,"Decent, but needs some improvements"
+rev_000813,e061b9cf-b819-4647-be7e-ff8d9ab99138,Sony Bravia,TVs,Alan Maxwell,2025-01-18,2025-02-11,5,Unbelievable Visual Experience with the Sony Bravia
+rev_000814,d77f0fa7-68c5-4b3a-8aea-f53692551d1c,Dining Table,Furniture,Monica Joseph,2024-08-06,2024-08-13,2,Disappointing Purchase Experience
+rev_000815,28647e01-c4a4-49c2-a9e5-453c0f7d6966,Sony Bravia,TVs,Alejandro Holloway,2023-11-06,2023-12-01,4,"Great TV, Needs Some Adjustments"
+rev_000816,712b6719-1469-453a-997a-bf0a6ac83393,Wall Art,Home Decor,Brooke Scott,2022-07-30,2022-08-19,5,Stunning Wall Art Purchase!
+rev_000817,1a754d15-3e97-46ab-b28b-699a56e53764,Range Hood,Kitchen Appliances,Adrian Powell,2021-10-07,2021-10-09,5,Fantastic Range Hood!
+rev_000818,6cc5a694-2593-4d03-ac96-07a34dda5905,Bose Headphones,Audio Equipment,Christine Lopez,2023-09-29,2023-10-06,4,"Quality Sound, But Connectivity Issues"
+rev_000819,c8bdb5be-23c6-4d72-80ee-5354e6bba092,PlayStation 5,Gaming Consoles,Joseph Lopez,2024-08-22,2024-08-28,2,Disappointed with the PlayStation 5
+rev_000820,2ccd10d4-d325-4aed-838e-8dc82f67a7aa,iPhone 13,Smartphones,Paula Flores,2024-02-28,2024-03-16,5,Absolutely Impressed with the iPhone 13!
+rev_000821,ba555335-824d-4727-8629-4f007a5a0cc8,Ring Doorbell,Smart Home Devices,Mark Brooks,2024-08-13,2024-09-09,4,"Decent Smart Home Addition, Needs a Few Tweaks"
+rev_000822,6b24a79b-c85f-4cc6-9449-8156c7de3934,Dishwasher,Kitchen Appliances,Steven Hall,2022-08-05,2022-08-30,3,Solid Performance but Needs Attention
+rev_000823,f964fef3-e0c1-4c92-ac60-54cec4edaedc,Xiaomi Mi 12,Smartphones,Sara Cole,2022-06-21,2022-07-16,2,Disappointing Performance for a High-End Device
+rev_000824,39bfcb39-d38f-43bb-a32e-78b9293a6797,Vizio SmartCast TV,TVs,Jason Jenkins,2023-08-10,2023-09-07,5,Impressed by Vizio's SmartCast TV!
+rev_000825,b06d1200-9b38-421b-9c77-1114d5e712ca,Throw Pillows,Home Decor,Tara Mejia,2024-10-04,2024-10-06,5,Delightful Addition to My Living Room!
+rev_000826,6a4c2db6-2330-4a38-820a-8193eb9379a9,Microwave Oven,Kitchen Appliances,Emily Solomon,2024-07-09,2024-07-12,5,Impressive Performance and Convenience!
+rev_000827,31c9f307-4d06-4ad9-bd64-f4a032af8087,Steam Deck,Gaming Consoles,Renee Young,2024-02-24,2024-02-29,5,Game Changer: Steam Deck Revolutionizes My Gaming Experience!
+rev_000828,150258d5-e4e1-4d28-b492-cad254c191c8,Electric Range,Kitchen Appliances,Elizabeth Allen,2023-07-05,2023-07-10,4,Functional but Missing the WOW Factor
+rev_000829,2b667e27-cdb3-4bf7-b34b-0318e531fc5b,,Furniture,Teresa Johnson,2025-01-18,2025-01-19,4,A Sturdy Addition to My Living Room
+rev_000830,e03ec741-3de6-4f67-a02d-cf7b3fc8ff89,Xiaomi Mi 12,Smartphones,Trevor Campbell,2023-08-25,2023-09-02,4,"Almost Perfect, Yet a Minor Concern"
+rev_000831,252baf64-0dcd-4f21-b79e-2315ba9fbe6e,Range Hood,Kitchen Appliances,Cody Riddle,2023-09-14,2023-09-26,4,"Solid Kitchen Investment, Needs Some Fine-tuning"
+rev_000832,1a283eac-c55d-4faf-98bc-6fc901917667,Microwave Oven,Kitchen Appliances,,2024-12-28,2025-01-21,4,Reliable Kitchen Companion
+rev_000833,7b189680-0496-4384-bd94-8152cea9a0cd,Asus ZenBook,Laptops,Colin Khan,2023-11-16,2023-11-20,5,ZenBook: The Perfect Mobile Studio
+rev_000834,3286075b-9bd7-44eb-afb0-dc792d2ccd67,Steam Deck,Gaming Consoles,Maureen Gregory,2025-01-15,2025-01-28,5,A Game Changer in Portable Gaming
+rev_000835,9d61ec60-82ee-44ae-b23a-9ddd53af2781,Sony Bravia,TVs,Megan Cross,2023-12-14,2024-01-06,5,Simply Stunning Visual Experience!
+rev_000836,037aa4e4-ab32-4708-b9f1-675e1e3cc01f,OnePlus 10,Smartphones,Laurie Wiggins,2021-10-31,2021-11-15,4,"Great Performance, Slight Battery Life Concerns"
+rev_000837,426e0c42-3382-4ed7-b527-375f073cd0bd,Bed Frame,Furniture,Cynthia Chapman,2024-02-01,2024-02-12,5,Dreamy Slumber Awaits!
+rev_000838,f9e2bc32-58dd-4cb8-991c-49a783fb9c6f,Ring Doorbell,Smart Home Devices,Christina Clark,2023-07-14,2023-07-24,5,A Secure Welcome Home with Ring Doorbell
+rev_000839,91f95abc-c9c4-4370-b652-96935e4879ec,Curtains,Unknown Category,Michael Rodriguez,2025-02-07,2025-02-10,4,Quality Nan Curtains - A Solid Choice for Modern Homes
+rev_000840,3fd6341c-40d9-4e8c-80cf-a9021bfb8b0f,Table Lamp,Home Decor,Lori Bautista,2023-07-03,2023-07-25,5,Stunning Table Lamp Transforms My Living Space!
+rev_000841,8c82cd8f-3d64-4171-87b6-336816891a5f,Sony Soundbar,Audio Equipment,Sharon Johnson,2022-08-16,2022-08-30,3,"Decent Sound, Poor Setup Experience"
+rev_000842,fc05eaae-21f9-4629-9cc2-99b181c4b628,Asus ZenBook,Laptops,Wendy Warner,2021-08-10,2021-08-26,4,"ZenBook Provems Perfect for Work, Some Quirks Remain"
+rev_000843,223dec46-1e22-4adc-979a-4b0c6c555def,Curtains,Home Decor,Randy Wolfe,2023-11-14,2023-11-24,3,"Good Curtains, but Quality Could Be Better"
+rev_000844,62087c9e-16f7-4786-bf9b-811ac0d0c590,Asus ZenBook,Laptops,Thomas Mason,2022-12-03,2023-01-01,4,"A Solid Performer, Could Use a Little Tweak"
+rev_000845,cda66ed6-e11c-48e4-bcc1-9e6d6b7c8aef,Google Nest,Smart Home Devices,Kathy Heath,2022-09-07,2022-09-17,4,Nesting Comfortably in My Smart Home
+rev_000846,79177170-a532-4925-9860-078e6ec7ff5b,Microwave Oven,Kitchen Appliances,Tyler Wade,2023-11-23,2023-12-05,5,Perfectly Punctual Performer!
+rev_000847,28399c46-9453-43ea-b4cd-4585e2091a36,Asus ZenBook,Laptops,Bobby Mullen,2022-07-23,2022-08-01,5,Unbelievable ZenBook Experience!
+rev_000848,d679781f-c899-4fe2-bb98-20ef3b2c6478,Dishwasher,Kitchen Appliances,Judith Mcmillan,2024-10-30,2024-10-31,5,"Swift, Efficient, and Reliable!"
+rev_000849,93f4704e-e02b-4f16-b7cc-95224ef3d403,Air Fryer,Small Kitchen Appliances,Patricia Clark,2023-08-23,2023-08-28,5,A Game Changer for Healthy Cooking!
+rev_000850,a63a5580-b0be-47e7-be8a-eeb1bf1d7b2d,Smart Thermostat,Smart Home Devices,Stephanie Faulkner,2024-08-12,2024-09-01,4,"Excellent Smart Thermostat, With a Few Hiccups"
+rev_000851,32093299-8b1d-41ab-b792-03d42bf3d456,HP Pavilion,Desktop Computers,Jill Reynolds,2025-02-21,2025-03-01,5,Dream Machine for the Modern Age!
+rev_000852,0e3b8332-b8e9-4531-9de5-3465f9b53a72,Google Pixel 6,Smartphones,Sara Hayes,2024-04-22,2024-05-03,2,Disappointed with the Google Pixel 6
+rev_000853,58476c34-74dc-4740-962f-4353991628f6,Curtains,Home Decor,Henry Terrell,2022-09-23,2022-10-05,4,"Decent curtains, but room for improvement"
+rev_000854,1996dfdd-858a-406a-93fc-ef7217ab8dbe,Bed Frame,Furniture,Edward Phillips,2025-02-11,2025-02-12,4,Sturdy yet Not Perfect Bed Frame
+rev_000855,ee81319a-a934-4884-937b-e1b883daef2f,Webcam,Computer Accessories,Patricia Calderon,2024-12-24,2025-01-18,4,Great Webcam for Home Office!
+rev_000856,e878a8b5-55f9-45d4-a4de-9c93dd07aa26,Refrigerator,Kitchen Appliances,Tina Richardson,2023-12-10,2024-01-01,2,Disappointed with the Performance of My New Fridge
+rev_000857,c1320c6a-f3d4-4980-9049-4ecba74da34b,Bookshelf,Furniture,Troy Lin,2024-08-26,2024-09-15,3,"Solid Construction, But Lacking in Aesthetics"
+rev_000858,79d4975a-8e62-4a50-8064-bda4fbf562bd,Google Pixel 6,Smartphones,Jack Krause,2024-12-07,2025-01-04,4,Impressive yet Quirky Pixel 6 Experience
+rev_000859,e95711d4-ed63-48be-a0d3-96bccdc38216,Asus ZenBook,Laptops,Jennifer Neal,2023-09-27,2023-10-22,5,Perfectly Powerful ZenBook for Work and Creativity
+rev_000860,ffa030ca-c8f7-4e72-afd8-8854edf9a177,OnePlus 10,Smartphones,Joseph Vasquez,2024-12-04,2024-12-15,4,"Decent Improvement, Still Room for Growth"
+rev_000861,0d418bab-5404-40e8-aacd-cb010351f72d,Dishwasher,Kitchen Appliances,Mario Carlson,2024-11-24,2024-11-29,4,Generally Satisfied with the New Dishwasher
+rev_000862,ccb1bdc0-afcb-4beb-8586-2904c38389a5,Google Pixel 6,Smartphones,Lisa Robertson,2021-11-14,2021-11-29,3,Mixed Feelings about the Google Pixel 6
+rev_000863,ad222bb8-b7a9-47a5-b6d0-95df8b8d2b71,Sofa,Furniture,Tammy Marsh,2021-12-15,2021-12-20,5,Absolutely Lovely Modern Sofa!
+rev_000864,38b6807f-e581-4139-abd7-611d45dd237b,Dishwasher,Kitchen Appliances,Margaret Myers,2024-01-15,2024-01-27,4,"Reliable Performer, Needs a Few Tweaks"
+rev_000865,e2050a23-b48a-4bfc-af1b-f5997238ef07,Electric Range,Kitchen Appliances,Christine Haynes,2023-01-25,2023-01-30,3,Mixed Feelings About the New Electric Range
+rev_000866,d1c84488-d212-4b7c-bf57-1f503298256d,Range Hood,Kitchen Appliances,Jeff Gomez,2024-11-19,2024-12-06,4,Decent Range Hood - Could Use Some Improvements
+rev_000867,4822c9bd-d6fa-413c-8f65-d5296d00d4c1,Steam Deck,Gaming Consoles,James Jenkins,2022-12-21,2023-01-07,1,Disappointing Purchase Experience with the Steam Deck
+rev_000868,70ff8e24-6279-4c96-91b4-7e2bbd5927e5,Comforter Set,Bedding,David Moore,2021-11-11,2021-12-05,1,Disappointing Comforter Set
+rev_000869,844fbd4d-55d8-4982-a8c0-1ba030a9375a,HP Pavilion,Desktop Computers,Veronica Davis,2024-06-18,2024-06-30,3,Mixed Feelings About the HP Pavilion
+rev_000870,a942f844-d299-475c-815d-c363fe663ffc,External Hard Drive,Computer Accessories,Jennifer Ibarra,2022-09-05,2022-09-29,2,Disappointing Purchase Experience with the External Hard Drive
+rev_000871,361fb88a-8f5e-446a-a206-89253bdff2ae,iPhone 13,Smartphones,Donna Hood,2024-11-30,2024-12-28,3,Solid Performance but Missing a Few Features
+rev_000872,036f83da-2cb0-4a42-93c0-6006523c3870,Ring Doorbell,Smart Home Devices,Emily Henderson,2024-08-23,2024-09-07,4,A Decent Smart Home Investment
+rev_000873,906c286e-6e71-49ed-be90-5ffb519bb653,Sofa,Furniture,Dennis Collins,2024-01-27,2024-02-11,5,Comfort at its Best - My New Sofa!
+rev_000874,396338c4-7724-4c2a-a582-2ca5b1eb3cd1,Area Rug,Home Decor,Rebekah Smith,2024-10-30,2024-11-05,4,"Beautifully Crafted, Yet Slightly Smaller Than Expected"
+rev_000875,be6b22b7-1f1b-4dcf-a89b-9b075f27260a,Coffee Maker,Small Kitchen Appliances,Michelle Arellano,2024-12-29,2025-01-10,4,"Efficient Brewer, Needs Some Tweaks"
+rev_000876,83d0c8b0-17c4-40c7-817b-ed3af113ec47,Oculus Quest,Gaming Consoles,Daniel Ingram,2024-08-08,2024-09-04,4,"Immersive, Yet Needs Improvements"
+rev_000877,a96f0fc1-b65a-4773-85f0-40ba088c9d6e,Electric Range,Kitchen Appliances,Eric Webb,2024-03-27,2024-04-25,5,My New Kitchen Workhorse!
+rev_000878,55f55461-b3bc-48cb-866c-74f4eb91ea50,Curtains,Home Decor,Anthony Washington,2025-02-17,2025-03-09,4,"Pleasant, Yet Durable Window Dressings"
+rev_000879,92a08093-7c51-42c8-af53-d91feff0824d,Knife Set,Cookware,Paul Sullivan,2024-05-06,2024-05-24,2,Disappointed with the Performance
+rev_000880,430e1f91-086c-4f63-9034-26f59dc3f512,Wall Art,Home Decor,Todd Doyle,2022-05-10,2022-05-24,5,Stunning Wall Art Addition to My Space!
+rev_000881,6b7b7d5d-2217-4484-a48e-9102728071d5,Google Nest,Smart Home Devices,Katelyn Watkins,2022-11-10,2022-11-12,3,Mixed Feelings About the Google Nest
+rev_000882,5472e06b-e20a-4efc-bf64-ebfa6af1b309,Smart Thermostat,Smart Home Devices,Tammy Butler,2024-12-31,2025-01-09,4,"A Decent Start, Room for Improvement"
+rev_000883,bf50e25a-26a9-48c3-a338-ae828c8d8d93,OnePlus 10,Smartphones,Daniel Reese,2023-08-07,2023-08-12,4,"Impressive Performance, But Needs More Camera Improvements"
+rev_000884,411f0a82-d156-40e7-8a5b-d216b24aebe1,Lenovo ThinkPad,Laptops,Sarah Hunt,2024-10-13,2024-11-02,5,Lenovo ThinkPad: A Perfect Fit for My Needs!
+rev_000885,5ff3b719-34ea-4f22-ab48-c4ffdc0ac4e6,Wall Art,Home Decor,Lori Berger,2023-11-07,2023-12-03,4,"Lovely Wall Art, Minor Assembly Issues"
+rev_000886,f8993eb9-71f5-42b0-afd4-5782289ef6b3,MacBook Pro,Laptops,Sherry Wiley,2023-09-11,2023-10-10,5,Sherry's Dream Machine!
+rev_000887,d29feb8c-046b-4aab-baba-4b75bd25a4ac,Table Lamp,Home Decor,Jonathan Perez,2024-08-18,2024-08-19,5,Brilliant Lighting Solution
+rev_000888,8536acb9-e847-45d8-9da7-dbc4fbaf5e28,HP Pavilion,Desktop Computers,Kim Bennett,2023-05-09,2023-06-01,3,A Solid Performer with Room for Improvement
+rev_000889,d392367b-9b5f-47f4-8a60-c14898fe6e3e,Bed Frame,Furniture,Patricia Evans,2024-06-01,2024-06-04,4,"Comfortable Modern Touch, But Assembly Challenges"
+rev_000890,cb60e2c6-7dc4-4e7d-892d-06735666c486,Electric Range,Kitchen Appliances,Catherine Peterson,2024-02-13,2024-02-19,4,"Impressive Electric Range Performance, Minor Setbacks"
+rev_000891,a7eefd35-ca38-4337-9047-9a2dc4fea105,iPhone 13,Smartphones,Beverly White,2023-10-22,2023-10-27,4,"A Solid Improvement, Yet Room for More"
+rev_000892,93abf46f-6d3e-4335-a213-8377f923dfc6,Audio-Technica Turntable,Audio Equipment,Phillip Robertson,2023-05-20,2023-06-10,4,"Solid Performance, Room for Improvement"
+rev_000893,ff5071e6-8c8f-4cc2-92d1-c745a7734a57,Google Pixel 6,Smartphones,Michael Hooper,2021-06-21,2021-07-18,5,Incredible Upgrade with Google Pixel 6!
+rev_000894,d465c005-94fa-4449-a1ff-412d6f726315,Coffee Maker,Small Kitchen Appliances,Erika Swanson,2024-09-26,2024-10-01,5,Absolutely Delighted with My New Coffee Maker!
+rev_000895,68e7bf8b-61ee-4ee9-8e70-f1e23ac4924d,Office Desk,Furniture,Dillon Harrington,2023-04-27,2023-04-28,5,Perfect Addition to My Home Office
+rev_000896,8d5991c9-b954-4675-a440-dfc1c443cea0,Curtains,Home Decor,Terri Johnson,2023-12-11,2023-12-28,4,"Pleasing Curtains, Room for Improvement"
+rev_000897,c675ffa3-6348-41b8-8597-1896e8eacaed,Google Pixel 6,Smartphones,Greg Brown,2023-05-25,2023-06-13,5,"Impressive Performance, Superior Camera Quality - Google Pixel 6"
+rev_000898,4aa4f970-3bda-4704-9a0b-737bb2045dd6,iPhone 13,Smartphones,Katherine Rollins,2024-08-09,2024-08-23,5,A Phenomenal Upgrade!
+rev_000899,e5ee1343-cd96-4543-b490-ee3d6d1b585b,Amazon Echo,Smart Home Devices,Louis Castillo,2023-08-12,2023-08-24,5,Worth Every Penny for Convenience and Entertainment!
+rev_000900,1da7d2e2-192a-4dab-9f5e-0c2e71b894d5,Bose Headphones,Audio Equipment,Ariana Hicks,2024-10-04,2024-10-14,1,Disappointing Purchase - Bose Headphones
+rev_000901,74548b02-dee4-4156-a4e2-90d64b0b4c09,Google Nest,Smart Home Devices,,2021-10-11,2021-10-31,5,Google Nest - A Game Changer for My Smart Home!
+rev_000902,fdab20ff-0fce-4a35-ad7d-6cd07c8ddd98,Bose Headphones,Audio Equipment,John Nielsen,2023-01-04,2023-01-25,2,Disappointing Sound Quality for Bose Headphones
+rev_000903,9c05e86c-df5e-4f95-8271-5072c56804f4,Range Hood,Kitchen Appliances,Tina Torres,2023-12-02,2023-12-20,4,"Functional, Yet Stylish Range Hood!"
+rev_000904,79177170-a532-4925-9860-078e6ec7ff5b,Bookshelf,Furniture,Tyler Wade,2023-08-14,2023-09-07,2,Disappointing Assembly Experience
+rev_000905,465901d4-f996-440e-afbd-8ca9f651bef8,Steam Deck,Gaming Consoles,John Cuevas,2023-07-20,2023-08-16,5,Game Changer in Portable Gaming!
+rev_000906,106b91ed-587c-4007-a6c6-aa23d47b7190,Smart Thermostat,Smart Home Devices,Isaiah Young,2022-09-16,2022-09-27,5,My New Smart Home Savior!
+rev_000907,88f5d918-9a2e-4318-a877-a34ed4becd32,Bookshelf,Furniture,David Estrada,2023-08-25,2023-08-27,3,"Decent Build Quality, Poor Assembly Instructions"
+rev_000908,021db553-a727-4b9b-9219-97e20d6127f8,,Kitchen Appliances,Jamie Love,2024-08-12,2024-09-06,4,Quite Impressed with nan!
+rev_000909,a62fc5d5-19f1-432a-907c-19da24451060,Electric Range,Kitchen Appliances,Tony Key,2024-01-10,2024-01-28,4,Solid Performer with a Few Quirks
+rev_000910,a2e072b1-ce88-4049-8e58-27851c89b9ae,OnePlus 10,Smartphones,Nathan David,2024-10-07,2024-11-05,4,"A Solid Smartphone Experience, but Room for Improvement"
+rev_000911,498e0d46-8130-46e4-b997-cf74a400dcd1,Xbox Series X,Gaming Consoles,James Nichols,2022-12-14,2023-01-08,3,Xbox Series X - A Solid Gaming Console with Room for Improvement
+rev_000912,c431c5bb-410c-4683-a9bc-4450f879211d,Philips Hue Lights,Smart Home Devices,Julia Perry,2024-12-15,2024-12-22,4,"A Splendid Addition to My Smart Home, Yet Room for Improvement"
+rev_000913,6b38bc1e-89e2-48f3-9706-93e59e78ed12,Coffee Maker,Small Kitchen Appliances,Paul Ramos,2021-12-14,2022-01-07,5,Brewing Perfect Cups Every Time!
+rev_000914,88c3c83e-4125-4bac-8fcc-ec511590a549,,Smartphones,Olivia Mendoza,2024-09-20,2024-10-05,2,Disappointing Purchase Experience
+rev_000915,36e06abc-10a6-44aa-86cc-4286d90c6b59,Office Desk,Furniture,Debbie Bailey,2021-10-13,2021-10-24,2,Disappointing Assembly Experience
+rev_000916,5b995f05-fa4e-4f78-a285-3118321b5ffa,TCL Roku TV,TVs,Dana Taylor,2021-08-07,2021-08-25,4,Solid Smart TV for its Price Range
+rev_000917,869a1228-12b0-4d47-8593-ec317f44e512,Table Lamp,Home Decor,Sean Williams,2024-12-14,2025-01-06,5,A Perfect Addition to My Home Decor
+rev_000918,6852f4dd-a4ed-4fa9-9ae7-d3d023a18a8e,iPhone 13,Smartphones,Susan Smith,2022-07-26,2022-08-07,5,A Game Changer!
+rev_000919,5407c15c-a68c-4660-bf87-99ba9ab66fbb,Range Hood,Kitchen Appliances,James Shields,2024-01-23,2024-01-29,5,Impressive Range Hood Performance and Design!
+rev_000920,cfafdefb-105d-46d2-9156-620793d80053,Area Rug,Home Decor,Sabrina Newman,2022-12-07,2022-12-27,4,"A Decent Addition to My Living Room, but a Few Inconveniences"
+rev_000921,63069450-fbe2-4600-aa8a-6f08182be265,LG OLED TV,TVs,Tony Wilson,2024-03-29,2024-04-21,4,"Impressive Visual Experience, Some Control Issues"
+rev_000922,5c62f83c-4e3d-48bb-b71d-2fec968b3d6a,Xiaomi Mi 12,Smartphones,,2023-02-02,2023-02-15,1,Disappointing Mi 12 Experience
+rev_000923,4dbb831c-5969-4985-b16f-c3ff5d13fa53,Samsung Galaxy S22,Smartphones,Danielle Hernandez,2024-10-06,2024-10-26,5,A Stellar Upgrade - Samsung Galaxy S22!
+rev_000924,7d8ca7f9-53b5-4873-ab94-b3dbc1daf4a3,iMac,Desktop Computers,Amy Dixon,2024-07-31,2024-08-16,5,Perfect Workstation for a Creative Professional
+rev_000925,aa685f0f-66d9-4f22-bd9d-dd3c262adc0f,Toaster,Small Kitchen Appliances,Tammy Donaldson,2024-11-01,2024-11-19,5,Perfectly Golden Slices Every Time!
+rev_000926,14fe04e5-1bb2-4eb2-8223-7b6a08ff991a,Refrigerator,Kitchen Appliances,Laura Barton,2024-11-24,2024-12-04,5,Brilliantly Efficient and Stylish Addition to My Kitchen!
+rev_000927,483977d6-59a3-4d37-acfe-4ae889bad936,Microsoft Surface,Tablets,Katherine Guerrero,2024-05-26,2024-06-23,5,A New Work Companion I Adore!
+rev_000928,8e5b8357-d8f7-45a5-a5c8-ffa5c8848062,Samsung Galaxy S22,Smartphones,Scott Murphy,2024-11-20,2024-12-13,3,Mixed Feelings about the Samsung Galaxy S22
+rev_000929,4d279cbf-3be8-4b04-87be-0a55082ff478,Philips Hue Lights,Smart Home Devices,Mark Mitchell,2023-09-24,2023-10-02,5,Perfect Ambiance Control with Philips Hue Lights!
+rev_000930,4958c3f4-a361-467e-abf3-8240fb3b0e61,Electric Range,Kitchen Appliances,Margaret Liu,2022-08-10,2022-08-28,2,Disappointing Performance for an Electric Range
+rev_000931,a2dd7506-87b0-4ad6-a696-e279e1b91f28,Philips Hue Lights,Smart Home Devices,John Gallegos,2024-12-03,2024-12-24,4,"Impressive, but Needs Minor Improvements"
+rev_000932,c214ec75-3eed-45e7-888a-b4d749ec582e,Microwave Oven,Kitchen Appliances,Nathan Bryan,2025-02-18,2025-02-19,3,"Functional, But Lacks Convenience Features"
+rev_000933,1d605578-3a44-4102-91e1-fa6ff7da781d,TCL Roku TV,TVs,Brian Elliott,2024-12-24,2025-01-16,1,Disappointing Purchase - TCL Roku TV
+rev_000934,03c713f9-03ff-440e-8a85-464ecd85c988,Dining Table,Furniture,Rachel Castillo,2024-11-12,2024-11-20,4,Sturdy Yet Modern Dining Table Purchase
+rev_000935,867129aa-6c66-4f66-86ae-4240d1b4ce20,Area Rug,Home Decor,Troy Marks,2021-05-08,2021-06-06,4,"A Serviceable Addition to the Living Room, Could Be Better"
+rev_000936,eee3fcfe-26a9-432c-be00-9929e97506e6,Mechanical Keyboard,Computer Accessories,Rebecca Hartman,2021-12-23,2021-12-29,4,"A Solid Typing Experience, With Some Hiccups"
+rev_000937,4ebb409c-95d2-4a24-8b3f-a623a322dd5f,Audio-Technica Turntable,Audio Equipment,Shawn Lewis,2022-11-08,2022-11-13,4,A Solid Starter Turntable with Room for Improvement
+rev_000938,9c367032-e1ea-45f9-9037-423dd284847d,Toaster,Small Kitchen Appliances,Misty Blankenship,2024-10-19,2024-11-03,2,Disappointing Toaster Experience
+rev_000939,d75114ad-5343-4b34-b8e2-8a297a01d4be,Electric Range,Kitchen Appliances,Cathy Fisher,2024-05-31,2024-06-22,3,"Decent Performance, Room for Improvements"
+rev_000940,4c8ac31d-14e7-4821-b728-b90a2b9a29fe,Google Pixel 6,Smartphones,Andrew Singh,2024-07-21,2024-08-05,4,"A Solid Performer, but Room for Improvement"
+rev_000941,85c350d2-78b2-4e8b-ac3d-22548bb1d7b5,Bose Headphones,Audio Equipment,Anthony Riley,2024-04-11,2024-04-13,4,"Quality Sound, Slightly Overpriced"
+rev_000942,64652270-e041-4602-8a1c-a5db6dafe877,Dishwasher,Kitchen Appliances,Edward Jarvis,2023-12-20,2023-12-21,5,A Game Changer in My Kitchen!
+rev_000943,950de4ff-5e6b-40ec-8870-54282db312e2,Cookware Set,Cookware,Doris Harris,2023-01-15,2023-02-07,5,Perfect Addition to My Kitchen!
+rev_000944,7ea07c70-5df5-4b29-8e6c-1a2379721ce6,Philips Hue Lights,Smart Home Devices,Carolyn Collins,2021-08-31,2021-09-23,5,Pure Magic in Every Corner - Philips Hue Lights
+rev_000945,d7996171-2692-4cb6-a11b-0ba9b8cb0e74,Philips Hue Lights,Smart Home Devices,Patrick Sawyer,2022-09-18,2022-10-14,5,A Game Changer in My Smart Home Journey
+rev_000946,b8099879-095e-4cd8-8ee7-eb90a1ad06b9,Asus ZenBook,Laptops,Jessica James,2024-12-30,2025-01-10,4,Decent Powerhouse for a Reasonable Price
+rev_000947,31666a09-f95b-4d08-9467-2b483f932cdc,Refrigerator,Kitchen Appliances,Amy Hunter,2024-03-27,2024-04-06,5,Reliable Workhorse in the Heart of My Kitchen
+rev_000948,b95e1192-b63f-491a-bf1c-5b353c77ef51,Wall Art,Home Decor,David Mcneil,2024-10-13,2024-10-31,4,"Stylish Wall Art, Needs Improved Packaging"
+rev_000949,867129aa-6c66-4f66-86ae-4240d1b4ce20,Oculus Quest,Gaming Consoles,Troy Marks,2022-03-23,2022-04-10,4,"Immersive VR Experience, but Room for Improvement"
+rev_000950,2735b3c8-58e4-408a-9e36-3f03ff54c189,Dining Table,Furniture,Jesse Ruiz,2024-07-19,2024-08-05,5,Perfect Fit for Our Space!
+rev_000951,a14cab32-4fee-442a-96f2-0dfe76333e0f,Google Pixel 6,Smartphones,Roger Palmer,2022-12-12,2023-01-07,4,"Impressive, but missing the mark in a few areas"
+rev_000952,c22ce6ca-e119-4c56-aafd-91c84a5396b6,Dining Table,Furniture,Jason Johnson,2024-09-17,2024-09-25,5,Exceptional Dining Experience Enhanced!
+rev_000953,fe3e986d-30ad-4a70-b538-842f54c79170,Xiaomi Mi 12,Smartphones,Logan Yoder,2020-12-09,2020-12-24,5,"Incredible Performance, Amazeball!"
+rev_000954,c5fb77d6-4c6a-4f3a-aedf-e147aad3f000,Lenovo Tab,Tablets,Deborah Jarvis,2024-03-14,2024-03-22,5,Lenovo Tab - A Perfect Companion for Work and Play!
+rev_000955,f7697223-681c-4772-9fbe-0bdb7a791039,Dishwasher,Kitchen Appliances,Tammy Lawrence,2024-12-30,2025-01-16,5,Exceptional Dishwasher Experience!
+rev_000956,9808bff4-f705-4788-b94a-7b873316375d,Sony Soundbar,Audio Equipment,Robert Stanton,2024-12-10,2024-12-22,4,"Great Sound, Missing Some Features"
+rev_000957,929aa605-4532-44f7-b45f-8795bb106865,Curtains,Home Decor,Lisa Turner,2022-11-12,2022-12-09,4,"Pleasingly Practical Curtains, Room for Improvement"
+rev_000958,42ed1278-2c2d-4b22-9442-688a5dd26bae,Microwave Oven,Kitchen Appliances,Sandra Dunn,2023-06-15,2023-06-23,4,"Decent Microwave, Needs Some Improvements"
+rev_000959,750d5dcb-0d6d-45a4-91ff-f0d9e521ad63,MacBook Pro,Laptops,Mark Henson,2023-07-19,2023-08-13,4,"Impressive Performance, Room for Improvement in Portability"
+rev_000960,07336d51-5219-4671-b27a-8a651effa887,Google Nest,Smart Home Devices,Nancy Campos,2023-01-26,2023-02-09,5,Google Nest - A Game Changer for My Home!
+rev_000961,4badee81-6f4d-40b0-806b-f983d533632b,Samsung Galaxy Tab,Tablets,Taylor Tran,2024-09-07,2024-09-11,5,Samsung Galaxy Tab - A Game Changer for My Digital Life
+rev_000962,20a2c32e-4387-4fa9-b44e-42413369b094,Sofa,Furniture,Stephen Lee,2023-12-23,2023-12-24,5,Incredible Comfort and Stylish Addition to My Home!
+rev_000963,881e9d1a-7cad-4dde-b071-f2431a23df26,Dutch Oven,Cookware,Mary Garcia,2022-04-30,2022-05-01,4,Perfect Dutch Oven for Versatile Cooking!
+rev_000964,1fcad74e-2c52-45f0-af8e-125ec1324a73,Asus ZenBook,Laptops,Adam Key,2023-10-01,2023-10-20,3,"Solid Performance, Questionable Design Choices"
+rev_000965,b14ef2f2-9a4b-4326-9e8d-61fcb5ef8fc4,PlayStation 5,Gaming Consoles,Hannah Armstrong,2023-10-14,2023-10-30,4,Nearly Perfect Gaming Experience!
+rev_000966,424ebf51-8a44-499d-86b7-f99b37cdc3be,Office Desk,Furniture,Shawn Griffin,2023-12-31,2024-01-14,3,"Decent, but could be better"
+rev_000967,b1cfc6e2-9171-4638-8cdd-2ea9143f4b20,Range Hood,Kitchen Appliances,Crystal Brown,2021-10-03,2021-10-24,5,A Game Changer in My Kitchen!
+rev_000968,e9bd1176-329a-4737-9444-bfe8e8bd1dee,Dell Inspiron Desktop,Desktop Computers,Chris Reyes,2024-07-03,2024-07-19,4,Decent Performance with a Few Hiccups
+rev_000969,dbf056eb-e4f1-401d-943f-c090ff0857d3,Table Lamp,Home Decor,Debra Craig,2024-11-07,2024-11-12,3,A Decent Table Lamp but Room for Improvement
+rev_000970,b320a1d9-0a2a-4568-8a94-977b3acea484,USB-C Hub,Computer Accessories,Adam White,2024-07-12,2024-07-21,1,Broken Promises - USB-C Hub Disappointment
+rev_000971,694e3e7f-8924-495d-98ba-312cba6ebd30,HP Spectre,Laptops,Alexandra Schmidt,2023-01-11,2023-02-06,5,HP Spectre: A True Workhorse for Creativity and Productivity
+rev_000972,4dc60f56-0e6f-4b90-9df6-db7f09de8024,Smart Thermostat,Smart Home Devices,Katherine Silva,2024-01-06,2024-02-03,5,Perfect addition to my smart home!
+rev_000973,d0202e91-7207-47e3-9502-98825ae15138,Steam Deck,Gaming Consoles,Melissa Brown,2022-06-19,2022-06-21,4,"A Decent Portable Gaming Solution, but Could Use Some Improvements"
+rev_000974,6639b4f4-e5c7-4ebd-9288-ffc603e2a36e,iPhone 13,Smartphones,Christopher Smith,2023-12-13,2023-12-31,2,Disappointing Battery Life Ruins iPhone 13 Experience
+rev_000975,2d24c861-1ac8-4fe4-97de-94461c5449a1,Dell XPS 15,Laptops,Meagan Morrison,2022-11-17,2022-11-23,4,A Powerful Workhorse with Room for Improvement
+rev_000976,2d15bb84-c191-4490-be64-22d8009797b1,USB-C Hub,Computer Accessories,Justin Walker,2022-04-18,2022-04-27,4,"Solid Multi-Functionality, but Some Issues with Stability"
+rev_000977,b782f3e9-c3ba-4cd8-8681-d58c4e9d40be,Vizio SmartCast TV,TVs,Mark Lee,2024-11-22,2024-11-23,5,Brilliant SmartTV Upgrade!
+rev_000978,7efb4b9f-7782-4322-8fd1-55abd9c9f2ce,JBL Bluetooth Speaker,Audio Equipment,Melissa King,2023-06-11,2023-06-20,5,Crystal Clear Sound in Every Room!
+rev_000979,53598d8c-3a01-47bb-abee-38f64a4e8d6d,Webcam,Computer Accessories,Jamie Smith,2024-11-29,2024-12-24,4,Decent Quality Webcam for Home Office Use
+rev_000980,80e1373b-23c0-4033-adb0-009f796cfc93,Blender,Small Kitchen Appliances,Margaret Scott,2022-12-25,2023-01-10,3,Mixed Feelings about the BlendMaster 3000
+rev_000981,14fe04e5-1bb2-4eb2-8223-7b6a08ff991a,TCL Roku TV,TVs,Laura Barton,2021-12-15,2021-12-28,5,Absolutely Love My New TCL Roku TV!
+rev_000982,4082b5d6-a524-47e0-9a1f-1307d40afe0c,Xbox Series X,Gaming Consoles,Frank Welch,2023-10-22,2023-10-31,4,"Impressive Power, Room for Improvement in Usability"
+rev_000983,1d5f7dcf-3e62-4281-86b2-ddf0b5dfc406,TCL Roku TV,TVs,Catherine Brooks,2023-10-20,2023-11-10,5,Impressed by the TCL Roku TV!
+rev_000984,502780d0-2cc6-47f6-ba73-7763a8047367,Google Nest,Smart Home Devices,Trevor Nichols,2024-08-30,2024-09-12,3,"Decent Smart Home Hub, But Room for Improvement"
+rev_000985,3e704f9d-46f7-4b86-a849-36324119649b,Xiaomi Mi 12,Smartphones,James Petty,2022-02-12,2022-02-21,4,"Impressive Performance, But Battery Life Could Be Better"
+rev_000986,bf01a65c-7f63-484d-b5ff-a11ee30221f7,Refrigerator,Kitchen Appliances,Jeffery Garcia,2024-12-10,2024-12-21,1,Disappointing Purchase - LG GSLX2896SZ Refrigerator
+rev_000987,eca0551d-19da-4c17-bd8b-35190c3fc3e4,Samsung Galaxy S22,Smartphones,Melissa Davis,2021-11-23,2021-11-27,4,"Impressive Performance, Yet Familiar Design"
+rev_000988,493a6ff5-2f32-4422-8456-bc508f437440,Dishwasher,Kitchen Appliances,Brian Powell,2024-09-04,2024-09-06,5,"Efficient, Reliable, and Easy to Use - A Game Changer in My Kitchen!"
+rev_000989,22ab606f-e923-4864-a610-b5d9959cb84f,Sonos Speaker,Audio Equipment,Edward Taylor,2024-03-06,2024-04-04,4,"Sonos Speaker - Impressive Sound Quality, Could Use Improvements in Connectivity"
+rev_000990,4b162f5e-786a-4148-83a1-780aaebf69d2,Oculus Quest,Gaming Consoles,Melvin Kelley,2025-01-17,2025-01-23,2,Disappointed with the Oculus Quest
+rev_000991,88c3c83e-4125-4bac-8fcc-ec511590a549,Office Desk,Furniture,Olivia Mendoza,2024-03-01,2024-03-15,2,Disappointing Desk Delivery Experience
+rev_000992,b9365eae-8e04-48b0-9701-83d9c508f2a2,Sofa,Furniture,Bonnie Martinez,2024-10-29,2024-11-02,4,A Comfortable Addition to the Living Room
+rev_000993,104d4d5b-c2ee-48cf-96b7-57e396c463aa,Curtains,Home Decor,Zachary Galvan,2022-03-12,2022-03-18,3,"A Decent Set of Curtains, but Room for Improvement"
+rev_000994,d0a3978a-2418-4ef5-a559-1f93fcabedf0,Knife Set,Cookware,Bryan Hernandez,2022-04-20,2022-05-09,1,Disappointing Quality for Such a High Price
+rev_000995,639eea75-7627-4f18-8c12-59dee0824d41,Throw Pillows,Home Decor,Kathleen Tate,2023-09-22,2023-09-28,5,Absolutely Gorgeous Addition to My Living Room!
+rev_000996,2ca6801a-dc4c-46fa-8135-1cb240173438,Electric Range,Kitchen Appliances,Lawrence Rose,2021-09-04,2021-09-06,4,Decent Electric Range but Needs Some Adjustments
+rev_000997,b48a215a-c028-4e93-899b-bf12f6e303cc,Office Desk,Furniture,John Lee,2022-02-15,2022-03-05,4,Sturdy but Lacks Aesthetics
+rev_000998,4a1e278e-b844-4c0a-b20a-523dac758580,Office Desk,Furniture,Patrick Gonzales,2024-12-19,2025-01-01,5,A Solid Investment for the Home Office
+rev_000999,fd229743-56d5-480c-8f8b-b4775958e755,Google Pixel 6,Smartphones,David Sweeney,2021-12-26,2022-01-04,3,Mixed Feelings about the Google Pixel 6
+rev_001000,e058a5e6-39ed-4f34-b7ee-f38f8a2ca160,Sony Soundbar,Audio Equipment,Randy Burke,2024-07-20,2024-08-12,5,Sony Soundbar - An Audiophile's Dream Realized
